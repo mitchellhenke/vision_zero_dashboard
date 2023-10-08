@@ -2,14 +2,40 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   use Mix.Task
 
   def run(args) do
-    HTTPoison.start()
-    current_year = NaiveDateTime.utc_now().year
-    last_year = current_year - 1
-    current_year_data = get_data(current_year)
-    last_year_data = get_data(last_year)
+    {options, _, _} =
+      OptionParser.parse(args, switches: [years: :string, download: :boolean])
 
-    process_and_write_data(current_year_data, current_year)
-    process_and_write_data(last_year_data, last_year)
+    years =
+      Keyword.get(options, :years, "2022,2023")
+      |> String.split(",")
+      |> Enum.map(&String.to_integer/1)
+
+    download =
+      Keyword.get(options, :download, false)
+
+    data =
+      if download do
+        HTTPoison.start()
+
+        Enum.map(years, fn year ->
+          data =
+            get_data(year)
+            |> process_and_write_data(year)
+
+          {:year, data}
+        end)
+      else
+        Enum.map(years, fn year ->
+          data = read_data(year)
+          {:year, data}
+        end)
+        |> Enum.into(%{})
+      end
+  end
+
+  def read_data(year) do
+    File.read!("_public/data/#{year}.json")
+    |> Jason.decode!()
   end
 
   def process_and_write_data(data, year) do
@@ -55,6 +81,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
 
     File.write!("_public/data/#{year}.json", Jason.encode!(data))
+    data
   end
 
   def get_data(year) do
