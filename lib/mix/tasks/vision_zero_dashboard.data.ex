@@ -2,11 +2,13 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   use Mix.Task
 
   def run(args) do
+    current_year = 2023
+    last_year = 2022
     {options, _, _} =
       OptionParser.parse(args, switches: [years: :string, download: :boolean])
 
     years =
-      Keyword.get(options, :years, "2022,2023")
+      Keyword.get(options, :years, "#{last_year},#{current_year}")
       |> String.split(",")
       |> Enum.map(&String.to_integer/1)
 
@@ -80,16 +82,18 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           year: get_in(feature, ["properties", "date"]).year,
           total_fatalities: get_in(feature, ["properties", "totfatl"]),
           total_injuries: get_in(feature, ["properties", "totinj"]),
+          bike: get_in(feature, ["properties", "bikeflag"]) == "Y",
+          pedestrian: get_in(feature, ["properties", "pedflag"]) == "Y",
           severity: get_in(feature, ["properties", "injsvr"]),
           at_roadway: get_in(feature, ["properties", "atrdwy"]),
           on_roadway: get_in(feature, ["properties", "onrdwy"]),
-          "65+_driver": get_in(feature, ["properties", "65+drvr"]),
-          construction_zone: get_in(feature, ["properties", "conszone"]),
-          distracted: get_in(feature, ["properties", "distrctd"]),
-          impaired: get_in(feature, ["properties", "impaired"]),
-          occupant_protection: get_in(feature, ["properties", "occpprot"]),
-          speeding: get_in(feature, ["properties", "speedflag"]),
-          teen_driver: get_in(feature, ["properties", "teendrvr"]),
+          "65+_driver": get_in(feature, ["properties", "65+drvr"]) == "Y",
+          construction_zone: get_in(feature, ["properties", "conszone"]) == "Y",
+          distracted: get_in(feature, ["properties", "distrctd"]) == "Y",
+          impaired: get_in(feature, ["properties", "impaired"]) == "Y",
+          occupant_protection: get_in(feature, ["properties", "occpprot"]) == "Y",
+          speeding: get_in(feature, ["properties", "speedflag"]) == "Y",
+          teen_driver: get_in(feature, ["properties", "teendrvr"]) == "Y",
           municipality: get_in(feature, ["properties", "muniname"]),
           county: get_in(feature, ["properties", "cnytname"]),
           alder_district: district,
