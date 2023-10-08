@@ -40,6 +40,56 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
         end)
         |> Enum.into(%{})
       end
+
+    current_year_serious_crashes =
+      Map.fetch!(data, current_year)
+      |> Enum.filter(fn crash ->
+        Map.fetch!(crash, :severity) in ["K", "A"]
+      end)
+
+    current_year_ped_fatalities =
+      Enum.filter(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :pedestrian)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    current_year_ped_severe_injuries =
+      Enum.filter(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :pedestrian)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+    current_year_bike_fatalities =
+      Enum.filter(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :bike)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    current_year_bike_severe_injuries =
+      Enum.filter(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :bike)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+
+    html = File.read!("_public/index.html")
+           |> String.replace(~r|<p id="bicyclist-injuries">\d+</p>|, "<p id=\"bicyclist-injuries\">#{current_year_bike_severe_injuries}</p>")
+           |> String.replace(~r|<p id="bicyclist-fatalities">\d+</p>|, "<p id=\"bicyclist-fatalities\">#{current_year_bike_fatalities}</p>")
+           |> String.replace(~r|<p id="pedestrian-injuries">\d+</p>|, "<p id=\"pedestrian-injuries\">#{current_year_pedestrian_severe_injuries}</p>")
+           |> String.replace(~r|<p id="pedestrian-fatalities">\d+</p>|, "<p id=\"pedestrian-fatalities\">#{current_year_pedestrian_fatalities}</p>")
+    File.write!("_public/index.html", html)
   end
 
   def read_data(year) do
