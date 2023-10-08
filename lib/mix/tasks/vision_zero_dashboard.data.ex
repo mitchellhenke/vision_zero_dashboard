@@ -61,6 +61,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           |> update_in(["properties", "totinj"], &String.to_integer/1)
 
         %{
+          id: Map.fetch!(feature, "id"),
           date: get_in(feature, ["properties", "date"]),
           year: get_in(feature, ["properties", "date"]).year,
           total_fatalities: get_in(feature, ["properties", "totfatl"]),
@@ -79,7 +80,9 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           county: get_in(feature, ["properties", "cnytname"])
         }
       end)
+      |> Enum.sort_by(&Map.fetch!(&1, :id))
 
+    File.write!("data/#{year}.json", Jason.encode!(data, pretty: true))
     File.write!("_public/data/#{year}.json", Jason.encode!(data))
     data
   end
