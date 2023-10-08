@@ -77,7 +77,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           speeding: get_in(feature, ["properties", "speedflag"]),
           teen_driver: get_in(feature, ["properties", "teendrvr"]),
           municipality: get_in(feature, ["properties", "muniname"]),
-          county: get_in(feature, ["properties", "cnytname"])
+          county: get_in(feature, ["properties", "cnytname"]),
+          coordinates: Enum.join(get_in(feature, ["geometry", "coordinates"]) || [], ",")
         }
       end)
       |> Enum.sort_by(&Map.fetch!(&1, :id))
