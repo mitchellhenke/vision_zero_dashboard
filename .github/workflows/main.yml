@@ -17,6 +17,9 @@ jobs:
   build:
     name: Build and test
     runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
 
     steps:
     - uses: actions/checkout@v3
@@ -27,6 +30,8 @@ jobs:
         otp-version: '26.0'      # [Required] Define the Erlang/OTP version
     - name: 'Setup jq'
       uses: dcarbone/install-jq-action@v2.0.2
+    - name: Setup Pages
+      uses: actions/configure-pages@v3
     - name: Restore dependencies cache
       uses: actions/cache@v3
       with:
@@ -52,21 +57,10 @@ jobs:
         git add data
         git add _public/index.html
         (git diff --cached --quiet || git commit -m 'data update' && git push)
-  deploy:
-    needs: build
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-      - name: Setup Pages
-        uses: actions/configure-pages@v3
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
-        with:
-          path: '_public'
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v2
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v2
+      with:
+        path: '_public'
+    - name: Deploy to GitHub Pages
+      id: deployment
+      uses: actions/deploy-pages@v2
