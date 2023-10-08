@@ -41,8 +41,8 @@ jobs:
       run: mix vision_zero_dashboard.data --download='true' --years='2022,2023'
     - name: Format JSON
       run: |
-        cat ./data/2022.json | jq -S > '$RUNNER_TMP/2022.json' && mv '$RUNNER_TMP/2022.json' ./data/2022.json
-        cat ./data/2023.json | jq -S > '$RUNNER_TMP/2023.json' && mv '$RUNNER_TMP/2023.json' ./data/2023.json
+        cat ./data/2022.json | jq -S > '$RUNNER_TEMP/2022.json' && mv '$RUNNER_TEMP/2022.json' ./data/2022.json
+        cat ./data/2023.json | jq -S > '$RUNNER_TEMP/2023.json' && mv '$RUNNER_TEMP/2023.json' ./data/2023.json
     - name: Commit Data
       run: |
         git config user.email "mitchellhenkebot@users.noreply.github.com"
