@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@uswds/uswds": "^3.6.1",
+    "chart.js": "^4.4.0"
+  },
+  "devDependencies": {
+    "@uswds/compile": "^1.0.0",
+    "esbuild": "0.19.4"
+  }
+}
