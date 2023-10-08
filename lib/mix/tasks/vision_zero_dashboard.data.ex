@@ -10,8 +10,6 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
     process_and_write_data(current_year_data, current_year)
     process_and_write_data(last_year_data, last_year)
-
-    update_html
   end
 
   def process_and_write_data(data, year) do
