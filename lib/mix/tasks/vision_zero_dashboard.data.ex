@@ -15,12 +15,17 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
     data =
       if download do
+        alder_districts =
+          File.read!("./data/alder_districts.geojson")
+          |> Jason.decode!()
+          |> Geo.JSON.decode!()
+
         HTTPoison.start()
 
         Enum.map(years, fn year ->
           data =
             get_data(year)
-            |> process_and_write_data(year)
+            |> process_and_write_data(year, alder_districts)
 
           {:year, data}
         end)
@@ -38,7 +43,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     |> Jason.decode!()
   end
 
-  def process_and_write_data(data, year) do
+  def process_and_write_data(data, year, alder_districts) do
     data =
       Map.get(data, "features")
       |> Enum.filter(fn feature ->
@@ -60,6 +65,15 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           |> update_in(["properties", "totfatl"], &String.to_integer/1)
           |> update_in(["properties", "totinj"], &String.to_integer/1)
 
+        district =
+          with [x, y] <- get_in(feature, ["geometry", "coordinates"]),
+               point <- %Geo.Point{coordinates: {x, y}, srid: 4326},
+               alder when not is_nil(alder) <-
+                 Enum.find(alder_districts.geometries, &Topo.contains?(&1, point)),
+               {:ok, district} <- Map.fetch(alder.properties, "DISTRICT") do
+            district
+          end
+
         %{
           id: Map.fetch!(feature, "id"),
           date: get_in(feature, ["properties", "date"]),
@@ -78,7 +92,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
           teen_driver: get_in(feature, ["properties", "teendrvr"]),
           municipality: get_in(feature, ["properties", "muniname"]),
           county: get_in(feature, ["properties", "cnytname"]),
-          coordinates: Enum.join(get_in(feature, ["geometry", "coordinates"]) || [], ",")
+          alder_district: district,
+          coordinates: get_in(feature, ["geometry", "coordinates"]) || []
         }
       end)
       |> Enum.sort_by(&Map.fetch!(&1, :id))
