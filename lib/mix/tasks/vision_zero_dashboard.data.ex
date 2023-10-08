@@ -4,6 +4,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   def run(args) do
     current_year = 2023
     last_year = 2022
+
     {options, _, _} =
       OptionParser.parse(args, switches: [years: :string, download: :boolean])
 
@@ -29,8 +30,9 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
             get_data(year)
             |> process_and_write_data(year, alder_districts)
 
-          {:year, data}
+          {year, data}
         end)
+        |> Enum.into(%{})
       else
         Enum.map(years, fn year ->
           data = read_data(year)
@@ -75,6 +77,9 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
                {:ok, district} <- Map.fetch(alder.properties, "DISTRICT") do
             district
           end
+
+        {flags, properties} = Map.pop(Map.get(feature, "properties"), "flags")
+        feature = Map.put(feature, "properties", Map.merge(properties, flags))
 
         %{
           id: Map.fetch!(feature, "id"),
