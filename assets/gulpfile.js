@@ -17,6 +17,7 @@ uswds.settings.version = 3;
 * Set as many as you need
 */
 uswds.paths.dist.css = '../_public/css';
+uswds.paths.dist.fonts = '../_public/fonts'
 uswds.paths.dist.theme = './sass/uswds';
 
 /**
@@ -26,3 +27,4 @@ uswds.paths.dist.theme = './sass/uswds';
 exports.init = uswds.init;
 exports.compile = uswds.compile;
 exports.watch = uswds.watch;
+exports.copyFonts = uswds.copyFonts;
