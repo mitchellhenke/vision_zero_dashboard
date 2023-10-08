@@ -47,6 +47,18 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
         Map.fetch!(crash, :severity) in ["K", "A"]
       end)
 
+    current_year_fatalities =
+      Enum.map(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    current_year_severe_injuries =
+      Enum.map(current_year_serious_crashes, fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
     current_year_ped_fatalities =
       Enum.filter(current_year_serious_crashes, fn crash ->
         Map.fetch!(crash, :pedestrian)
@@ -100,6 +112,14 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       |> String.replace(
         ~r|<p id="pedestrian-fatalities">\d+</p>|,
         "<p id=\"pedestrian-fatalities\">#{current_year_ped_fatalities}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="total-injuries">\d+</p>|,
+        "<p id=\"total-injuries\">#{current_year_severe_injuries}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="total-fatalities">\d+</p>|,
+        "<p id=\"total-fatalities\">#{current_year_fatalities}</p>"
       )
 
     File.write!("_public/index.html", html)
