@@ -34,7 +34,7 @@ jobs:
       run: mix compile
     - name: Update Data
       run: mix vision_zero_dashboard.data --download='true' --years='2022,2023'
-    - name: Update Data
+    - name: Commit Data
       run: |
         git config user.email "mitchellhenkebot@users.noreply.github.com"
         git config user.name "Mitchell Henke Bot"
