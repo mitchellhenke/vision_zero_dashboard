@@ -33,7 +33,7 @@ jobs:
     - name: Compile
       run: mix compile
     - name: Update Data
-      run: mix vision_zero_dashboard.data
+      run: mix vision_zero_dashboard.data --download='true' --years='2022,2023'
     - name: Update Data
       run: |
         git add _public/data
