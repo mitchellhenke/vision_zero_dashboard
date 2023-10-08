@@ -83,12 +83,25 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
       |> Enum.sum()
 
+    html =
+      File.read!("_public/index.html")
+      |> String.replace(
+        ~r|<p id="bicyclist-injuries">\d+</p>|,
+        "<p id=\"bicyclist-injuries\">#{current_year_bike_severe_injuries}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="bicyclist-fatalities">\d+</p>|,
+        "<p id=\"bicyclist-fatalities\">#{current_year_bike_fatalities}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="pedestrian-injuries">\d+</p>|,
+        "<p id=\"pedestrian-injuries\">#{current_year_pedestrian_severe_injuries}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="pedestrian-fatalities">\d+</p>|,
+        "<p id=\"pedestrian-fatalities\">#{current_year_pedestrian_fatalities}</p>"
+      )
 
-    html = File.read!("_public/index.html")
-           |> String.replace(~r|<p id="bicyclist-injuries">\d+</p>|, "<p id=\"bicyclist-injuries\">#{current_year_bike_severe_injuries}</p>")
-           |> String.replace(~r|<p id="bicyclist-fatalities">\d+</p>|, "<p id=\"bicyclist-fatalities\">#{current_year_bike_fatalities}</p>")
-           |> String.replace(~r|<p id="pedestrian-injuries">\d+</p>|, "<p id=\"pedestrian-injuries\">#{current_year_pedestrian_severe_injuries}</p>")
-           |> String.replace(~r|<p id="pedestrian-fatalities">\d+</p>|, "<p id=\"pedestrian-fatalities\">#{current_year_pedestrian_fatalities}</p>")
     File.write!("_public/index.html", html)
   end
 
