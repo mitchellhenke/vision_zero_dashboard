@@ -22,6 +22,8 @@ defmodule VisionZeroDashboard.MixProject do
   defp deps do
     [
       {:httpoison, "~> 2.0"},
+      {:geo, "~> 3.5"},
+      {:topo, "~> 1.0"},
       {:jason, "~> 1.0"}
     ]
   end
