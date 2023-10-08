@@ -95,11 +95,11 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       )
       |> String.replace(
         ~r|<p id="pedestrian-injuries">\d+</p>|,
-        "<p id=\"pedestrian-injuries\">#{current_year_pedestrian_severe_injuries}</p>"
+        "<p id=\"pedestrian-injuries\">#{current_year_ped_severe_injuries}</p>"
       )
       |> String.replace(
         ~r|<p id="pedestrian-fatalities">\d+</p>|,
-        "<p id=\"pedestrian-fatalities\">#{current_year_pedestrian_fatalities}</p>"
+        "<p id=\"pedestrian-fatalities\">#{current_year_ped_fatalities}</p>"
       )
 
     File.write!("_public/index.html", html)
