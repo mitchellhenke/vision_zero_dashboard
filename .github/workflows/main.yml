@@ -26,7 +26,7 @@ jobs:
         elixir-version: '1.15.2' # [Required] Define the Elixir version
         otp-version: '26.0'      # [Required] Define the Erlang/OTP version
     - name: 'Setup jq'
-      uses: dcarbone/install-jq-action@v2
+      uses: dcarbone/install-jq-action@v2.0.2
     - name: Restore dependencies cache
       uses: actions/cache@v3
       with:
