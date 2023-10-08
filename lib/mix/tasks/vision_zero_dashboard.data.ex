@@ -34,7 +34,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       else
         Enum.map(years, fn year ->
           data = read_data(year)
-          {:year, data}
+          {year, data}
         end)
         |> Enum.into(%{})
       end
@@ -42,7 +42,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
   def read_data(year) do
     File.read!("_public/data/#{year}.json")
-    |> Jason.decode!()
+    |> Jason.decode!(keys: :atoms)
   end
 
   def process_and_write_data(data, year, alder_districts) do
