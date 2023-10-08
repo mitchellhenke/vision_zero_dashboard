@@ -34,3 +34,8 @@ jobs:
       run: mix compile
     - name: Update Data
       run: mix vision_zero_dashboard.data
+    - name: Update Data
+      run: |
+        git add _public/data
+        git commit -m 'data update'
+        git push
