@@ -40,5 +40,6 @@ jobs:
         git config user.name "Mitchell Henke Bot"
 
         git add _public/data
+        git add data
         git commit -m 'data update'
         git push
