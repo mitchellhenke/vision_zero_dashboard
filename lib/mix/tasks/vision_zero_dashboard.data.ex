@@ -2,8 +2,10 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   use Mix.Task
 
   def run(args) do
-    current_year = 2023
-    last_year = 2022
+    today = Date.utc_today()
+    one_year_ago = Date.add(today, -365)
+    current_year = today.year
+    last_year = one_year_ago.year
 
     {options, _, _} =
       OptionParser.parse(args, switches: [years: :string, download: :boolean])
@@ -47,79 +49,53 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
         Map.fetch!(crash, :severity) in ["K", "A"]
       end)
 
-    current_year_fatalities =
-      Enum.map(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :total_fatalities)
-      end)
-      |> Enum.sum()
+    last_year_serious_crashes_to_date =
+      Map.fetch!(data, last_year)
+      |> Enum.filter(fn crash ->
+        date =
+          Map.fetch!(crash, :date)
+          |> Date.from_iso8601!()
 
-    current_year_severe_injuries =
-      Enum.map(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :total_injuries)
+        Map.fetch!(crash, :severity) in ["K", "A"] &&
+          date.year == last_year && Date.compare(date, one_year_ago) == :lt
       end)
-      |> Enum.sum()
 
-    current_year_ped_fatalities =
-      Enum.filter(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :pedestrian)
-      end)
-      |> Enum.map(fn crash ->
-        Map.fetch!(crash, :total_fatalities)
-      end)
-      |> Enum.sum()
-
-    current_year_ped_severe_injuries =
-      Enum.filter(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :pedestrian)
-      end)
-      |> Enum.map(fn crash ->
-        Map.fetch!(crash, :total_injuries)
-      end)
-      |> Enum.sum()
-
-    current_year_bike_fatalities =
-      Enum.filter(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :bike)
-      end)
-      |> Enum.map(fn crash ->
-        Map.fetch!(crash, :total_fatalities)
-      end)
-      |> Enum.sum()
-
-    current_year_bike_severe_injuries =
-      Enum.filter(current_year_serious_crashes, fn crash ->
-        Map.fetch!(crash, :bike)
-      end)
-      |> Enum.map(fn crash ->
-        Map.fetch!(crash, :total_injuries)
-      end)
-      |> Enum.sum()
+    current_year_summary = calculate_summary(current_year_serious_crashes)
+    last_year_summary = calculate_summary(last_year_serious_crashes_to_date)
 
     html =
       File.read!("_public/index.html")
       |> String.replace(
         ~r|<p id="bicyclist-injuries">\d+</p>|,
-        "<p id=\"bicyclist-injuries\">#{current_year_bike_severe_injuries}</p>"
+        "<p id=\"bicyclist-injuries\">#{current_year_summary.bike_severe_injuries}</p>"
       )
       |> String.replace(
         ~r|<p id="bicyclist-fatalities">\d+</p>|,
-        "<p id=\"bicyclist-fatalities\">#{current_year_bike_fatalities}</p>"
+        "<p id=\"bicyclist-fatalities\">#{current_year_summary.bike_fatalities}</p>"
       )
       |> String.replace(
         ~r|<p id="pedestrian-injuries">\d+</p>|,
-        "<p id=\"pedestrian-injuries\">#{current_year_ped_severe_injuries}</p>"
+        "<p id=\"pedestrian-injuries\">#{current_year_summary.pedestrian_severe_injuries}</p>"
       )
       |> String.replace(
         ~r|<p id="pedestrian-fatalities">\d+</p>|,
-        "<p id=\"pedestrian-fatalities\">#{current_year_ped_fatalities}</p>"
+        "<p id=\"pedestrian-fatalities\">#{current_year_summary.pedestrian_fatalities}</p>"
       )
       |> String.replace(
         ~r|<p id="total-injuries">\d+</p>|,
-        "<p id=\"total-injuries\">#{current_year_severe_injuries}</p>"
+        "<p id=\"total-injuries\">#{current_year_summary.total_severe_injuries}</p>"
       )
       |> String.replace(
         ~r|<p id="total-fatalities">\d+</p>|,
-        "<p id=\"total-fatalities\">#{current_year_fatalities}</p>"
+        "<p id=\"total-fatalities\">#{current_year_summary.total_fatalities}</p>"
+      )
+      |> String.replace(
+        ~r|<p id="total-injuries-percent">-?\d+|,
+        "<p id=\"total-injuries-percent\">#{percent_difference(last_year_summary.total_severe_injuries, current_year_summary.total_severe_injuries)}"
+      )
+      |> String.replace(
+        ~r|<p id="total-fatalities-percent">-?\d+|,
+        "<p id=\"total-fatalities-percent\">#{percent_difference(last_year_summary.total_fatalities, current_year_summary.total_fatalities)}"
       )
 
     File.write!("_public/index.html", html)
@@ -128,6 +104,75 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   def read_data(year) do
     File.read!("_public/data/#{year}.json")
     |> Jason.decode!(keys: :atoms)
+  end
+
+  def calculate_summary(crashes) do
+    total_fatalities =
+      Enum.map(crashes, fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    total_severe_injuries =
+      Enum.map(crashes, fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+    pedestrian_fatalities =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :pedestrian)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    pedestrian_severe_injuries =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :pedestrian)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+    bike_fatalities =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :bike)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    bike_severe_injuries =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :bike)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+    %{
+      total_severe_injuries: total_severe_injuries,
+      total_fatalities: total_fatalities,
+      pedestrian_severe_injuries: pedestrian_severe_injuries,
+      pedestrian_fatalities: pedestrian_fatalities,
+      bike_severe_injuries: bike_severe_injuries,
+      bike_fatalities: bike_fatalities
+    }
+  end
+
+  def percent_difference(x1, _x2) when x1 == 0 do
+    "Inf"
+  end
+
+  def percent_difference(x1, x2) do
+    ((x2 - x1) / x1)
+    |> Kernel.*(100)
+    |> round()
   end
 
   def process_and_write_data(data, year, alder_districts) do
