@@ -7,41 +7,12 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     current_year = today.year
     last_year = one_year_ago.year
 
-    {options, _, _} =
-      OptionParser.parse(args, switches: [years: :string, download: :boolean])
-
-    years =
-      Keyword.get(options, :years, "#{last_year},#{current_year}")
-      |> String.split(",")
-      |> Enum.map(&String.to_integer/1)
-
-    download =
-      Keyword.get(options, :download, false)
-
     data =
-      if download do
-        alder_districts =
-          File.read!("./data/alder_districts.geojson")
-          |> Jason.decode!()
-          |> Geo.JSON.decode!()
-
-        HTTPoison.start()
-
-        Enum.map(years, fn year ->
-          data =
-            get_data(year)
-            |> process_and_write_data(year, alder_districts)
-
-          {year, data}
-        end)
-        |> Enum.into(%{})
-      else
-        Enum.map(years, fn year ->
-          data = read_data(year)
-          {year, data}
-        end)
-        |> Enum.into(%{})
-      end
+      Enum.map([last_year, current_year], fn year ->
+        data = read_data(year)
+        {year, data}
+      end)
+      |> Enum.into(%{})
 
     current_year_serious_crashes =
       Map.fetch!(data, current_year)
@@ -103,7 +74,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   def read_data(year) do
     File.read!("_public/data/#{year}.json")
     |> Jason.decode!(keys: :atoms)
-    |> Enum.map(fn(crash) ->
+    |> Enum.map(fn crash ->
       Map.update!(crash, :date, &Date.from_iso8601(&1))
     end)
   end

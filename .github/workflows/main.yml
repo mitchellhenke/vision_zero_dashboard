@@ -43,11 +43,8 @@ jobs:
     - name: Compile
       run: mix compile
     - name: Update Data
-      run: mix vision_zero_dashboard.data --download='true' --years='2022,2023'
-    - name: Format JSON
-      run: |
-        cat ./_public/data/2023.json | jq -S -c > './2023.json' && mv './2023.json' ./_public/data/2023.json
-        cat ./data/2023.json | jq -S > './2023.json' && mv './2023.json' ./data/2023.json
+      run: mix vision_zero_dashboard.download_data --years="$(date +'%Y')"
+      run: mix vision_zero_dashboard.data
     - name: Commit Data
       run: |
         git config user.email "mitchellhenkebot@users.noreply.github.com"
