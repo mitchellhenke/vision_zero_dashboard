@@ -54,7 +54,6 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       |> Enum.filter(fn crash ->
         date =
           Map.fetch!(crash, :date)
-          |> Date.from_iso8601!()
 
         Map.fetch!(crash, :severity) in ["K", "A"] &&
           date.year == last_year && Date.compare(date, one_year_ago) == :lt
@@ -104,6 +103,9 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   def read_data(year) do
     File.read!("_public/data/#{year}.json")
     |> Jason.decode!(keys: :atoms)
+    |> Enum.map(fn(crash) ->
+      Map.update!(crash, :date, &Date.from_iso8601(&1))
+    end)
   end
 
   def calculate_summary(crashes) do
@@ -193,7 +195,6 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
               String.to_integer(month),
               String.to_integer(day)
             )
-            |> Date.to_iso8601()
           end)
           |> update_in(["properties", "totfatl"], &String.to_integer/1)
           |> update_in(["properties", "totinj"], &String.to_integer/1)
