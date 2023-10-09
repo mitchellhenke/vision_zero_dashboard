@@ -67,6 +67,10 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
         ~r|<p id="total-fatalities-percent">-?\d+|,
         "<p id=\"total-fatalities-percent\">#{percent_difference(last_year_summary.total_fatalities, current_year_summary.total_fatalities)}"
       )
+      |> String.replace(
+        ~r|<h2 id="year-header">-?\d+|,
+        "<h2 id=\"year-header\">#{current_year}"
+      )
 
     File.write!("_public/index.html", html)
   end
