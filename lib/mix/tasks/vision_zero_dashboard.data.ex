@@ -1,7 +1,7 @@
 defmodule Mix.Tasks.VisionZeroDashboard.Data do
   use Mix.Task
 
-  def run(args) do
+  def run(_args) do
     today = Date.utc_today()
     one_year_ago = Date.add(today, -365)
     current_year = today.year
