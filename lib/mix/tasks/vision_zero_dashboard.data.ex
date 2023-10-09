@@ -193,6 +193,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
               String.to_integer(month),
               String.to_integer(day)
             )
+            |> Date.to_iso8601()
           end)
           |> update_in(["properties", "totfatl"], &String.to_integer/1)
           |> update_in(["properties", "totinj"], &String.to_integer/1)
