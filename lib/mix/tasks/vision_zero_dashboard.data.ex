@@ -75,7 +75,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     File.read!("_public/data/#{year}.json")
     |> Jason.decode!(keys: :atoms)
     |> Enum.map(fn crash ->
-      Map.update!(crash, :date, &Date.from_iso8601(&1))
+      Map.update!(crash, :date, &Date.from_iso8601!(&1))
     end)
   end
 
