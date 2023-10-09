@@ -43,8 +43,9 @@ jobs:
     - name: Compile
       run: mix compile
     - name: Update Data
-      run: mix vision_zero_dashboard.download_data --years="$(date +'%Y')"
-      run: mix vision_zero_dashboard.data
+      run: |
+        mix vision_zero_dashboard.download_data --years="$(date +'%Y')"
+        mix vision_zero_dashboard.data
     - name: Commit Data
       run: |
         git config user.email "mitchellhenkebot@users.noreply.github.com"
