@@ -7,26 +7,32 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     current_year = today.year
     last_year = one_year_ago.year
 
-    data =
+    ytd_data =
       load_data()
+      |> Enum.map(fn {year, crashes} ->
+        crashes =
+          Enum.filter(crashes, fn crash ->
+            date = Map.fetch!(crash, :date)
+            date_if_it_was_this_year = %{date | year: current_year}
+            Date.compare(date_if_it_was_this_year, today) != :gt
+          end)
 
-    summaries =
-      Enum.map(data, fn {year, data} ->
-        {year, calculate_summary(data)}
+        {year, crashes}
       end)
       |> Enum.into(%{})
 
-    last_year_serious_crashes_to_date =
-      Map.fetch!(data, last_year)
-      |> Enum.filter(fn crash ->
-        date =
-          Map.fetch!(crash, :date)
-
-        date.year == last_year && Date.compare(date, one_year_ago) == :lt
+    ytd_summaries =
+      Enum.map(ytd_data, fn {year, crashes} ->
+        {year, calculate_summary(crashes)}
       end)
+      |> Enum.into(%{})
 
-    last_year_summary = calculate_summary(last_year_serious_crashes_to_date)
-    current_year_summary = Map.fetch!(summaries, current_year)
+    File.write!("_public/data/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
+    {stdout, 0} = System.cmd("jq", ["-S", ".", "_public/data/summary/ytd_summary.json"])
+    File.write!("_public/data/summary/ytd_summary.json", stdout)
+
+    last_year_summary = Map.fetch!(ytd_summaries, last_year)
+    current_year_summary = Map.fetch!(ytd_summaries, current_year)
 
     template = File.read!("lib/templates/index.html.eex")
 
