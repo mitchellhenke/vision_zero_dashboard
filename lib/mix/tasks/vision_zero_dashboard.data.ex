@@ -28,7 +28,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       |> Enum.into(%{})
 
     File.write!("_public/data/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
-    {stdout, 0} = System.cmd("jq", ["-S", ".", "_public/data/summary/ytd_summary.json"])
+    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/summary/ytd_summary.json"])
     File.write!("_public/data/summary/ytd_summary.json", stdout)
 
     last_year_summary = Map.fetch!(ytd_summaries, last_year)
