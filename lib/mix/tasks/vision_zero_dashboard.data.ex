@@ -28,43 +28,29 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     last_year_summary = calculate_summary(last_year_serious_crashes_to_date)
     current_year_summary = Map.fetch!(summaries, current_year)
 
+    template = File.read!("lib/templates/index.html.eex")
+
     html =
-      File.read!("_public/index.html")
-      |> String.replace(
-        ~r|<p id="bicyclist-injuries">\d+</p>|,
-        "<p id=\"bicyclist-injuries\">#{current_year_summary.bike_severe_injuries}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="bicyclist-fatalities">\d+</p>|,
-        "<p id=\"bicyclist-fatalities\">#{current_year_summary.bike_fatalities}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="pedestrian-injuries">\d+</p>|,
-        "<p id=\"pedestrian-injuries\">#{current_year_summary.pedestrian_severe_injuries}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="pedestrian-fatalities">\d+</p>|,
-        "<p id=\"pedestrian-fatalities\">#{current_year_summary.pedestrian_fatalities}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="total-injuries">\d+</p>|,
-        "<p id=\"total-injuries\">#{current_year_summary.total_severe_injuries}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="total-fatalities">\d+</p>|,
-        "<p id=\"total-fatalities\">#{current_year_summary.total_fatalities}</p>"
-      )
-      |> String.replace(
-        ~r|<p id="total-injuries-percent">-?\d+|,
-        "<p id=\"total-injuries-percent\">#{percent_difference(last_year_summary.total_severe_injuries, current_year_summary.total_severe_injuries)}"
-      )
-      |> String.replace(
-        ~r|<p id="total-fatalities-percent">-?\d+|,
-        "<p id=\"total-fatalities-percent\">#{percent_difference(last_year_summary.total_fatalities, current_year_summary.total_fatalities)}"
-      )
-      |> String.replace(
-        ~r|<h2 id="year-header">-?\d+|,
-        "<h2 id=\"year-header\">#{current_year}"
+      EEx.eval_string(template,
+        assigns: [
+          current_year: current_year,
+          total_injuries: current_year_summary.total_severe_injuries,
+          total_fatalities: current_year_summary.total_fatalities,
+          total_injuries_percent:
+            percent_difference(
+              last_year_summary.total_severe_injuries,
+              current_year_summary.total_severe_injuries
+            ),
+          total_fatalities_percent:
+            percent_difference(
+              last_year_summary.total_fatalities,
+              current_year_summary.total_fatalities
+            ),
+          bike_injuries: current_year_summary.bike_severe_injuries,
+          bike_fatalities: current_year_summary.bike_fatalities,
+          pedestrian_injuries: current_year_summary.pedestrian_severe_injuries,
+          pedestrian_fatalities: current_year_summary.pedestrian_fatalities
+        ]
       )
 
     File.write!("_public/index.html", html)

@@ -33,16 +33,16 @@
     </header>
     <main id="main-content">
       <section class="grid-container">
-        <h2 id="year-header">2023 Year-to-Date</h2>
+        <h2 id="year-header"><%= @current_year %> Year-to-Date</h2>
         <div class="grid-row grid-gap">
           <div class="tablet:grid-col-6">
             <div class="bg-primary-darker text-base-lightest padding-1">
               <h3>Fatalities</h3>
               <p id="total-fatalities">
-                59
+                <%= @total_fatalities %>
               </p>
               <p id="total-fatalities-percent">
-                -9% year-to-date change from last year
+                <%= @total_fatalities_percent %>% year-to-date change from last year
               </p>
             </div>
           </div>
@@ -50,10 +50,10 @@
             <div class="bg-secondary-dark text-base-lightest padding-1">
               <h3>Serious Injuries</h3>
               <p id="total-injuries">
-                416
+                <%= @total_injuries %>
               </p>
               <p id="total-injuries-percent">
-                -6% year-to-date change from last year
+                <%= @total_injuries_percent %>% year-to-date change from last year
               </p>
             </div>
           </div>
@@ -66,7 +66,7 @@
                 <div class="bg-primary-darker text-base-lightest padding-1">
                   <h3>Fatalities</h3>
                   <p id="pedestrian-fatalities">
-                    16
+                    <%= @pedestrian_fatalities %>
                   </p>
                 </div>
               </div>
@@ -74,7 +74,7 @@
                 <div class="bg-secondary-dark text-base-lightest padding-1">
                   <h3>Serious Injuries</h3>
                   <p id="pedestrian-injuries">
-                    58
+                    <%= @pedestrian_injuries %>
                   </p>
                 </div>
               </div>
@@ -87,7 +87,7 @@
                 <div class="bg-primary-darker text-base-lightest padding-1">
                   <h3>Fatalities</h3>
                   <p id="bicyclist-fatalities">
-                    2
+                    <%= @bike_fatalities %>
                   </p>
                 </div>
               </div>
@@ -95,7 +95,7 @@
                 <div class="bg-secondary-dark text-base-lightest padding-1">
                   <h3>Serious Injuries</h3>
                   <p id="bicyclist-injuries">
-                    7
+                    <%= @bike_injuries %>
                   </p>
                 </div>
               </div>
