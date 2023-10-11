@@ -780,6 +780,32 @@
     "year": 2023
   },
   {
+    "65+_driver": true,
+    "alder_district": 7,
+    "at_roadway": "N 45TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.970245,
+      43.089909
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-09-13",
+    "distracted": false,
+    "id": "06L38S5WRC",
+    "impaired": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
     "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "YOUNT DR",
@@ -7251,6 +7277,32 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 2,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W POTAWATOMI CIR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.939637,
+      43.031448
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-09-23",
+    "distracted": false,
+    "id": "M5L192T5LV",
+    "impaired": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CANAL ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2023
   }
 ]
