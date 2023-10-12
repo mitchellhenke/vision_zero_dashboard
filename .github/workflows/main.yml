@@ -6,7 +6,7 @@ on:
   pull_request:
     branches: [ "main" ]
   schedule:
-    - cron: '00 12 * * Mon'
+    - cron: '00 12 * * *'
 
 permissions:
   contents: write
