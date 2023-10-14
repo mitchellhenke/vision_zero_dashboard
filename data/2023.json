@@ -2471,6 +2471,32 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W MEINECKE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.957491,
+      43.062454
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-09-26",
+    "distracted": false,
+    "id": "J9L1GK13P2",
+    "impaired": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 35TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "S 20TH ST",
     "bike": false,
