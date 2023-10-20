@@ -6310,10 +6310,10 @@
     "occupant_protection": false,
     "on_roadway": "W CENTER ST",
     "pedestrian": false,
-    "severity": "A",
+    "severity": "K",
     "speeding": true,
     "teen_driver": false,
-    "total_fatalities": 0,
+    "total_fatalities": 1,
     "total_injuries": 1,
     "year": 2023
   },
