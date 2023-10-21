@@ -1443,7 +1443,7 @@
     "date": "2023-09-28",
     "distracted": false,
     "id": "1ML18L0QJT",
-    "impaired": false,
+    "impaired": true,
     "municipality": "MILWAUKEE",
     "occupant_protection": false,
     "on_roadway": "094",
@@ -3868,7 +3868,7 @@
     "pedestrian": false,
     "severity": "K",
     "speeding": true,
-    "teen_driver": false,
+    "teen_driver": true,
     "total_fatalities": 1,
     "total_injuries": 1,
     "year": 2023
