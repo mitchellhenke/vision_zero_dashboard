@@ -1587,6 +1587,32 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "043",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.936718,
+      42.961958
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-10",
+    "distracted": false,
+    "id": "1ML1BLHJW0",
+    "impaired": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "175 BREWERS BLVD",
     "bike": false,
