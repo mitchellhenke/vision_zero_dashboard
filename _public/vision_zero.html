@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Better Streets MKE</title>
+    <meta name="viewport" content="Better Streets MKE" />
+    <meta name="Description" content="Better Streets MKE" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Better Streets MKE" />
+    <meta
+      property="og:description"
+      content=""
+    />
+    <link rel="stylesheet" type="text/css" href="css/styles.css" />
+    <script src="/js/uswds-init.min.js"></script>
+  </head>
+  <body>
+    <script src="js/uswds.min.js"></script>
+    <a class="usa-skipnav" href="#main-content">Skip to main content</a>
+    <header class="usa-header usa-header--basic">
+      <div class="usa-nav-container">
+        <div class="usa-navbar">
+          <div class="usa-logo">
+            <a href="/" title="Better Streets MKE"><em class="usa-logo__text">Better Streets MKE</em></a>
+          </div>
+          <button type="button" class="usa-menu-btn">Menu</button>
+        </div>
+        <nav aria-label="Primary navigation" class="usa-nav">
+          <button type="button" class="usa-nav__close">
+            <img src="/img/usa-icons/close.svg" role="img" alt="Close" />
+          </button>
+          <ul class="usa-nav__primary usa-accordion">
+            <li class="usa-nav__primary-item">
+              <a href="/vision_zero" class="usa-nav-link"><span>Vision Zero Dashboard</span></a>
+            </li>
+            <li class="usa-nav__primary-item">
+              <a target="_blank" href="https://betterstreetsmke.substack.com" class="usa-nav-link"><span>Newsletter</span></a>
+            </li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+    <main id="main-content" class="bg-primary-lighter">
+      <section class="grid-container">
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      <h1>City of Milwaukee Vision Zero Dashboard</h1>
+    </div>
+  </div>
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      <h2 id="year-header">2023 Year-to-Date</h2>
+    </div>
+  </div>
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-6">
+      <div class="bg-primary-darker text-base-lightest padding-1">
+        <h3>Fatalities</h3>
+        <p id="total-fatalities">
+        63
+        </p>
+        <p id="total-fatalities-percent">
+        -16% year-to-date change from last year
+        </p>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
+      <div class="bg-secondary-dark text-base-lightest padding-1">
+        <h3>Serious Injuries</h3>
+        <p id="total-injuries">
+        434
+        </p>
+        <p id="total-injuries-percent">
+        -9% year-to-date change from last year
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="grid-row grid-gap margin-top-2">
+    <div class="tablet:grid-col-6">
+      <h2>Pedestrians</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="pedestrian-fatalities">
+            17
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="pedestrian-injuries">
+            62
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
+      <h2>Bicyclists</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="bicyclist-fatalities">
+            2
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="bicyclist-injuries">
+            7
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="grid-row grid-gap">
+      <div class="grid-col-12">
+        <h2>Fatalities Year-to-Date</h2>
+        <canvas id="fatalities-chart"></canvas>
+      </div>
+    </div>
+    <div class="grid-row grid-gap">
+      <div class="grid-col-12">
+        <h2>Serious Injuries Year-to-Date</h2>
+        <canvas id="serious-injuries-chart"></canvas>
+      </div>
+    </div>
+  </div>
+  <script defer src="js/index.js"></script>
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+    <p>Note: This website is not affiliated with the City of Milwaukee. This data is based on <a href="https://communitymaps.wi.gov">Community Maps</a>, a project from the Wisconsin Department of Transportation and University of Wisconsin-Madison that seeks to map all police reported motor vehicle crashes from 2010 to the current year. Data only includes crashes in the City of Milwaukee, and data may be incomplete or delayed.</p>
+    <p>If you have suggestions or issues, please report them <a href="https://github.com/mitchellhenke/vision_zero_dashboard">here</a>.</p>
+    </div>
+  </div>
+</section>
+
+    </main>
+  </body>
+</html>

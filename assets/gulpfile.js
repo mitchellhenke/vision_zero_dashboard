@@ -18,6 +18,8 @@ uswds.settings.version = 3;
 */
 uswds.paths.dist.css = '../_public/css';
 uswds.paths.dist.fonts = '../_public/fonts'
+uswds.paths.dist.img = '../_public/img'
+uswds.paths.dist.js = '../_public/js'
 uswds.paths.dist.theme = './sass/uswds';
 
 /**
@@ -28,3 +30,5 @@ exports.init = uswds.init;
 exports.compile = uswds.compile;
 exports.watch = uswds.watch;
 exports.copyFonts = uswds.copyFonts;
+exports.copyImages = uswds.copyImages
+exports.copyJS = uswds.copyJS
