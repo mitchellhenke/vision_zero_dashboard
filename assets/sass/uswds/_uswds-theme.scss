@@ -9,4 +9,5 @@ in the form $setting: value,
 
 @use "uswds-core" with (
   $theme-show-notifications: false,
+  $theme-hero-image: '/img/hero.webp'
 );
