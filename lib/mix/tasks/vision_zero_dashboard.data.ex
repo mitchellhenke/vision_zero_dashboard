@@ -1,5 +1,6 @@
 defmodule Mix.Tasks.VisionZeroDashboard.Data do
   use Mix.Task
+  require Logger
 
   def run(_args) do
     today = Date.utc_today()
@@ -33,33 +34,53 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
     last_year_summary = Map.fetch!(ytd_summaries, last_year)
     current_year_summary = Map.fetch!(ytd_summaries, current_year)
+    vz_dashboard_assigns = [
+      current_year: current_year,
+      total_injuries: current_year_summary.total_severe_injuries,
+      total_fatalities: current_year_summary.total_fatalities,
+      total_injuries_percent:
+      percent_difference(
+        last_year_summary.total_severe_injuries,
+        current_year_summary.total_severe_injuries
+      ),
+      total_fatalities_percent:
+      percent_difference(
+        last_year_summary.total_fatalities,
+        current_year_summary.total_fatalities
+      ),
+      bike_injuries: current_year_summary.bike_severe_injuries,
+      bike_fatalities: current_year_summary.bike_fatalities,
+      pedestrian_injuries: current_year_summary.pedestrian_severe_injuries,
+      pedestrian_fatalities: current_year_summary.pedestrian_fatalities
+    ]
 
-    template = File.read!("lib/templates/index.html.eex")
+    assigns = %{
+      "vision_zero" => vz_dashboard_assigns,
+      "index" => []
+    }
 
-    html =
-      EEx.eval_string(template,
-        assigns: [
-          current_year: current_year,
-          total_injuries: current_year_summary.total_severe_injuries,
-          total_fatalities: current_year_summary.total_fatalities,
-          total_injuries_percent:
-            percent_difference(
-              last_year_summary.total_severe_injuries,
-              current_year_summary.total_severe_injuries
-            ),
-          total_fatalities_percent:
-            percent_difference(
-              last_year_summary.total_fatalities,
-              current_year_summary.total_fatalities
-            ),
-          bike_injuries: current_year_summary.bike_severe_injuries,
-          bike_fatalities: current_year_summary.bike_fatalities,
-          pedestrian_injuries: current_year_summary.pedestrian_severe_injuries,
-          pedestrian_fatalities: current_year_summary.pedestrian_fatalities
-        ]
+    compile_templates(assigns)
+  end
+
+  def compile_templates(assigns_map) do
+    layout = File.read!("lib/templates/layouts/root.html.eex")
+    Path.wildcard("lib/templates/*.html.eex")
+    |> Enum.each(fn(path) ->
+      filename = Path.basename(path, ".html.eex")
+      assigns = Map.fetch!(assigns_map, filename)
+      template = File.read!(path)
+      html =
+        EEx.eval_string(template,
+          assigns: assigns
+        )
+      html = EEx.eval_string(layout,
+        assigns: [inner_content: html]
       )
 
-    File.write!("_public/index.html", html)
+      File.write!("_public/#{filename}.html", html)
+
+      Logger.info(filename)
+    end)
   end
 
   def load_data() do

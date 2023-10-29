@@ -1,0 +1,101 @@
+<section class="grid-container">
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      <h1>City of Milwaukee Vision Zero Dashboard</h1>
+    </div>
+  </div>
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      <h2 id="year-header"><%= @current_year %> Year-to-Date</h2>
+    </div>
+  </div>
+  <div class="grid-row grid-gap">
+    <div class="tablet:grid-col-6">
+      <div class="bg-primary-darker text-base-lightest padding-1">
+        <h3>Fatalities</h3>
+        <p id="total-fatalities">
+        <%= @total_fatalities %>
+        </p>
+        <p id="total-fatalities-percent">
+        <%= @total_fatalities_percent %>% year-to-date change from last year
+        </p>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
+      <div class="bg-secondary-dark text-base-lightest padding-1">
+        <h3>Serious Injuries</h3>
+        <p id="total-injuries">
+        <%= @total_injuries %>
+        </p>
+        <p id="total-injuries-percent">
+        <%= @total_injuries_percent %>% year-to-date change from last year
+        </p>
+      </div>
+    </div>
+  </div>
+  <div class="grid-row grid-gap margin-top-2">
+    <div class="tablet:grid-col-6">
+      <h2>Pedestrians</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="pedestrian-fatalities">
+            <%= @pedestrian_fatalities %>
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="pedestrian-injuries">
+            <%= @pedestrian_injuries %>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
+      <h2>Bicyclists</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="bicyclist-fatalities">
+            <%= @bike_fatalities %>
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="bicyclist-injuries">
+            <%= @bike_injuries %>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div>
+    <div class="grid-row grid-gap">
+      <div class="grid-col-12">
+        <h2>Fatalities Year-to-Date</h2>
+        <canvas id="fatalities-chart"></canvas>
+      </div>
+    </div>
+    <div class="grid-row grid-gap">
+      <div class="grid-col-12">
+        <h2>Serious Injuries Year-to-Date</h2>
+        <canvas id="serious-injuries-chart"></canvas>
+      </div>
+    </div>
+  </div>
+  <script defer src="js/index.js"></script>
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+    <p>Note: This website is not affiliated with the City of Milwaukee. This data is based on <a href="https://communitymaps.wi.gov">Community Maps</a>, a project from the Wisconsin Department of Transportation and University of Wisconsin-Madison that seeks to map all police reported motor vehicle crashes from 2010 to the current year. Data only includes crashes in the City of Milwaukee, and data may be incomplete or delayed.</p>
+    <p>If you have suggestions or issues, please report them <a href="https://github.com/mitchellhenke/vision_zero_dashboard">here</a>.</p>
+    </div>
+  </div>
+</section>
