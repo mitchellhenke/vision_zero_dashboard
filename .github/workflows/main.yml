@@ -44,7 +44,7 @@ jobs:
       run: mix compile
     - name: Update Data
       run: |
-        mix vision_zero_dashboard.download_data --years="$(date +'%Y')"
+        mix vision_zero_dashboard.download_data --years="$(date +'%Y'),$[$(date +'%Y') - 1]"
         mix vision_zero_dashboard.data
     - name: Commit Data
       run: |
