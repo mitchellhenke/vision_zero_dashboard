@@ -51,7 +51,11 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       bike_injuries: current_year_summary.bike_severe_injuries,
       bike_fatalities: current_year_summary.bike_fatalities,
       pedestrian_injuries: current_year_summary.pedestrian_severe_injuries,
-      pedestrian_fatalities: current_year_summary.pedestrian_fatalities
+      pedestrian_fatalities: current_year_summary.pedestrian_fatalities,
+      motorcyclist_injuries: current_year_summary.motorcycle_severe_injuries,
+      motorcyclist_fatalities: current_year_summary.motorcycle_fatalities,
+      motorist_injuries: current_year_summary.motorist_severe_injuries,
+      motorist_fatalities: current_year_summary.motorist_fatalities
     ]
 
     assigns = %{
@@ -160,13 +164,38 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
       |> Enum.sum()
 
+    motorcycle_fatalities =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :motorcycle)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_fatalities)
+      end)
+      |> Enum.sum()
+
+    motorcycle_severe_injuries =
+      Enum.filter(crashes, fn crash ->
+        Map.fetch!(crash, :motorcycle)
+      end)
+      |> Enum.map(fn crash ->
+        Map.fetch!(crash, :total_injuries)
+      end)
+      |> Enum.sum()
+
+    motorist_severe_injuries = total_severe_injuries - pedestrian_severe_injuries - bike_severe_injuries - motorcycle_severe_injuries
+    motorist_fatalities = total_fatalities - pedestrian_fatalities - bike_fatalities - motorcycle_fatalities
+
     %{
       total_severe_injuries: total_severe_injuries,
       total_fatalities: total_fatalities,
       pedestrian_severe_injuries: pedestrian_severe_injuries,
       pedestrian_fatalities: pedestrian_fatalities,
       bike_severe_injuries: bike_severe_injuries,
-      bike_fatalities: bike_fatalities
+      bike_fatalities: bike_fatalities,
+      motorcycle_severe_injuries: motorcycle_severe_injuries,
+      motorcycle_fatalities: motorcycle_fatalities,
+      motorist_severe_injuries: motorist_severe_injuries,
+      motorist_fatalities: motorist_fatalities
     }
   end
 

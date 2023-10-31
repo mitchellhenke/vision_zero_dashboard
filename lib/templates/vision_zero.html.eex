@@ -78,6 +78,50 @@
     </div>
   </div>
   <div>
+  <div class="grid-row grid-gap margin-top-2">
+    <div class="tablet:grid-col-6">
+      <h2>Motorcyclists</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="motorcyclist-fatalities">
+            <%= @motorcyclist_fatalities %>
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="motorcyclist-injuries">
+            <%= @motorcyclist_injuries %>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="tablet:grid-col-6">
+      <h2>Motorists</h2>
+      <div class="grid-row grid-gap margin-top-2">
+        <div class="tablet:grid-col-6">
+          <div class="bg-primary-darker text-base-lightest padding-1">
+            <h3>Fatalities</h3>
+            <p id="motorist-fatalities">
+            <%= @motorist_fatalities %>
+            </p>
+          </div>
+        </div>
+        <div class="tablet:grid-col-6">
+          <div class="bg-secondary-dark text-base-lightest padding-1">
+            <h3>Serious Injuries</h3>
+            <p id="motorist-injuries">
+            <%= @motorist_injuries %>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
     <div class="grid-row grid-gap">
       <div class="grid-col-12">
         <h2>Fatalities Year-to-Date</h2>

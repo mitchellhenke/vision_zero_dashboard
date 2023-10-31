@@ -74,6 +74,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
           total_injuries: get_in(feature, ["properties", "totinj"]),
           bike: get_in(feature, ["properties", "bikeflag"]) == "Y",
           pedestrian: get_in(feature, ["properties", "pedflag"]) == "Y",
+          motorcycle: get_in(feature, ["properties", "mcycflag"]) == "Y",
           severity: get_in(feature, ["properties", "injsvr"]),
           at_roadway: get_in(feature, ["properties", "atrdwy"]),
           on_roadway: get_in(feature, ["properties", "onrdwy"]),
