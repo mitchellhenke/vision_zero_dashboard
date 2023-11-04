@@ -1540,6 +1540,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "094",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.021351,
+      43.027975
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-03",
+    "distracted": false,
+    "id": "1ML18L0QK0",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "W OKLAHOMA AVE",
     "bike": false,
@@ -7179,6 +7206,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "190 W CAPITOL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.951919,
+      43.089087
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-24",
+    "distracted": false,
+    "id": "J9L2TDXVTM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 31ST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2023
   },
   {
