@@ -191,6 +191,33 @@
   {
     "65+_driver": false,
     "alder_district": 15,
+    "at_roadway": "W CENTER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.967467,
+      43.067858
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-23",
+    "distracted": false,
+    "id": "06L1VV55LM",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
     "at_roadway": "W MEDFORD AVE",
     "bike": false,
     "construction_zone": false,
@@ -915,6 +942,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "094",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.965895,
+      43.032944
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-31",
+    "distracted": false,
+    "id": "1ML138QZD0",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2023
   },
   {
