@@ -3727,6 +3727,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "PRIVATE PROPERTY",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.911018,
+      43.029377
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-11",
+    "distracted": false,
+    "id": "J9L1LTDZ0Z",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 1ST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "024",
     "bike": false,
@@ -4884,6 +4911,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "190 W CAPITOL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.967099,
+      43.089618
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-14",
+    "distracted": false,
+    "id": "J9L1R7HWSZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2023
   },
   {
