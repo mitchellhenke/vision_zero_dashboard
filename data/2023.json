@@ -7183,6 +7183,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9567,
+      43.108253
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-11",
+    "distracted": false,
+    "id": "J9L2T1TJR1",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FAIRMOUNT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W MARION ST",
     "bike": false,
