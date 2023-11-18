@@ -1513,6 +1513,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "S LINCOLN MEMORIAL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.896447,
+      43.017237
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-08",
+    "distracted": false,
+    "id": "1ML17MLVST",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W BROWN ST",
     "bike": false,
@@ -6450,6 +6477,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 70TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.998298,
+      43.105885
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-06",
+    "distracted": false,
+    "id": "J9L2R68W4C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W MEDFORD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2023
   },
   {
