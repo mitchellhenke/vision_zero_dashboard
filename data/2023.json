@@ -5698,6 +5698,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "E MICHIGAN ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.909045,
+      43.037784
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-06",
+    "distracted": false,
+    "id": "J9L1VB3P3M",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 12TH ST",
     "bike": false,
