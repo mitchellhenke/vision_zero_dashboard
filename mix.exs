@@ -24,7 +24,8 @@ defmodule VisionZeroDashboard.MixProject do
       {:httpoison, "~> 2.0"},
       {:geo, "~> 3.5"},
       {:topo, "~> 1.0"},
-      {:jason, "~> 1.0"}
+      {:jason, "~> 1.0"},
+      {:nimble_csv, "~> 1.1"}
     ]
   end
 end
