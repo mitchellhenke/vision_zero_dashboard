@@ -28,9 +28,9 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
       |> Enum.into(%{})
 
-    File.write!("_public/data/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
-    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/summary/ytd_summary.json"])
-    File.write!("_public/data/summary/ytd_summary.json", stdout)
+    File.write!("_public/data/vision_zero/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
+    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/summary/ytd_summary.json"])
+    File.write!("_public/data/vision_zero/summary/ytd_summary.json", stdout)
 
     last_year_summary = Map.fetch!(ytd_summaries, last_year)
     current_year_summary = Map.fetch!(ytd_summaries, current_year)
@@ -88,7 +88,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   end
 
   def load_data() do
-    Path.wildcard("_public/data/*.json")
+    Path.wildcard("_public/data/vision_zero/*.json")
     |> Enum.map(fn path ->
       year =
         Path.basename(path)

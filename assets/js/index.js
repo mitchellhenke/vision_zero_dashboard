@@ -1,7 +1,7 @@
 import Chart from 'chart.js/auto'
 
 (async function() {
-  const response = await fetch("/data/summary/ytd_summary.json");
+  const response = await fetch("/data/vision_zero/summary/ytd_summary.json");
   const data = await response.json();
   const years = Object.keys(data);
   const fatalities = years.map(year => data[year].total_fatalities)
