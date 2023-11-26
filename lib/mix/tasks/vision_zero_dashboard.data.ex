@@ -64,7 +64,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
     assigns = %{
       "vision_zero" => vz_dashboard_assigns,
-      "index" => []
+      "index" => [],
+      "trails" => []
     }
 
     compile_templates(assigns)

@@ -44,7 +44,22 @@
       </div>
     </header>
     <main id="main-content" class="bg-primary-lighter">
-      <%= @inner_content %>
+      <section class="grid-container">
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+      <h2>Trail Counts by Month</h2>
+      <canvas id="monthly-chart"></canvas>
+    </div>
+  </div>
+  <script defer src="js/trails.js"></script>
+  <div class="grid-row grid-gap">
+    <div class="grid-col-12">
+    <p>Note: This website is not affiliated with the City of Milwaukee. This data is based on <a href="https://communitymaps.wi.gov">Community Maps</a>, a project from the Wisconsin Department of Transportation and University of Wisconsin-Madison that seeks to map all police reported motor vehicle crashes from 2010 to the current year. Data only includes crashes in the City of Milwaukee, and data may be incomplete or delayed.</p>
+    <p>If you have suggestions or issues, please report them <a href="https://github.com/mitchellhenke/vision_zero_dashboard">here</a>.</p>
+    </div>
+  </div>
+</section>
+
     </main>
     <footer class="usa-footer usa-footer--big">
       <div class="grid-container usa-footer__return-to-top">
