@@ -29,25 +29,29 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       |> Enum.into(%{})
 
     File.write!("_public/data/vision_zero/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
-    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/summary/ytd_summary.json"])
+
+    {stdout, 0} =
+      System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/summary/ytd_summary.json"])
+
     File.write!("_public/data/vision_zero/summary/ytd_summary.json", stdout)
 
     last_year_summary = Map.fetch!(ytd_summaries, last_year)
     current_year_summary = Map.fetch!(ytd_summaries, current_year)
+
     vz_dashboard_assigns = [
       current_year: current_year,
       total_injuries: current_year_summary.total_severe_injuries,
       total_fatalities: current_year_summary.total_fatalities,
       total_injuries_percent:
-      percent_difference(
-        last_year_summary.total_severe_injuries,
-        current_year_summary.total_severe_injuries
-      ),
+        percent_difference(
+          last_year_summary.total_severe_injuries,
+          current_year_summary.total_severe_injuries
+        ),
       total_fatalities_percent:
-      percent_difference(
-        last_year_summary.total_fatalities,
-        current_year_summary.total_fatalities
-      ),
+        percent_difference(
+          last_year_summary.total_fatalities,
+          current_year_summary.total_fatalities
+        ),
       bike_injuries: current_year_summary.bike_severe_injuries,
       bike_fatalities: current_year_summary.bike_fatalities,
       pedestrian_injuries: current_year_summary.pedestrian_severe_injuries,
@@ -68,18 +72,22 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
   def compile_templates(assigns_map) do
     layout = File.read!("lib/templates/layouts/root.html.eex")
+
     Path.wildcard("lib/templates/*.html.eex")
-    |> Enum.each(fn(path) ->
+    |> Enum.each(fn path ->
       filename = Path.basename(path, ".html.eex")
       assigns = Map.fetch!(assigns_map, filename)
       template = File.read!(path)
+
       html =
         EEx.eval_string(template,
           assigns: assigns
         )
-      html = EEx.eval_string(layout,
-        assigns: [inner_content: html]
-      )
+
+      html =
+        EEx.eval_string(layout,
+          assigns: [inner_content: html]
+        )
 
       File.write!("_public/#{filename}.html", html)
 
@@ -182,8 +190,12 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
       |> Enum.sum()
 
-    motorist_severe_injuries = total_severe_injuries - pedestrian_severe_injuries - bike_severe_injuries - motorcycle_severe_injuries
-    motorist_fatalities = total_fatalities - pedestrian_fatalities - bike_fatalities - motorcycle_fatalities
+    motorist_severe_injuries =
+      total_severe_injuries - pedestrian_severe_injuries - bike_severe_injuries -
+        motorcycle_severe_injuries
+
+    motorist_fatalities =
+      total_fatalities - pedestrian_fatalities - bike_fatalities - motorcycle_fatalities
 
     %{
       total_severe_injuries: total_severe_injuries,
