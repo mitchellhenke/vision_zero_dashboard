@@ -4,14 +4,20 @@ import Chart from 'chart.js/auto'
   const response = await fetch("/data/trails/monthly.json");
   const data = await response.json();
   const trail_names = data.trail_names;
-  const colors = ['#003f5c']
-        // backgroundColor: 'rgb(22, 46, 81)',
-        // borderColor: 'rgb(22, 46, 81)',
-        // pointBackgroundColor: 'rgb(22, 46, 81)',
-        // pointBorderColor: 'rgb(22, 46, 81)',
+  const datasets = trail_names.map(name => ({
+    label: name,
+    data: data.data.filter(row => row.name == name).map((row) => {
+      const [year, month, day] = row.date.split('-');
+      const date =  Date.parse(row.date + 'T00:00:00.000');
+      return {
+        x: `${year}-${month}`,
+        y: row.count,
+        date: date,
+      }
+    }).sort((a,b) => a.date - b.date)
+  }))
 
-
-   new Chart(
+  new Chart(
     document.getElementById('monthly-chart'),
     {
       type: 'line',
@@ -26,7 +32,7 @@ import Chart from 'chart.js/auto'
           x: {
             title: {
               display: true,
-              text: 'Date'
+              text: 'Month'
             }
           },
           y: {
@@ -38,13 +44,7 @@ import Chart from 'chart.js/auto'
         }
       },
       data: {
-        datasets: trail_names.map(name => ({
-          label: name,
-          data: data.data.filter(row => row.name == name).map(row => ({
-            x: row.date.substring(0, 7),
-            y: row.count,
-          }))
-        }))
+        datasets: datasets
       }
     }
   );
