@@ -133,7 +133,7 @@ import Chart from 'chart.js/auto'
         labels: years,
         datasets: [
           {
-            data: fatalities,
+            data: pedestrian_fatalities,
           }
         ]
       }
@@ -176,7 +176,7 @@ import Chart from 'chart.js/auto'
         labels: years,
         datasets: [
           {
-            data: severe_injuries,
+            data: pedestrian_severe_injuries,
           }
         ]
       }
