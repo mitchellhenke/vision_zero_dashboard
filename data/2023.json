@@ -973,6 +973,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N JACKSON ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.903701,
+      43.036168
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-11",
+    "distracted": false,
+    "id": "1ML0QVDKRG",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "YOUNT DR",
     "bike": false,
