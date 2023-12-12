@@ -892,6 +892,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "190 W CAPITOL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.967082,
+      43.090267
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-10-22",
+    "distracted": false,
+    "id": "06L2Z426N2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 12TH ST",
     "bike": false,
