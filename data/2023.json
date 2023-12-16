@@ -4104,6 +4104,33 @@
     "year": 2023
   },
   {
+    "65+_driver": true,
+    "alder_district": 5,
+    "at_roadway": "EE W HAMPTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.05308,
+      43.104886
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-07",
+    "distracted": false,
+    "id": "J9L1KZH5S4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "100",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
     "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "043",
