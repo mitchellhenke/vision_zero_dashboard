@@ -94,12 +94,12 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
       |> Enum.sort_by(&Map.fetch!(&1, :id))
 
     encoded = Jason.encode!(data)
-    File.write!("data/#{year}.json", encoded)
-    File.write!("_public/data/#{year}.json", encoded)
+    File.write!("data/vision_zero/#{year}.json", encoded)
+    File.write!("_public/data/vision_zero/#{year}.json", encoded)
     {stdout, 0} = System.cmd("jq", ["-S", ".", "data/#{year}.json"])
-    File.write!("data/#{year}.json", stdout)
-    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/#{year}.json"])
-    File.write!("_public/data/#{year}.json", stdout)
+    File.write!("data/vision_zero/#{year}.json", stdout)
+    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/#{year}.json"])
+    File.write!("_public/data/vision_zero/#{year}.json", stdout)
     data
   end
 

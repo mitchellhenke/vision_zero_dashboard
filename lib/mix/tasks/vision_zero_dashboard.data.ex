@@ -97,7 +97,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   end
 
   def load_data() do
-    Path.wildcard("_public/data/vision_zero/*.json")
+    Path.wildcard("data/vision_zero/*.json")
     |> Enum.map(fn path ->
       year =
         Path.basename(path)
