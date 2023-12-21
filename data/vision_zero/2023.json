@@ -2727,6 +2727,33 @@
     "year": 2023
   },
   {
+    "65+_driver": true,
+    "alder_district": 6,
+    "at_roadway": "W NORTH AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.919927,
+      43.06029
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-14",
+    "distracted": false,
+    "id": "J9L1DWMM2X",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 7TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
     "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W CANAL ST",
