@@ -1243,6 +1243,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W FLORIST AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.023013,
+      43.128621
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-11-26",
+    "distracted": false,
+    "id": "1ML13KD71N",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "145 FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "043",
     "bike": false,
