@@ -4483,6 +4483,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W CUSTER AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.950149,
+      43.114827
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-22",
+    "distracted": false,
+    "id": "J9L1M7RB8S",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 16TH ST",
     "bike": false,
