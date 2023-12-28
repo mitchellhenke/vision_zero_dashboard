@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "LAYTON BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.948404,
+      43.02216
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-04-19",
+    "distracted": false,
+    "id": "06L15G5WXN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "059 W NATIONAL AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "N PALMER ST",
     "bike": false,
@@ -3457,6 +3484,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W CLARKE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.977391,
+      43.066416
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-08",
+    "distracted": false,
+    "id": "J9L1GPZ7ZV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 51ST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 2ND ST",
     "bike": false,
@@ -4479,6 +4533,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W MICHIGAN ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.947735,
+      43.037373
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-16",
+    "distracted": false,
+    "id": "J9L1M7RB8P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2023
   },
   {
