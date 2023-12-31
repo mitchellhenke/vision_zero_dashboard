@@ -1190,6 +1190,33 @@
   {
     "65+_driver": false,
     "alder_district": 13,
+    "at_roadway": "W GRANGE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.934684,
+      42.943781
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-22",
+    "distracted": false,
+    "id": "1ML138QZDJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "119",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
     "at_roadway": "119",
     "bike": false,
     "construction_zone": false,
