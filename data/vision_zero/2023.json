@@ -3403,6 +3403,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "145",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.986131,
+      43.097547
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-03-25",
+    "distracted": false,
+    "id": "J9L1GK13NB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W MEINECKE AVE",
     "bike": false,
