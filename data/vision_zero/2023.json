@@ -5428,6 +5428,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 48TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.973328,
+      43.104649
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-15",
+    "distracted": false,
+    "id": "J9L1P713JL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HAMPTON AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "N 27TH ST",
     "bike": false,
