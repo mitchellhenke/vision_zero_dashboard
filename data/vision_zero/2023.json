@@ -5320,6 +5320,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "W CONGRESS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.008916,
+      43.096099
+    ],
+    "county": "MILWAUKEE",
+    "date": "2023-12-29",
+    "distracted": false,
+    "id": "J9L1N3P3HS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2023
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W CLARKE ST",
     "bike": false,
