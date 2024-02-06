@@ -5932,11 +5932,11 @@
     "occupant_protection": false,
     "on_roadway": "059 W NATIONAL AVE",
     "pedestrian": false,
-    "severity": "A",
+    "severity": "K",
     "speeding": false,
     "teen_driver": false,
-    "total_fatalities": 0,
-    "total_injuries": 2,
+    "total_fatalities": 1,
+    "total_injuries": 1,
     "year": 2023
   },
   {
