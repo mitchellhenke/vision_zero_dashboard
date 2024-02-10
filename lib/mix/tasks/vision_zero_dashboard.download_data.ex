@@ -93,14 +93,80 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
       end)
       |> Enum.sort_by(&Map.fetch!(&1, :id))
 
+    data_path = "data/vision_zero/#{year}.json"
+    public_path = "_public/data/vision_zero/#{year}.json"
+
+    find_new(data, data_path)
+
     encoded = Jason.encode!(data)
-    File.write!("data/vision_zero/#{year}.json", encoded)
-    File.write!("_public/data/vision_zero/#{year}.json", encoded)
-    {stdout, 0} = System.cmd("jq", ["-S", ".", "data/vision_zero/#{year}.json"])
-    File.write!("data/vision_zero/#{year}.json", stdout)
-    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/#{year}.json"])
-    File.write!("_public/data/vision_zero/#{year}.json", stdout)
+    File.write!(data_path, encoded)
+    File.write!(public_path, encoded)
+    {stdout, 0} = System.cmd("jq", ["-S", ".", data_path])
+    File.write!(data_path, stdout)
+    {stdout, 0} = System.cmd("jq", ["-S", "-c", ".", public_path])
+    File.write!(public_path, stdout)
     data
+  end
+
+  def find_new(new_data, existing_path) do
+    with {:ok, email_addresses_comma} when is_binary(email_addresses_comma) <-
+           System.fetch_env("EMAIL_RECIPIENTS"),
+         email_addresses <- String.split(email_addresses_comma, ","),
+         {:ok, api_key} when is_binary(api_key) <- System.fetch_env("MAILGUN_API_KEY"),
+         {:ok, existing} <- File.read(existing_path),
+         {:ok, json} <- Jason.decode(existing) do
+      new_crashes =
+        Enum.filter(new_data, fn crash ->
+          !Enum.find(json, fn existing_crash ->
+            Map.fetch!(existing_crash, "id") == crash.id
+          end)
+        end)
+
+      if new_crashes != [] do
+        send_emails(new_crashes, email_addresses, api_key)
+      else
+        IO.inspect("No new crashes, not sending email")
+      end
+    else
+      e ->
+        IO.inspect("#{e} - maybe new year?")
+    end
+  end
+
+  def send_emails(crashes, email_addresses, api_key) do
+    text =
+      Enum.map(crashes, fn crash ->
+        ~s"""
+        Id: #{crash.id}
+        Date: #{crash.date}
+        Fatalaties: #{crash.total_fatalities}
+        Injuries: #{crash.total_injuries}
+        Bicyclist: #{crash.bike}
+        Pedestrian: #{crash.pedestrian}
+        Motorcycle: #{crash.motorcycle}
+        Severity: #{crash.severity}
+        Intersection: #{crash.on_roadway} / #{crash.at_roadway}
+        Aldermanic District: #{crash.alder_district}
+        -----------------------------------------------------
+        """
+      end)
+      |> Enum.join("\n")
+
+    auth = Base.encode64("api:#{api_key}")
+
+    req_body =
+      URI.encode_query(%{
+        "from" => "data@betterstreetsmke.com",
+        "to" => Enum.join(email_addresses, ", "),
+        "subject" => "New Crash - Vision Zero Dashboard Notification",
+        "text" => text
+      })
+
+    HTTPoison.post(
+      "https://api.mailgun.net/v3/betterstreetsmke.com/messages",
+      req_body,
+      [{"Content-Type", "application/x-www-form-urlencoded"}, {"Authorization", "Basic #{auth}"}]
+    )
   end
 
   def get_data(year) do
