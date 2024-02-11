@@ -13,6 +13,11 @@ defmodule Mix.Tasks.Trails.Data do
   ]
 
   def run(_args) do
+    data = File.read!("./data/trail_counts/data.csv")
+           |> convert_csv()
+
+    daily_json(data)
+    monthly_json(data)
   end
 
   def convert_csv(string) do
