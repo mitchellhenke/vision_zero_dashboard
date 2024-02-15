@@ -162,11 +162,15 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
         "text" => text
       })
 
-    HTTPoison.post(
-      "https://api.mailgun.net/v3/betterstreetsmke.com/messages",
-      req_body,
-      [{"Content-Type", "application/x-www-form-urlencoded"}, {"Authorization", "Basic #{auth}"}]
-    )
+    {:ok, %{status_code: 200}} =
+      HTTPoison.post(
+        "https://api.mailgun.net/v3/betterstreetsmke.com/messages",
+        req_body,
+        [
+          {"Content-Type", "application/x-www-form-urlencoded"},
+          {"Authorization", "Basic #{auth}"}
+        ]
+      )
   end
 
   def get_data(year) do
