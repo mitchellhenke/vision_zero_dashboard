@@ -217,6 +217,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "W MORGAN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92894,
+      42.981394
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-06",
+    "distracted": false,
+    "id": "J9L1VCBQ7K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N SERVITE DR",
     "bike": false,
