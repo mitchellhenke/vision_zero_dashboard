@@ -122,10 +122,17 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
           end)
         end)
 
-      if new_crashes != [] do
-        send_emails(new_crashes, email_addresses, api_key)
-      else
-        IO.inspect("No new crashes, not sending email")
+      send_emails(new_crashes, email_addresses, api_key)
+
+      cond do
+        length(new_crashes) > 50 ->
+          raise "Too many crashes?"
+
+        length(new_crashes) > 0 ->
+          send_emails(new_crashes, email_addresses, api_key)
+
+        true ->
+          IO.inspect("No new crashes, not sending email")
       end
     else
       e ->
