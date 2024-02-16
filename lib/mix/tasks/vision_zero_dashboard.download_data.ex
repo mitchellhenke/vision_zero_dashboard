@@ -122,8 +122,6 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
           end)
         end)
 
-      send_emails(new_crashes, email_addresses, api_key)
-
       cond do
         length(new_crashes) > 50 ->
           raise "Too many crashes?"
