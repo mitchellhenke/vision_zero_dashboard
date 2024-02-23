@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "018",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92625,
+      43.04444
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-01",
+    "distracted": false,
+    "id": "1ML18PPTS1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W MAIN ST",
     "bike": false,
