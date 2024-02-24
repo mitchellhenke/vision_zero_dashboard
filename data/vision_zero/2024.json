@@ -299,6 +299,33 @@
   {
     "65+_driver": true,
     "alder_district": 5,
+    "at_roadway": "APPLETON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.062212,
+      43.13978
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-16",
+    "distracted": true,
+    "id": "J9L1TBGSHS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 5,
     "at_roadway": "N 100TH ST",
     "bike": false,
     "construction_zone": false,
