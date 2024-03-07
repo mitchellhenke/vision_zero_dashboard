@@ -217,6 +217,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "E W SILVER SPRING DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.0324,
+      43.119537
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-27",
+    "distracted": false,
+    "id": "J9L1GNQ6RV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W GLENDALE AVE",
     "bike": false,
