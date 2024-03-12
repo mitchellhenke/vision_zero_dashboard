@@ -1,13 +1,40 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 19TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93703912,
+      43.007285654
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-01-25",
+    "distracted": false,
+    "id": "06L2ZDPGFG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FOREST HOME AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "018",
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92625,
-      43.04444
+      -87.92625041,
+      43.044439639
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-01",
@@ -33,8 +60,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.00724,
-      43.025422
+      -88.00724021,
+      43.025422134
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-10",
@@ -60,8 +87,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967028,
-      43.093141
+      -87.96702787,
+      43.093140915
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-15",
@@ -87,8 +114,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.958074,
-      42.988475
+      -87.95807392,
+      42.988474619
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-25",
@@ -114,8 +141,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986997,
-      43.087252
+      -87.98699731,
+      43.087252487
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-09",
@@ -141,8 +168,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9789,
-      43.09179
+      -87.97889983,
+      43.091790252
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-16",
@@ -168,8 +195,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.045093,
-      43.148408
+      -88.04509329,
+      43.148408496
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-19",
@@ -195,8 +222,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.991459,
-      43.102009
+      -87.99145928,
+      43.10200944
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-08",
@@ -222,8 +249,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947508,
-      43.060596
+      -87.94750815,
+      43.060595719
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-29",
@@ -249,8 +276,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.0324,
-      43.119537
+      -88.03240025,
+      43.119537324
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-27",
@@ -271,13 +298,40 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95761726,
+      43.04872811
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-26",
+    "distracted": false,
+    "id": "J9L1J55JQ4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W VLIET ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W GLENDALE AVE",
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.958414,
-      43.100762
+      -87.95841388,
+      43.100761687
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-07",
@@ -303,8 +357,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.949889,
-      43.111853
+      -87.94988877,
+      43.111853419
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-11",
@@ -330,8 +384,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.954059,
-      43.072624
+      -87.95405858,
+      43.072623904
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-12",
@@ -357,8 +411,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.988132,
-      43.07178
+      -87.98813212,
+      43.071780499
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-29",
@@ -384,8 +438,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918818,
-      43.000446
+      -87.91881804,
+      43.000446274
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-05",
@@ -411,8 +465,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918934,
-      42.994476
+      -87.91893441,
+      42.994476279
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-15",
@@ -438,8 +492,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.939581,
-      43.119024
+      -87.93958114,
+      43.11902397
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-02",
@@ -465,8 +519,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.062212,
-      43.13978
+      -88.06221157,
+      43.139779545
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-16",
@@ -492,8 +546,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.037178,
-      43.133937
+      -88.03717761,
+      43.133937095
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-30",
@@ -519,8 +573,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9576,
-      43.054662
+      -87.95759963,
+      43.054661588
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-12",
@@ -546,8 +600,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947772,
-      43.048227
+      -87.94777221,
+      43.048227418
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-17",
@@ -573,8 +627,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92894,
-      42.981394
+      -87.92894037,
+      42.981393864
     ],
     "county": "MILWAUKEE",
     "date": "2024-02-06",
@@ -595,13 +649,40 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W MITCHELL ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93795962,
+      43.012336371
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-27",
+    "distracted": false,
+    "id": "J9L2TQT5SM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S MUSKEGO AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 5,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N SERVITE DR",
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.009013,
-      43.177749
+      -88.00901289,
+      43.177749392
     ],
     "county": "MILWAUKEE",
     "date": "2024-01-07",
