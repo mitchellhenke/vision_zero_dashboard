@@ -325,6 +325,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "W STATE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94768908,
+      43.043002747
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-10",
+    "distracted": false,
+    "id": "J9L1G5WRKT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "057 N 20TH ST",
     "bike": false,
@@ -402,6 +429,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 4,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W ROOSEVELT DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96980464,
+      43.084693979
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-02",
+    "distracted": false,
+    "id": "J9L1KNTX00",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
