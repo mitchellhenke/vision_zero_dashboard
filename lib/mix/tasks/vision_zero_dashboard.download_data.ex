@@ -144,7 +144,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
         ~s"""
         Id: #{crash.id}
         Date: #{crash.date}
-        Fatalaties: #{crash.total_fatalities}
+        Fatalities: #{crash.total_fatalities}
         Injuries: #{crash.total_injuries}
         Bicyclist: #{crash.bike}
         Pedestrian: #{crash.pedestrian}
