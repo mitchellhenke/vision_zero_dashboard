@@ -487,6 +487,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W HOWARD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9447825,
+      42.974075819
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-02-29",
+    "distracted": false,
+    "id": "J9L1J6DL00",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 24TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 2,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W ROOSEVELT DR",
     "bike": false,
