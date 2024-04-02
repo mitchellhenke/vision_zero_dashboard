@@ -973,6 +973,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 13TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92809295,
+      43.010138951
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-09",
+    "distracted": false,
+    "id": "J9L1VKHWSM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BURNHAM ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W HADLEY ST",
     "bike": false,
