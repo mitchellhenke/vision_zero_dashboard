@@ -1027,6 +1027,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "CROSSOVER STH190",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03775203,
+      43.089581841
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-16",
+    "distracted": false,
+    "id": "J9L2RGX4P5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 10TH ST",
     "bike": false,
