@@ -1216,6 +1216,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "094",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96031074,
+      43.032433673
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-30",
+    "distracted": false,
+    "id": "KRL0D0GSNF",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "094",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N SERVITE DR",
     "bike": false,
