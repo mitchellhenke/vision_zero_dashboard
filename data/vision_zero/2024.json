@@ -325,6 +325,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W KIEHNAU AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95376983,
+      43.137105501
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-25",
+    "distracted": false,
+    "id": "J9L1F7HWXS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W ARMITAGE AVE",
     "bike": false,

@@ -2052,33 +2052,6 @@
     "year": 2023
   },
   {
-    "65+_driver": true,
-    "alder_district": 14,
-    "at_roadway": "S ADAMS AVE",
-    "bike": false,
-    "construction_zone": false,
-    "coordinates": [
-      -87.90282641,
-      42.988304798
-    ],
-    "county": "MILWAUKEE",
-    "date": "2023-11-25",
-    "distracted": false,
-    "id": "1ML189CGRD",
-    "impaired": false,
-    "motorcycle": false,
-    "municipality": "MILWAUKEE",
-    "occupant_protection": false,
-    "on_roadway": "E OKLAHOMA AVE",
-    "pedestrian": false,
-    "severity": "K",
-    "speeding": false,
-    "teen_driver": false,
-    "total_fatalities": 1,
-    "total_injuries": 0,
-    "year": 2023
-  },
-  {
     "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "181",
