@@ -55,6 +55,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 13TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93167984,
+      42.965765819
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-10",
+    "distracted": true,
+    "id": "1ML13KD72W",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "018",
     "bike": false,
