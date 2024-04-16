@@ -676,6 +676,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W CONCORDIA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96728983,
+      43.079149876
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-23",
+    "distracted": true,
+    "id": "J9L1LNGSRQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N TEUTONIA AVE",
     "bike": false,
