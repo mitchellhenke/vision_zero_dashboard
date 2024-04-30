@@ -190,6 +190,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W MARION ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9867866,
+      43.096155136
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-22",
+    "distracted": false,
+    "id": "J9L18VN0GC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 60TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N 48TH ST",
     "bike": false,
