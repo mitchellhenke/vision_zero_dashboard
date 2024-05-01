@@ -1081,6 +1081,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W CLARKE ST",
+    "bike": false,
+    "construction_zone": true,
+    "coordinates": [
+      -87.93751822,
+      43.065216644
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-08",
+    "distracted": false,
+    "id": "J9L1QM0C5V",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W BRANTING LN",
     "bike": false,
@@ -1482,6 +1509,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W VERA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95531566,
+      43.144229575
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-08",
+    "distracted": false,
+    "id": "J9L2TG5WWP",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
