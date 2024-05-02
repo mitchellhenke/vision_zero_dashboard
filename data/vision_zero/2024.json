@@ -1297,6 +1297,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W VILLARD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96638898,
+      43.111963616
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-05",
+    "distracted": false,
+    "id": "J9L1V07DB8",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 2,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "W MORGAN AVE",
     "bike": false,
@@ -1401,6 +1428,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 21ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93976595,
+      43.003071421
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-15",
+    "distracted": false,
+    "id": "J9L1VKHWSQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LINCOLN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
