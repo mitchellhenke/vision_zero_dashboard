@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 68TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99803631,
+      42.973818789
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-06",
+    "distracted": false,
+    "id": "J9L1CS9M2M",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HOWARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W HOPE AVE",
     "bike": false,
