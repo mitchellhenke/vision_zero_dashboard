@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N FRATNEY ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9015361,
+      43.071071472
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-01-28",
+    "distracted": false,
+    "id": "06L23ZQKT2",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E LOCUST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "E LINCOLN AVE",
     "bike": false,
@@ -267,6 +294,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "145",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91885194,
+      43.042965062
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-23",
+    "distracted": false,
+    "id": "J9L1CVRPB8",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N. 6TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
