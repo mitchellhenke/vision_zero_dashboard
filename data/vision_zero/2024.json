@@ -1702,6 +1702,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W CLINTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00514191,
+      43.151403125
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-10",
+    "distracted": false,
+    "id": "J9L2TG5WWR",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "181 N 76TH ST",
     "bike": false,
