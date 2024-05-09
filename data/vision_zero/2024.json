@@ -1189,6 +1189,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "181",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00699383,
+      43.09000208
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-22",
+    "distracted": false,
+    "id": "J9L1QH97VD",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W CLARKE ST",
     "bike": false,
@@ -1644,6 +1671,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W CENTER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94737443,
+      43.068777277
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-26",
+    "distracted": false,
+    "id": "J9L2T1TJRH",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
