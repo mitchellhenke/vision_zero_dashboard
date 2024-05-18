@@ -811,6 +811,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 16TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93307326,
+      43.006547777
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-04",
+    "distracted": false,
+    "id": "J9L1GFB006",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W BECHER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "057 N 20TH ST",
     "bike": false,
@@ -1455,6 +1482,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95703608,
+      43.089939383
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-18",
+    "distracted": false,
+    "id": "J9L1T49M0Z",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 7,
     "year": 2024
   },
   {
