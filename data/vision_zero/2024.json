@@ -1054,6 +1054,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "145 FOND DU LAC AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9946593,
+      43.104843435
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-01",
+    "distracted": false,
+    "id": "J9L1JXM7TQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "EE W HAMPTON AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W ROOSEVELT DR",
     "bike": false,
@@ -1104,6 +1131,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "N 30TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95151411,
+      43.038673752
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-05",
+    "distracted": false,
+    "id": "J9L1LBLHLT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WISCONSIN AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
