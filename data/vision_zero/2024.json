@@ -2025,6 +2025,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 10,
+    "at_roadway": "W ST PAUL AVE",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94773024,
+      43.034757518
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-11",
+    "distracted": false,
+    "id": "J9L2T0LHMH",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W CENTER ST",
@@ -2322,6 +2349,33 @@
     "year": 2024
   },
   {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N 23RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94083998,
+      43.089626828
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-11",
+    "distracted": false,
+    "id": "J9L2TT97ZP",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": true,
     "alder_district": 7,
     "at_roadway": "N 31ST ST",
@@ -2400,6 +2454,33 @@
     "teen_driver": true,
     "total_fatalities": 2,
     "total_injuries": 5,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N 6TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91877744,
+      43.060302502
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-03-23",
+    "distracted": false,
+    "id": "M5L2BGSFB4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   }
 ]
