@@ -1458,6 +1458,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "W CLEVELAND AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94842983,
+      42.995853374
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-03",
+    "distracted": false,
+    "id": "J9L1PZ7RGR",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "241 S 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "181",
@@ -1918,6 +1945,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 34TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95576699,
+      43.089896663
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-14",
+    "distracted": false,
+    "id": "J9L2QH97WZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W HADLEY ST",
     "bike": false,
@@ -1941,6 +1995,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94733754,
+      43.071527635
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-03",
+    "distracted": false,
+    "id": "J9L2R51TNX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 4,
     "year": 2024
   },
   {
