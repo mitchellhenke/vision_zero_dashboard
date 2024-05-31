@@ -756,6 +756,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 9,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96597184,
+      43.133994375
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-16",
+    "distracted": false,
+    "id": "J9L1FJ55KW",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W BURNHAM ST",
