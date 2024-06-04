@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W CORNELL ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94516282,
+      43.101634713
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-10",
+    "distracted": false,
+    "id": "06L23RKDD5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "N FRATNEY ST",
     "bike": false,
