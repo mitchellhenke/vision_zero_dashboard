@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "N SERVITE DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00901685,
+      43.177717931
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-04-06",
+    "distracted": false,
+    "id": "06L10FKD7B",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "100 W BROWN DEER RD",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W CORNELL ST",
     "bike": false,
@@ -2265,6 +2292,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W SIEBEN PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96730729,
+      43.078173917
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-18",
+    "distracted": false,
+    "id": "J9L2RJ55SL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2024
   },
   {
