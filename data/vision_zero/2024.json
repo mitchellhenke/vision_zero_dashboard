@@ -29,6 +29,33 @@
   {
     "65+_driver": false,
     "alder_district": 1,
+    "at_roadway": "W FLORIST AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95194423,
+      43.126868204
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-29",
+    "distracted": false,
+    "id": "06L1XJRPDG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
     "at_roadway": "W CORNELL ST",
     "bike": false,
     "construction_zone": false,
