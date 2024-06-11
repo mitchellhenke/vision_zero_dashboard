@@ -2782,6 +2782,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "N 95TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02867483,
+      43.177749706
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-15",
+    "distracted": false,
+    "id": "J9L2THDXZX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "100 W BROWN DEER RD",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W MITCHELL ST",
     "bike": false,
