@@ -2458,6 +2458,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "W LISBON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.0276913,
+      43.086605525
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-28",
+    "distracted": false,
+    "id": "J9L2RJ55T1",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 92ND ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N 36TH ST",
     "bike": false,
