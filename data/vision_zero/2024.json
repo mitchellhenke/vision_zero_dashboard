@@ -2674,6 +2674,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 6TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91658458,
+      43.031327558
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-06",
+    "distracted": false,
+    "id": "J9L2TDXVWZ",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CANAL ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W WINFIELD AVE",
     "bike": false,
@@ -2859,6 +2886,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "181",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00573654,
+      43.134142164
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-08",
+    "distracted": false,
+    "id": "J9L2THDZ0C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2024
   },
   {
