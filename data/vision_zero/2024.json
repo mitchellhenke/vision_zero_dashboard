@@ -1405,6 +1405,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "E GARFIELD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90528571,
+      43.059024589
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-15",
+    "distracted": false,
+    "id": "J9L1JN005P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HOLTON ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "145 FOND DU LAC AVE",
     "bike": false,
