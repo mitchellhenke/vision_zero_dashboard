@@ -4,7 +4,7 @@
     "chart.js": "^4.4.0"
   },
   "devDependencies": {
-    "@uswds/compile": "^1.0.0",
+    "@uswds/compile": "^1.1.0",
     "esbuild": "0.19.4"
   }
 }
