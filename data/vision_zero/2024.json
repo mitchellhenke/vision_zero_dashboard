@@ -2997,6 +2997,33 @@
     "year": 2024
   },
   {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N WATER ST",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90754261,
+      43.04962247
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-14",
+    "distracted": false,
+    "id": "J9L2RW8HP4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N MILWAUKEE ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": true,
     "alder_district": 10,
     "at_roadway": "W ST PAUL AVE",
