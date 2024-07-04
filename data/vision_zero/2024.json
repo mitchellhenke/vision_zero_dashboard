@@ -379,6 +379,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W SHERIDAN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97606103,
+      43.118059506
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-16",
+    "distracted": false,
+    "id": "1ML17RB09D",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 51ST BLVD",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "018",
     "bike": false,
