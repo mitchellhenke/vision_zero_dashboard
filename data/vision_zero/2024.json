@@ -460,6 +460,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W GRANTOSA DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01758052,
+      43.106226956
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-29",
+    "distracted": false,
+    "id": "1ML14PZ80P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "MITCHELLFIELD AIR CARGO RD",
     "bike": false,
