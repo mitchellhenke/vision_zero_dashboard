@@ -2755,6 +2755,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "38 E VAN NORMAN AV",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90974029,
+      42.962745271
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-04",
+    "distracted": false,
+    "id": "J9L1VFSSG0",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "038",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 13TH ST",
     "bike": false,
@@ -3970,6 +3997,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.0254598,
+      43.134065108
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-05",
+    "distracted": false,
+    "id": "M5L192T5M2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 91ST ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 3,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "N 6TH ST",
     "bike": false,
@@ -4020,6 +4074,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W HEMLOCK ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98538289,
+      43.150216866
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-08",
+    "distracted": false,
+    "id": "M5L2DH97RD",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 60TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2024
   }
 ]
