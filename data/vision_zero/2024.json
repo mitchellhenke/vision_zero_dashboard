@@ -4050,6 +4050,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 7,
+    "at_roadway": "145 W FOND DU LAC AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95261169,
+      43.071614377
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-04",
+    "distracted": false,
+    "id": "M5L2C4K13N",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LOCUST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 8TH ST",
