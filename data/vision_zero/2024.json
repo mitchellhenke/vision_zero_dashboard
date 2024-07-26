@@ -946,6 +946,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "S 18TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93605747,
+      42.988366019
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-04",
+    "distracted": false,
+    "id": "J9L1DCL4MD",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W OKLAHOMA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 35TH ST",
     "bike": false,
