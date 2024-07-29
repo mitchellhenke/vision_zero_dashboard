@@ -460,6 +460,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "794",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90299365,
+      43.036003138
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-23",
+    "distracted": false,
+    "id": "1ML14PZ80L",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W GRANTOSA DR",
     "bike": false,
