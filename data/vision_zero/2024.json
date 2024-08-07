@@ -189,6 +189,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 7,
+    "at_roadway": "W BURLEIGH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95725851,
+      43.075214396
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-26",
+    "distracted": false,
+    "id": "06L28BLHKJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 20TH ST",
