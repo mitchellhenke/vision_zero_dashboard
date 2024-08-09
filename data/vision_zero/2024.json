@@ -3781,6 +3781,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E ALBION ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.8948011,
+      43.050270609
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-20",
+    "distracted": false,
+    "id": "J9L2TDXVX6",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "032 N FARWELL AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W WINFIELD AVE",
     "bike": false,
