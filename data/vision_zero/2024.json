@@ -434,6 +434,33 @@
   {
     "65+_driver": false,
     "alder_district": 13,
+    "at_roadway": "S 20TH ST",
+    "bike": false,
+    "construction_zone": true,
+    "coordinates": [
+      -87.93965986,
+      42.962508549
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-05",
+    "distracted": false,
+    "id": "1ML0J7MM1Q",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
     "at_roadway": "S 13TH ST",
     "bike": false,
     "construction_zone": false,
@@ -4047,6 +4074,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96597371,
+      43.133934805
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-30",
+    "distracted": false,
+    "id": "J9L2TG5WZG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 5,
     "year": 2024
   },
   {
