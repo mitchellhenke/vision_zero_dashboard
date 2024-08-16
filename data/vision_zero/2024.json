@@ -216,6 +216,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 15,
+    "at_roadway": "W ASH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9425659,
+      43.063444577
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-31",
+    "distracted": false,
+    "id": "06L2JP713C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 20TH ST",
@@ -3916,6 +3943,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 95TH ST",
+    "bike": false,
+    "construction_zone": true,
+    "coordinates": [
+      -88.03115699,
+      43.119481225
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-08",
+    "distracted": false,
+    "id": "J9L2TCPTQ9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "E W SILVER SPRING DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 6TH ST",
     "bike": false,
@@ -4371,6 +4425,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 62ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98968854,
+      43.090060215
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-25",
+    "distracted": false,
+    "id": "J9L2TT9810",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
