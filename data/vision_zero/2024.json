@@ -216,6 +216,33 @@
     "year": 2024
   },
   {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E CENTER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89783638,
+      43.067428522
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-04",
+    "distracted": false,
+    "id": "06L2JLQXVP",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HUMBOLDT BLVD",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
     "65+_driver": true,
     "alder_district": 15,
     "at_roadway": "W ASH ST",
@@ -4564,6 +4591,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "E OHIO AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90938211,
+      42.984558351
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-19",
+    "distracted": false,
+    "id": "J9L2TZ0C48",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "038",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "W COURTLAND AVE",
     "bike": false,
@@ -4591,6 +4645,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W ASH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94259548,
+      43.06342461
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-05",
+    "distracted": false,
+    "id": "J9L2TZ0C4N",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "094",
     "bike": false,
@@ -4614,6 +4695,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 14TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92995815,
+      43.060413195
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-27",
+    "distracted": false,
+    "id": "KRL0L84FK5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2024
   },
   {
@@ -4830,6 +4938,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "E W SILVER SPRING DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02506442,
+      43.119518647
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-14",
+    "distracted": false,
+    "id": "M5L2DM0C3C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W SILVER SPRING DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   }
 ]
