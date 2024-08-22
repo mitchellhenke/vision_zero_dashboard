@@ -2755,6 +2755,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "145 W FOND DU LAC AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93885317,
+      43.060528453
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-01",
+    "distracted": false,
+    "id": "J9L1P884H4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "N 91ST ST",
     "bike": false,
@@ -3453,6 +3480,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 28TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94910184,
+      43.024132207
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-21",
+    "distracted": false,
+    "id": "J9L2QH97XT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W PIERCE ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
