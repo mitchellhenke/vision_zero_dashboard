@@ -4186,6 +4186,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W MITCHELL ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93305594,
+      43.012248631
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-19",
+    "distracted": false,
+    "id": "J9L2SBTWRS",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 16TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "145 W FOND DU LAC AVE",
     "bike": false,
