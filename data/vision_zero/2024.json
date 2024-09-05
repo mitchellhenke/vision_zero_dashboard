@@ -4105,6 +4105,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 25TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94376502,
+      43.104464843
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-05",
+    "distracted": false,
+    "id": "J9L2RJ55VB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W GRANTOSA DR",
     "bike": false,
@@ -4128,6 +4155,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W CENTER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97615829,
+      43.06796348
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-30",
+    "distracted": false,
+    "id": "J9L2RJ55VM",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 50TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
