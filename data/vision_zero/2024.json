@@ -784,6 +784,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "041",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03449797,
+      43.031194544
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-18",
+    "distracted": false,
+    "id": "1ML14L84VB",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "794",
     "bike": false,
