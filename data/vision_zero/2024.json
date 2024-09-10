@@ -1081,6 +1081,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W LLOYD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97168637,
+      43.056875626
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-29",
+    "distracted": false,
+    "id": "1ML1B3P3F9",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "041",
     "bike": false,
@@ -2292,6 +2319,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W FOREST HOME AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9331368,
+      43.009313293
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-16",
+    "distracted": false,
+    "id": "J9L1JCBQGC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 16TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2024
   },
   {
