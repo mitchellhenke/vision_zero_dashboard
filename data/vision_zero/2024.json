@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N SERCOMBE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96190533,
+      43.093828276
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-16",
+    "distracted": false,
+    "id": "06L2DDT5ND",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 39TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E CENTER ST",
     "bike": false,
