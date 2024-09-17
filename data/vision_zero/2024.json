@@ -28,6 +28,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "059 W NATIONAL AVE",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93311455,
+      43.022987638
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-29",
+    "distracted": false,
+    "id": "06L1PJWD6T",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S CESAR E CHAVEZ DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W CLARKE ST",
     "bike": false,
@@ -1887,6 +1914,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "S 26TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94570088,
+      43.002402374
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-29",
+    "distracted": false,
+    "id": "J9L1FKD6XL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FOREST HOME AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
@@ -4803,6 +4857,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W MERRILL ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94186051,
+      43.007754016
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-26",
+    "distracted": false,
+    "id": "J9L2T1TJSL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S MUSKEGO AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2024
   },
   {
