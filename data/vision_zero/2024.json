@@ -2701,6 +2701,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W ELY PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98089446,
+      43.093635635
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-04",
+    "distracted": false,
+    "id": "J9L1K61GSK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "N 13TH ST",
     "bike": false,
