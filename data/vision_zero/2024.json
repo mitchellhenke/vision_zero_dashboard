@@ -838,6 +838,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W WELLS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97222856,
+      43.039606058
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-06",
+    "distracted": false,
+    "id": "1ML13RKDL5",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FLORIST AVE",
     "bike": false,
@@ -4236,6 +4263,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "S KANSAS AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88801062,
+      42.973722842
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-17",
+    "distracted": false,
+    "id": "J9L2QG271G",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E HOWARD AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2024
   },
   {
