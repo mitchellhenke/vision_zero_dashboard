@@ -1432,6 +1432,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N 6TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91817054,
+      43.060307219
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-07-15",
+    "distracted": false,
+    "id": "J9L0SVWFHM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W ATKINSON AVE",
     "bike": false,
@@ -2562,6 +2589,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 24TH PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94361055,
+      43.073347834
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-05-16",
+    "distracted": false,
+    "id": "J9L1HNC3GX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CHAMBERS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
@@ -4155,6 +4209,33 @@
     "teen_driver": false,
     "total_fatalities": 2,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W CLINTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00515857,
+      43.150964496
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-21",
+    "distracted": false,
+    "id": "J9L1V1GFDZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
     "year": 2024
   },
   {
