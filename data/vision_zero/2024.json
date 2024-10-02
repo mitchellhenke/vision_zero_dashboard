@@ -2782,6 +2782,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W BECHER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93225334,
+      43.006280072
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-30",
+    "distracted": false,
+    "id": "J9L1JCBQGR",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 15TH PL",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W BURNHAM ST",
     "bike": false,
@@ -5478,6 +5505,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 5,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 39TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96122235,
+      43.107369015
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-27",
+    "distracted": false,
+    "id": "J9L2T97RGX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HOPKINS ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
