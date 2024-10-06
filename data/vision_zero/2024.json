@@ -865,6 +865,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "S 64TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99236726,
+      43.030364337
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-26",
+    "distracted": false,
+    "id": "1ML13RKDLQ",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FLORIST AVE",
     "bike": false,
