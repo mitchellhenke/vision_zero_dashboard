@@ -3375,6 +3375,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 3,
+    "at_roadway": "032 E BRADFORD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88056942,
+      43.063727221
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-09-20",
+    "distracted": false,
+    "id": "J9L1M90C9S",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N PROSPECT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "N 32ND ST",
@@ -3615,6 +3642,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "E STEWART ST",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90760879,
+      43.007089346
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-01",
+    "distracted": false,
+    "id": "J9L1NTWRH5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "032 S KINNICKINNIC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
@@ -4749,6 +4803,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 11,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 48TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97396626,
+      43.059271163
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-06",
+    "distracted": false,
+    "id": "J9L2QKRB1V",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GARFIELD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
