@@ -2917,6 +2917,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "E CHICAGO ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9093533,
+      43.032443873
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-20",
+    "distracted": false,
+    "id": "J9L1GX4FBR",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W GREVES ST",
     "bike": false,
@@ -7287,6 +7314,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 51ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97721921,
+      43.06797082
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-23",
+    "distracted": false,
+    "id": "J9L2TZ0C5C",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CENTER ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
