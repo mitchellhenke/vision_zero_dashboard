@@ -839,6 +839,33 @@
   {
     "65+_driver": false,
     "alder_district": 13,
+    "at_roadway": "W HOWARD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91575688,
+      42.969642062
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-08-10",
+    "distracted": false,
+    "id": "1ML10DBCHT",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
     "at_roadway": "S 13TH ST",
     "bike": false,
     "construction_zone": false,
@@ -2022,6 +2049,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N 26TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94632742,
+      43.034783307
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-25",
+    "distracted": false,
+    "id": "J9L1DH97SN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W ST PAUL AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
