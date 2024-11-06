@@ -5805,6 +5805,33 @@
     "year": 2024
   },
   {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "181",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00545024,
+      43.120181837
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-29",
+    "distracted": false,
+    "id": "J9L2RGX4QS",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": true,
     "alder_district": 10,
     "at_roadway": "175",
@@ -6643,6 +6670,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 81ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01289393,
+      43.104991497
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-25",
+    "distracted": false,
+    "id": "J9L2T97RH8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "EE W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W VERA AVE",
     "bike": false,
@@ -6990,6 +7044,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "PP W GOOD HOPE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04574565,
+      43.148404748
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-29",
+    "distracted": false,
+    "id": "J9L2TG5X0L",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GOOD HOPE RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
