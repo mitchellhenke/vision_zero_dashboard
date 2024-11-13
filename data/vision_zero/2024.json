@@ -838,6 +838,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "W OKLAHOMA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91447622,
+      42.988994822
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-27",
+    "distracted": false,
+    "id": "1ML0ZN3PHW",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "W HOWARD AVE",
     "bike": false,
@@ -7341,6 +7368,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 4,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "190",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96709395,
+      43.089776868
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-27",
+    "distracted": false,
+    "id": "J9L2THDZ2G",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
