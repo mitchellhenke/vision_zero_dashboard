@@ -4025,6 +4025,33 @@
   {
     "65+_driver": false,
     "alder_district": 14,
+    "at_roadway": "E RUSK AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.8852477,
+      42.990476954
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-26",
+    "distracted": false,
+    "id": "J9L1MFXHMM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "032 S KINNICKINNIC AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 14,
     "at_roadway": "W HAYES AVE",
     "bike": false,
     "construction_zone": false,
