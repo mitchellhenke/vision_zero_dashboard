@@ -1000,6 +1000,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W LAPHAM BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91622068,
+      43.014619262
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-02",
+    "distracted": false,
+    "id": "1ML13KD76P",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "018",
     "bike": false,
