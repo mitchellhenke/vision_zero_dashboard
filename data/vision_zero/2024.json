@@ -3996,6 +3996,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": 4,
+    "at_roadway": "E MICHIGAN ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90900959,
+      43.037378971
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-28",
+    "distracted": false,
+    "id": "J9L1M90C8T",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E NORTH AVE",
