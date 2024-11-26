@@ -4672,6 +4672,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N DENMARK ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03095336,
+      43.132666236
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-07",
+    "distracted": false,
+    "id": "J9L1P9H5PQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N SHERMAN BLVD",
     "bike": false,
