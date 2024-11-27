@@ -1918,6 +1918,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00558749,
+      43.134137327
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-24",
+    "distracted": false,
+    "id": "J9L1CJWD8X",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N 48TH ST",
     "bike": false,
@@ -2319,6 +2346,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 5,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 14TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92951739,
+      43.053864695
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-07",
+    "distracted": false,
+    "id": "J9L1F2KRCJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2024
   },
   {
