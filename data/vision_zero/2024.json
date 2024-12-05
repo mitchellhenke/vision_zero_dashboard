@@ -1351,6 +1351,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W EDGERTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93500496,
+      42.951847906
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-01",
+    "distracted": false,
+    "id": "1ML16H1TP1",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W KEEFE AVE",
     "bike": false,
@@ -3399,6 +3426,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "024",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95828884,
+      42.994640371
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-03",
+    "distracted": false,
+    "id": "J9L1HWRB3V",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 35TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 5,
     "year": 2024
   },
   {
@@ -8178,6 +8232,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 4,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93775508,
+      43.051374616
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-12",
+    "distracted": false,
+    "id": "J9L2TZ0C5J",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GALENA ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 3,
     "year": 2024
   },
   {
