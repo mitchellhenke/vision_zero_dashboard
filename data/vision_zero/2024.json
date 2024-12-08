@@ -1054,6 +1054,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "S 70TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00318898,
+      43.029316279
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-27",
+    "distracted": false,
+    "id": "1ML13KD76D",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W LAPHAM BLVD",
     "bike": false,
