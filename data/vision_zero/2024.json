@@ -1378,6 +1378,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N 6TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91888999,
+      43.035699719
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-10-20",
+    "distracted": false,
+    "id": "1ML14R68X2",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "MITCHELLFIELD AIR CARGO RD",
     "bike": false,
