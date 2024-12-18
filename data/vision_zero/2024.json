@@ -3728,6 +3728,33 @@
   {
     "65+_driver": false,
     "alder_district": 12,
+    "at_roadway": "032",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9111531,
+      43.02321445
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-06-11",
+    "distracted": false,
+    "id": "J9L1JCBQFR",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E NATIONAL AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
     "at_roadway": "W FOREST HOME AVE",
     "bike": false,
     "construction_zone": false,
