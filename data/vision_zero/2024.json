@@ -676,6 +676,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "S 66TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99453164,
+      43.026032255
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-29",
+    "distracted": false,
+    "id": "06L2XHJN01",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W MAIN ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 19TH ST",
     "bike": false,
@@ -5694,6 +5721,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88791323,
+      43.071033234
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-12-21",
+    "distracted": false,
+    "id": "J9L1THDXXP",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N OAKLAND AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 3,
     "year": 2024
   },
   {
