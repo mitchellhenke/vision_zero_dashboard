@@ -28,7 +28,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
       end)
       |> Enum.into(%{})
 
-    File.write!("_public/data/vision_zero/summary/ytd_summary.json", Jason.encode!(ytd_summaries))
+    File.write!("_public/data/vision_zero/summary/ytd_summary.json", JSON.encode!(ytd_summaries))
 
     {stdout, 0} =
       System.cmd("jq", ["-S", "-c", ".", "_public/data/vision_zero/summary/ytd_summary.json"])
@@ -115,7 +115,13 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
   end
 
   def parse_data(content) do
-    Jason.decode!(content, keys: :atoms)
+    JSON.decode!(content)
+    |> Enum.map(fn(crash) ->
+      Enum.map(crash, fn({key, value}) ->
+        {String.to_atom(key), value}
+      end)
+      |> Enum.into(%{})
+    end)
     |> Enum.map(fn crash ->
       Map.update!(crash, :date, &Date.from_iso8601!(&1))
     end)

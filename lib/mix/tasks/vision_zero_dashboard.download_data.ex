@@ -17,7 +17,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
 
     alder_districts =
       File.read!("./data/alder_districts.geojson")
-      |> Jason.decode!()
+      |> JSON.decode!()
       |> Geo.JSON.decode!()
 
     HTTPoison.start()
@@ -98,7 +98,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
 
     find_new(data, data_path)
 
-    encoded = Jason.encode!(data)
+    encoded = JSON.encode!(data)
     File.write!(data_path, encoded)
     File.write!(public_path, encoded)
     {stdout, 0} = System.cmd("jq", ["-S", ".", data_path])
@@ -114,7 +114,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
          email_addresses <- String.split(email_addresses_comma, ","),
          {:ok, api_key} when is_binary(api_key) <- System.fetch_env("MAILGUN_API_KEY"),
          {:ok, existing} <- File.read(existing_path),
-         {:ok, json} <- Jason.decode(existing) do
+         {:ok, json} <- JSON.decode(existing) do
       new_crashes =
         Enum.filter(new_data, fn crash ->
           !Enum.find(json, fn existing_crash ->
@@ -183,6 +183,6 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
       "https://transportal.cee.wisc.edu/partners/community-maps/crash/public/crashesKML.do?filetype=json&startyear=#{year}&endyear=#{year}&county=milwaukee&injsvr=O&injsvr=K&injsvr=A&injsvr=B&injsvr=C"
 
     resp = HTTPoison.get!(url, [], recv_timeout: 90_000)
-    Jason.decode!(resp.body)
+    JSON.decode!(resp.body)
   end
 end

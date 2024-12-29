@@ -71,7 +71,7 @@ defmodule Mix.Tasks.Trails.Data do
       |> IO.iodata_to_binary()
 
     File.write!("tmp.csv", content)
-    File.write!("data.json", Jason.encode!(values))
+    File.write!("data.json", JSON.encode!(values))
 
     values
   end
@@ -103,7 +103,7 @@ defmodule Mix.Tasks.Trails.Data do
 
     File.write!("daily.csv", content)
     json = %{trail_names: @trail_names, data: values}
-    File.write!("daily.json", Jason.encode!(json))
+    File.write!("daily.json", JSON.encode!(json))
   end
 
   def monthly_json(data) do
@@ -134,6 +134,6 @@ defmodule Mix.Tasks.Trails.Data do
 
     File.write!("monthly.csv", content)
     json = %{trail_names: @trail_names, data: values}
-    File.write!("monthly.json", Jason.encode!(json))
+    File.write!("monthly.json", JSON.encode!(json))
   end
 end
