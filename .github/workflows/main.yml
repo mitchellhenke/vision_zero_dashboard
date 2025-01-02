@@ -47,7 +47,7 @@ jobs:
         EMAIL_RECIPIENTS: ${{ secrets.EMAIL_RECIPIENTS }}
         MAILGUN_API_KEY: ${{ secrets.MAILGUN_API_KEY }}
       run: |
-        mix vision_zero_dashboard.download_data --years="$(date +'%Y'),$[$(date +'%Y') - 1]"
+        mix vision_zero_dashboard.download_data --years="$(./scripts/years.bash)"
     - name: Compile Data
       run: |
         mix vision_zero_dashboard.data
