@@ -8,6 +8,11 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     current_year = today.year
     last_year = one_year_ago.year
 
+    {current_year, last_year} =
+      if today.month == 1 && today.day < 7 do
+        {current_year - 1, last_year - 1}
+      end
+
     ytd_data =
       load_data()
       |> Enum.map(fn {year, crashes} ->
@@ -116,8 +121,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
 
   def parse_data(content) do
     JSON.decode!(content)
-    |> Enum.map(fn(crash) ->
-      Enum.map(crash, fn({key, value}) ->
+    |> Enum.map(fn crash ->
+      Enum.map(crash, fn {key, value} ->
         {String.to_atom(key), value}
       end)
       |> Enum.into(%{})
