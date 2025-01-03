@@ -4753,6 +4753,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "036",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94823705,
+      42.980013392
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-12-26",
+    "distracted": false,
+    "id": "J9L1MFXHNC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "241 S 27TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "W HAYES AVE",
     "bike": false,
@@ -6369,6 +6396,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 75TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00660302,
+      42.973769722
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-11-26",
+    "distracted": false,
+    "id": "J9L1VV55KZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HOWARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2024
   },
   {
