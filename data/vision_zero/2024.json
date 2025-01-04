@@ -2700,6 +2700,33 @@
     "year": 2024
   },
   {
+    "65+_driver": true,
+    "alder_district": null,
+    "at_roadway": "S 72ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00210393,
+      42.988320795
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-12-06",
+    "distracted": false,
+    "id": "J9L1F51TQP",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W OKLAHOMA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2024
+  },
+  {
     "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W MELVINA ST",
@@ -5613,6 +5640,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W HOPE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97689566,
+      43.093429622
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-12-02",
+    "distracted": false,
+    "id": "J9L1R3SSK3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 51ST BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2024
   },
   {
