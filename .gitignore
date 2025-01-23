@@ -26,3 +26,6 @@ vision_zero_dashboard-*.tar
 
 # Temporary files, for example, from tests.
 /tmp/
+
+# System files
+.DS_Store
