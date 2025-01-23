@@ -11,6 +11,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     {current_year, last_year} =
       if today.month == 1 && today.day < 7 do
         {current_year - 1, last_year - 1}
+      else
+        {current_year, last_year}
       end
 
     ytd_data =
