@@ -108,6 +108,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "145",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9855401,
+      43.097046743
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-07",
+    "distracted": false,
+    "id": "J9L1R3SSLZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CONGRESS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W NORTH AVE",
