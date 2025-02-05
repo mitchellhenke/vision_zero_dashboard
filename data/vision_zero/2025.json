@@ -82,6 +82,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "018",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9266043,
+      43.044421304
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-17",
+    "distracted": false,
+    "id": "J9L1HQT5NV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 11TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W KNEELAND ST",
     "bike": false,
