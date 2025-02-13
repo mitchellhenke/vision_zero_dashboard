@@ -298,6 +298,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W DAKOTA ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96783911,
+      42.991247963
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-30",
+    "distracted": false,
+    "id": "J9L1VV55LZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 43RD ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 17TH ST",
     "bike": false,
