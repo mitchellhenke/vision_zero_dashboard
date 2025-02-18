@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N SHERMAN BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96711753,
+      43.082565861
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-22",
+    "distracted": false,
+    "id": "06L2CR2KRN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "S 70TH ST",
     "bike": false,
