@@ -406,6 +406,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W HAMPTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98383122,
+      43.10461958
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-21",
+    "distracted": false,
+    "id": "J9L1R3SSNN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 57TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FOND DU LAC AVE",
     "bike": false,

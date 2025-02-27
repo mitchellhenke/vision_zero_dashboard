@@ -4160,6 +4160,33 @@
   {
     "65+_driver": false,
     "alder_district": 7,
+    "at_roadway": "N 44TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.968532,
+      43.089915299
+    ],
+    "county": "MILWAUKEE",
+    "date": "2024-12-06",
+    "distracted": false,
+    "id": "J9L1K3KDDB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CAPITOL DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2024
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
     "at_roadway": "W ELY PL",
     "bike": false,
     "construction_zone": false,
