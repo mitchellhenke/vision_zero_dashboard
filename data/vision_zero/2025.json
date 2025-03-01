@@ -163,6 +163,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N ARLINGTON PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89569888,
+      43.052948212
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-14",
+    "distracted": false,
+    "id": "J9L1CS9M59",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E BRADY ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "W JUNEAU AVE",
     "bike": false,
