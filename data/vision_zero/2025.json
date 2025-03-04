@@ -190,6 +190,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "W GRANTOSA DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01850931,
+      43.104983026
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-22",
+    "distracted": false,
+    "id": "J9L1GNQ6SN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "W JUNEAU AVE",
     "bike": false,
@@ -483,6 +510,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "100",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00249856,
+      43.177804815
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-18",
+    "distracted": false,
+    "id": "J9L1R3SSNK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "100 W BROWN DEER RD",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
