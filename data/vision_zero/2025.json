@@ -28,6 +28,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E PLEASANT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90592658,
+      43.051761801
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-16",
+    "distracted": false,
+    "id": "06L2XJRP3C",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "S 70TH ST",
     "bike": false,
@@ -321,6 +348,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W CONGRESS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99191836,
+      43.096353391
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-21",
+    "distracted": false,
+    "id": "J9L1JXM7WN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 64TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
