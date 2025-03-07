@@ -28,6 +28,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "E W SILVER SPRING DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00586187,
+      43.120019141
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-11",
+    "distracted": false,
+    "id": "06L2JV55JR",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E PLEASANT ST",
     "bike": false,
@@ -270,6 +297,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 4,
+    "at_roadway": "018",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94773296,
+      43.044858966
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-01",
+    "distracted": false,
+    "id": "J9L1HNC3HK",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W LLOYD ST",
@@ -348,6 +402,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 22ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9429818,
+      42.973897024
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-27",
+    "distracted": false,
+    "id": "J9L1HWRB4B",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HOWARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
