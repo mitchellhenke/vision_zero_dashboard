@@ -8308,11 +8308,11 @@
     "occupant_protection": false,
     "on_roadway": "EE W HAMPTON AVE",
     "pedestrian": false,
-    "severity": "A",
+    "severity": "K",
     "speeding": true,
     "teen_driver": false,
-    "total_fatalities": 0,
-    "total_injuries": 3,
+    "total_fatalities": 1,
+    "total_injuries": 2,
     "year": 2024
   },
   {
