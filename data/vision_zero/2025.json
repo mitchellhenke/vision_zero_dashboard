@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W CHAPMAN PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00236379,
+      43.087631836
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-01-09",
+    "distracted": false,
+    "id": "J9L1F7HWZX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "W GRANTOSA DR",
     "bike": false,
