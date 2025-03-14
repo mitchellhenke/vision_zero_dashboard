@@ -217,6 +217,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "175",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.05531715,
+      43.137679278
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-28",
+    "distracted": false,
+    "id": "1ML1MH5JN1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "N ARLINGTON PL",
     "bike": false,
@@ -564,6 +591,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "059 W NATIONAL AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94500564,
+      43.022332644
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-05",
+    "distracted": false,
+    "id": "J9L1NJ1GX8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 25TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
