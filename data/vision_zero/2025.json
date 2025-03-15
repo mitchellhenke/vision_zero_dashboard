@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "F N 107TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04140019,
+      43.178520491
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-25",
+    "distracted": false,
+    "id": "J9L1CJWDCM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "100 W BROWN DEER RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "N ARLINGTON PL",
     "bike": false,
