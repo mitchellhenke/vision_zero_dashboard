@@ -891,6 +891,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 4,
+    "at_roadway": "E PLEASANT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90631103,
+      43.050735544
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-06",
+    "distracted": false,
+    "id": "J9L1SD2XZS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FOND DU LAC AVE",
