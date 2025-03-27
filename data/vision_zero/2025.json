@@ -487,6 +487,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W CHAMBERS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93419594,
+      43.073217654
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-02-26",
+    "distracted": false,
+    "id": "J9L1HVJ948",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W HOPKINS ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "S 22ND ST",
     "bike": false,
