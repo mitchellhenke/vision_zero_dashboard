@@ -622,6 +622,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W PARK HILL AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95405272,
+      43.032613824
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-23",
+    "distracted": false,
+    "id": "J9L1KW13H6",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 32ND ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W KNEELAND ST",
     "bike": false,
