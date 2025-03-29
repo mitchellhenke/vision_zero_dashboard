@@ -1963,10 +1963,10 @@
     "occupant_protection": true,
     "on_roadway": "041",
     "pedestrian": false,
-    "severity": "K",
+    "severity": "A",
     "speeding": false,
     "teen_driver": false,
-    "total_fatalities": 1,
+    "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2024
   },

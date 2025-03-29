@@ -622,6 +622,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W NORTH AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92410677,
+      43.060523975
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-06",
+    "distracted": false,
+    "id": "J9L1JXM7X3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 10TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W PARK HILL AVE",
     "bike": false,
@@ -726,6 +753,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E GREENWICH AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88803405,
+      43.062798358
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-22",
+    "distracted": false,
+    "id": "J9L1NK8HM5",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N OAKLAND AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
