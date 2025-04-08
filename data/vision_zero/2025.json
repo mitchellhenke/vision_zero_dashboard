@@ -729,6 +729,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 14TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92928268,
+      43.003713406
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-14",
+    "distracted": false,
+    "id": "J9L1LHJN2G",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W WINDLAKE AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 8,
     "at_roadway": "059 W NATIONAL AVE",
@@ -1265,6 +1292,33 @@
     "speeding": true,
     "teen_driver": false,
     "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W BROWN ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95990806,
+      43.056458262
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-17",
+    "distracted": false,
+    "id": "J9L2RRKDJX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 37TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
     "total_injuries": 4,
     "year": 2025
   },
