@@ -298,6 +298,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N TERRACE AVE",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.87811431,
+      43.059951778
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-14",
+    "distracted": false,
+    "id": "J9L1CS9M5P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E WATER TOWER RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 7TH ST",
     "bike": false,
@@ -1320,6 +1347,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 36TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95838856,
+      43.019019526
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-03-14",
+    "distracted": false,
+    "id": "J9L2S26N0H",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W SCOTT ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 5,
     "year": 2025
   },
   {
