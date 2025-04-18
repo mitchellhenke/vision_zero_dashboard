@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 22ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94088311,
+      43.016008597
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-05",
+    "distracted": false,
+    "id": "06L1PJWD72",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W ORCHARD ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "N SHERMAN BLVD",
     "bike": false,
@@ -1480,6 +1507,33 @@
     "severity": "A",
     "speeding": false,
     "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.0254439,
+      43.134114892
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-01",
+    "distracted": false,
+    "id": "J9L2TDXVZT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 91ST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
     "year": 2025
