@@ -1675,6 +1675,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W POTAWATOMI CIR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93814083,
+      43.031399446
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-11",
+    "distracted": false,
+    "id": "J9L2TZ0C61",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CANAL ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 17TH ST",
     "bike": false,
