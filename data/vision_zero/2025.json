@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": true,
+    "coordinates": [
+      -87.9207697,
+      43.070531523
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-12",
+    "distracted": false,
+    "id": "1ML1L84FCT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W NORTH AVE",
     "bike": false,
