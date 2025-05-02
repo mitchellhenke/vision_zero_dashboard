@@ -1772,7 +1772,7 @@
     "motorcycle": false,
     "municipality": "MILWAUKEE",
     "occupant_protection": false,
-    "on_roadway": "0PR",
+    "on_roadway": "043",
     "pedestrian": false,
     "severity": "A",
     "speeding": true,
