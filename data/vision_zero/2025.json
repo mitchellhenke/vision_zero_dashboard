@@ -189,6 +189,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 13,
+    "at_roadway": "041",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93420741,
+      42.955607555
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-06",
+    "distracted": false,
+    "id": "1ML1JFSSHG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W BROWN ST",
@@ -1104,6 +1131,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W FOUNTAIN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04459754,
+      43.15895235
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-26",
+    "distracted": false,
+    "id": "J9L1LNGSRX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 107TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
@@ -2049,6 +2103,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W FRANK MOORE II PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9786979,
+      43.091878092
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-23",
+    "distracted": false,
+    "id": "M5L2KFFP3D",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   }
 ]
