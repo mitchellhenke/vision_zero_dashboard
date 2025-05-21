@@ -622,6 +622,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W CLINTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00539179,
+      43.15059157
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-03",
+    "distracted": false,
+    "id": "J9L1DDT5S3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "N PALMER ST",
     "bike": false,
@@ -2211,6 +2238,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W SCOTT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95769771,
+      43.020250049
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-10",
+    "distracted": false,
+    "id": "J9L2SVWDGS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 35TH ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
     "year": 2025
   },
   {
