@@ -675,6 +675,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 10,
+    "at_roadway": "N 94TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02958665,
+      43.035772508
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-21",
+    "distracted": false,
+    "id": "J9L1F2KRDN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "018",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W CHAPMAN PL",
@@ -697,6 +724,33 @@
     "severity": "A",
     "speeding": false,
     "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W THURSTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95098511,
+      43.121658026
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-18",
+    "distracted": false,
+    "id": "J9L1G3FPFM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2025
@@ -1347,6 +1401,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N BREMEN ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90192587,
+      43.059089424
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-30",
+    "distracted": false,
+    "id": "J9L1NFKDF4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E NORTH AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
