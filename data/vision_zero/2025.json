@@ -622,6 +622,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 24TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94483961,
+      42.973909988
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-16",
+    "distracted": false,
+    "id": "J9L1CX0QG4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HOWARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W GREENFIELD AVE",
     "bike": false,
@@ -2592,6 +2619,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 5,
+    "at_roadway": "100",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.05806231,
+      43.117099895
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-16",
+    "distracted": false,
+    "id": "J9L2TDXW0K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W POTAWATOMI CIR",
@@ -2697,6 +2751,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 13TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92670287,
+      43.0959202
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-30",
+    "distracted": false,
+    "id": "M5L2HS26N2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 2,
+    "total_injuries": 4,
     "year": 2025
   },
   {
