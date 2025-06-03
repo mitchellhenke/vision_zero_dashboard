@@ -2160,6 +2160,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 10,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99405255,
+      43.071618343
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-14",
+    "distracted": false,
+    "id": "J9L1SL84KR",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LISBON AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W HISTORIC MITCHELL ST",
@@ -2539,6 +2566,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W GREENFIELD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92110155,
+      43.017559017
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-25",
+    "distracted": false,
+    "id": "J9L2RW8HR2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 8TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "190",
     "bike": false,
@@ -2859,6 +2913,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "W WISCONSIN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93295474,
+      43.037962886
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-15",
+    "distracted": false,
+    "id": "LRL13KD7B0",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 16TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
