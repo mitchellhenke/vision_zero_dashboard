@@ -1729,6 +1729,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95429827,
+      43.126523216
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-01",
+    "distracted": false,
+    "id": "J9L1P9H5QX",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FLORIST AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "N 35TH ST",
     "bike": false,
