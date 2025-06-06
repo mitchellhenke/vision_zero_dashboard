@@ -2512,6 +2512,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W PIERCE ST",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00723647,
+      43.024717712
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-26",
+    "distracted": false,
+    "id": "J9L2RFP3V7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N HOPKINS ST",
     "bike": false,
