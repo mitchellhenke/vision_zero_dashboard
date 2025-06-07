@@ -297,33 +297,6 @@
     "year": 2025
   },
   {
-    "65+_driver": true,
-    "alder_district": 13,
-    "at_roadway": "041",
-    "bike": false,
-    "construction_zone": false,
-    "coordinates": [
-      -87.93420741,
-      42.955607555
-    ],
-    "county": "MILWAUKEE",
-    "date": "2025-04-06",
-    "distracted": false,
-    "id": "1ML1JFSSHG",
-    "impaired": false,
-    "motorcycle": false,
-    "municipality": "MILWAUKEE",
-    "occupant_protection": false,
-    "on_roadway": "041",
-    "pedestrian": false,
-    "severity": "K",
-    "speeding": false,
-    "teen_driver": false,
-    "total_fatalities": 1,
-    "total_injuries": 0,
-    "year": 2025
-  },
-  {
     "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W BROWN ST",
@@ -1347,6 +1320,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 73RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00323014,
+      43.108606305
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-10",
+    "distracted": false,
+    "id": "J9L1K3KDF5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FAIRMOUNT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 6,
     "year": 2025
   },
   {
