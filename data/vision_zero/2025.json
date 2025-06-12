@@ -2323,6 +2323,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W VILLARD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96301712,
+      43.111280643
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-03",
+    "distracted": false,
+    "id": "J9L1VLQXXZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HOPKINS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W DAKOTA ST",
     "bike": false,
