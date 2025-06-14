@@ -2187,6 +2187,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 23RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94119652,
+      43.067842432
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-25",
+    "distracted": false,
+    "id": "J9L1S8CTL0",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CENTER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 4,
     "at_roadway": "E PLEASANT ST",
@@ -2885,6 +2912,33 @@
     "speeding": true,
     "teen_driver": false,
     "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "N 80TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01166038,
+      43.089821547
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-06",
+    "distracted": false,
+    "id": "J9L2T49M4P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2025
   },
