@@ -136,6 +136,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W BURLEIGH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93651337,
+      43.075064634
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-27",
+    "distracted": false,
+    "id": "06L2M1L4GN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W HOPKINS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W MARION ST",
     "bike": false,
