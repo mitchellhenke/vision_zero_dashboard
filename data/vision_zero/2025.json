@@ -568,6 +568,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E RAVINE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.86785435,
+      43.067811308
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-11",
+    "distracted": false,
+    "id": "1ML1MCGFBZ",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N LINCOLN MEMORIAL DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "175",
     "bike": false,
