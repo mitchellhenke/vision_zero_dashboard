@@ -622,6 +622,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "043",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91610752,
+      43.003045373
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-20",
+    "distracted": false,
+    "id": "1ML1N8M7S9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "794",
     "bike": false,
@@ -2646,6 +2673,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 9,
+    "at_roadway": "G N 43RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9659737,
+      43.133935135
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-10",
+    "distracted": false,
+    "id": "J9L1VZV8X8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S W MILL RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 6,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 8TH ST",
@@ -3372,6 +3426,33 @@
     "teen_driver": true,
     "total_fatalities": 2,
     "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W LAND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9185338,
+      43.055554794
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-09",
+    "distracted": false,
+    "id": "M5L2JP713J",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 6TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   },
   {
