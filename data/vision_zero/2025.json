@@ -2269,6 +2269,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W LAYTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92915565,
+      42.959272862
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-20",
+    "distracted": false,
+    "id": "J9L1RZQKT9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W KINNICKINNIC RIVER PKWY",
     "bike": false,
