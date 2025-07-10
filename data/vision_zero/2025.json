@@ -2890,6 +2890,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "190",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93322634,
+      43.089544387
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-06",
+    "distracted": false,
+    "id": "J9L1W8HJN8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 18TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 8TH ST",
     "bike": false,
@@ -3291,6 +3318,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W FLORIST AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00585191,
+      43.126918093
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-07",
+    "distracted": false,
+    "id": "J9L2SVWDHF",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
@@ -3723,6 +3777,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95766887,
+      43.044599736
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-08",
+    "distracted": false,
+    "id": "M5L2LF2KRG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HIGHLAND BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   }
 ]
