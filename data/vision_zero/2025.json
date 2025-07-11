@@ -3106,6 +3106,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "181 N 76TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00268697,
+      43.148695898
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-17",
+    "distracted": false,
+    "id": "J9L2RP3BGW",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "PP W GOOD HOPE RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W BROWN ST",
     "bike": false,
@@ -3399,6 +3426,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W ROOSEVELT DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95786125,
+      43.089678462
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-23",
+    "distracted": false,
+    "id": "J9L2T97RKG",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   },
   {
