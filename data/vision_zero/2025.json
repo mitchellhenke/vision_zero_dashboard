@@ -2728,6 +2728,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N JEFFERSON ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90566382,
+      43.042555232
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-19",
+    "distracted": false,
+    "id": "J9L1VJ8VSM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E KILBOURN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W VILLARD AVE",
     "bike": false,
@@ -3021,6 +3048,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 45TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97013803,
+      43.089778367
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-22",
+    "distracted": false,
+    "id": "J9L2R68W87",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
