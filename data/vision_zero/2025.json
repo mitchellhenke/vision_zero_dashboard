@@ -2296,6 +2296,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95833879,
+      42.994681172
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-09",
+    "distracted": false,
+    "id": "J9L1PZ7RJD",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "024",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W ROGERS ST",
     "bike": false,
