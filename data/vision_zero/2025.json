@@ -190,6 +190,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "VV",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.06526199,
+      43.116967273
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-11",
+    "distracted": false,
+    "id": "06L2JLQXVV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E W SILVER SPRING DR",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "E W SILVER SPRING DR",
     "bike": false,
@@ -267,6 +294,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W GREEN TREE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95424907,
+      43.139941145
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-14",
+    "distracted": false,
+    "id": "06L2XHJN09",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 3,
     "year": 2025
   },
   {
@@ -726,6 +780,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "N LINCOLN MEMORIAL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89719172,
+      43.018905248
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-06-22",
+    "distracted": false,
+    "id": "1ML1LZ427G",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
@@ -2184,6 +2265,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 40TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95801792,
+      43.133852901
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-09",
+    "distracted": false,
+    "id": "J9L1NNZM15",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S W MILL RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
@@ -4074,6 +4182,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "N 58TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98513853,
+      43.071659647
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-24",
+    "distracted": false,
+    "id": "J9L2TPL4M7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LOCUST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
