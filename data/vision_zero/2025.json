@@ -3160,6 +3160,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "E LYON ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.8982023,
+      43.049313072
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-26",
+    "distracted": false,
+    "id": "J9L1VJ8VSZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HUMBOLDT AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W VILLARD AVE",
     "bike": false,
