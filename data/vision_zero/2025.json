@@ -1162,6 +1162,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "N 60TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98545924,
+      43.148466332
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-14",
+    "distracted": false,
+    "id": "J9L1DRXHL7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "PP W GOOD HOPE RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "N PALMER ST",
     "bike": false,
