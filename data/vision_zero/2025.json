@@ -1351,6 +1351,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "W MELVINA ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01513993,
+      43.088489635
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-20",
+    "distracted": false,
+    "id": "J9L1G74SPL",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 82ND ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "W GALENA ST",
     "bike": false,
@@ -4128,6 +4155,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W SILVER SPRING DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9676328,
+      43.117979824
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-27",
+    "distracted": false,
+    "id": "J9L2TCPTSJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
