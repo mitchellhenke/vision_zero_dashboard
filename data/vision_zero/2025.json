@@ -946,6 +946,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W GREVES ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94776595,
+      43.03193644
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-30",
+    "distracted": false,
+    "id": "J9L1C5S2BN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "F N 107TH ST",
     "bike": false,
@@ -3727,6 +3754,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W KEEFE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93487575,
+      43.082321726
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-24",
+    "distracted": false,
+    "id": "J9L2RKD6RZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "181 N 76TH ST",
     "bike": false,
@@ -4293,6 +4347,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "N 25TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94371533,
+      43.031114826
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-19",
+    "distracted": false,
+    "id": "J9L2TG5X2K",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CANAL ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "N 58TH ST",
@@ -4587,6 +4668,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W VINE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92704803,
+      43.054111973
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-19",
+    "distracted": false,
+    "id": "M5L2LTDXVQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 12TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   }
 ]
