@@ -379,6 +379,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "145",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96723499,
+      43.082898789
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-14",
+    "distracted": false,
+    "id": "06L30XCTW7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W COURTLAND AVE",
     "bike": false,
