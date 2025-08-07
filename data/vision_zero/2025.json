@@ -1945,6 +1945,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W CONGRESS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00697984,
+      43.097218567
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-26",
+    "distracted": false,
+    "id": "J9L1K3KDFT",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "181 N 76TH ST",
     "bike": false,
@@ -3105,6 +3132,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W PARK HILL AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95773708,
+      43.03260483
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-23",
+    "distracted": false,
+    "id": "J9L1S8CTLF",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 35TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 4,
     "at_roadway": "E PLEASANT ST",
@@ -4128,6 +4182,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00562928,
+      43.134616432
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-23",
+    "distracted": false,
+    "id": "J9L2SGK19Q",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
