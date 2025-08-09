@@ -3511,6 +3511,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "175",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.0097716,
+      43.097167683
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-27",
+    "distracted": false,
+    "id": "J9L1VLQXZK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CONGRESS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W DAKOTA ST",
     "bike": false,
@@ -3723,6 +3750,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "W BOBOLINK AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00583331,
+      43.125027327
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-26",
+    "distracted": false,
+    "id": "J9L2QG2735",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
@@ -4317,6 +4371,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N HUMBOLDT AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89812328,
+      43.05288838
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-29",
+    "distracted": false,
+    "id": "J9L2SVWDHQ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "E BRADY ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
     "year": 2025
   },
   {
