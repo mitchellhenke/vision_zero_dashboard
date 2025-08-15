@@ -757,6 +757,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93712282,
+      42.962834277
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-06",
+    "distracted": false,
+    "id": "1ML1L5NC4K",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W LOCUST ST",
     "bike": false,
