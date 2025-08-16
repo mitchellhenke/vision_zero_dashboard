@@ -433,6 +433,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W LLOYD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97165499,
+      43.057473321
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-05-18",
+    "distracted": false,
+    "id": "1ML12JJ8W1",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "S 70TH ST",
     "bike": false,
