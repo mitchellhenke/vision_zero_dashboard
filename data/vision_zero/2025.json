@@ -4105,6 +4105,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 19TH PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93505659,
+      43.104362052
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-06",
+    "distracted": false,
+    "id": "J9L2RDG2B8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W PIERCE ST",
     "bike": true,
