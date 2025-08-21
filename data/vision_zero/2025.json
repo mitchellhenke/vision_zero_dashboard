@@ -2619,6 +2619,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 21ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93948776,
+      43.017017849
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-17",
+    "distracted": false,
+    "id": "J9L1P713LJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GREENFIELD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 9,
     "at_roadway": "N SERVITE DR",
@@ -3485,6 +3512,33 @@
   {
     "65+_driver": false,
     "alder_district": 12,
+    "at_roadway": "S 5TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91626185,
+      43.021137529
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-19",
+    "distracted": false,
+    "id": "J9L1TM42CG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W MINERAL ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
     "at_roadway": "W BECHER ST",
     "bike": false,
     "construction_zone": false,
@@ -3669,6 +3723,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00170826,
+      43.070357503
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-08",
+    "distracted": false,
+    "id": "J9L1VLQXZN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 72ND ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
