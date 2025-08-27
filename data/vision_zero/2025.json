@@ -4159,6 +4159,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "32",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90740157,
+      43.035076781
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-12",
+    "distracted": false,
+    "id": "J9L2QJJ934",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N BROADWAY ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W HISTORIC MITCHELL ST",
     "bike": false,
@@ -4776,6 +4803,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "MITCHELLFIELD POST OFFICE RD",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90944382,
+      42.942216251
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-12",
+    "distracted": false,
+    "id": "J9L2SGK19Z",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "038 S HOWELL AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
