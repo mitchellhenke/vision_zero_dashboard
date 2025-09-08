@@ -730,6 +730,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W NORTH AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92113256,
+      43.060294194
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-16",
+    "distracted": false,
+    "id": "1ML1JN000S",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "043",
     "bike": false,
