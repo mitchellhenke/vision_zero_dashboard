@@ -1486,6 +1486,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N TEUTONIA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92824784,
+      43.060396874
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-27",
+    "distracted": false,
+    "id": "J9L1D7W175",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 7TH ST",
     "bike": false,
@@ -2697,6 +2724,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 51ST BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97709298,
+      43.089748413
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-06",
+    "distracted": false,
+    "id": "J9L1M597TB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
