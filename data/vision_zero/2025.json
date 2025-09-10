@@ -2026,6 +2026,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 9TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92265995,
+      43.067613385
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-28",
+    "distracted": false,
+    "id": "J9L1HT97W7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CENTER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 28TH ST",
     "bike": false,
@@ -5100,6 +5127,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 1,
+    "at_roadway": "W RUBY AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94385961,
+      43.099105995
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-28",
+    "distracted": false,
+    "id": "J9L2S26N21",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
