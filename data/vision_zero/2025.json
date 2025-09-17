@@ -1755,6 +1755,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 21ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94115383,
+      42.98840149
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-05",
+    "distracted": false,
+    "id": "J9L1F03P7W",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W OKLAHOMA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 10,
     "at_roadway": "N 94TH ST",
@@ -4830,6 +4857,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94773123,
+      43.034668853
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-05",
+    "distracted": false,
+    "id": "J9L2R03P4L",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W ST PAUL AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 2,
+    "total_injuries": 3,
     "year": 2025
   },
   {
