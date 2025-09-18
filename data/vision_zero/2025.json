@@ -28,6 +28,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E KENILWORTH PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88663314,
+      43.058897259
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-07",
+    "distracted": false,
+    "id": "06L1KMLVPT",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "032 N FARWELL AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 22ND ST",
     "bike": false,
