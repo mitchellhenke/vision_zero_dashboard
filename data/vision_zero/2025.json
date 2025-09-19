@@ -1243,6 +1243,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W LAPHAM BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92817625,
+      43.014204074
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-07-11",
+    "distracted": false,
+    "id": "1ML1MB7D7W",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E RAVINE RD",
     "bike": false,
@@ -4965,6 +4992,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93663553,
+      43.104342371
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-08",
+    "distracted": false,
+    "id": "J9L2R2KRNT",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
