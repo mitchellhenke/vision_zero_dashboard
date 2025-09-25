@@ -6454,6 +6454,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95764805,
+      43.048699107
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-16",
+    "distracted": false,
+    "id": "J9L2THDZ5V",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W VLIET ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 3,
+    "total_injuries": 5,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "N 58TH ST",
     "bike": false,
