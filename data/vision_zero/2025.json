@@ -3240,6 +3240,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 22ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93902097,
+      43.100640704
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-10",
+    "distracted": false,
+    "id": "J9L1NFKDFX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W CORNELL ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 8,
     "at_roadway": "059 W NATIONAL AVE",
@@ -6693,6 +6720,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "N 87TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01841775,
+      43.163290861
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-22",
+    "distracted": false,
+    "id": "J9L2VB3P62",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BRADLEY RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
