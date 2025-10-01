@@ -189,6 +189,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 86TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02087383,
+      42.977346575
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-02",
+    "distracted": false,
+    "id": "06L279QKTJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W WILBUR AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 11,
     "at_roadway": "W NORWICH ST",
@@ -915,6 +942,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95011363,
+      43.033071553
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-11",
+    "distracted": false,
+    "id": "1ML1K9QKRJ",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
