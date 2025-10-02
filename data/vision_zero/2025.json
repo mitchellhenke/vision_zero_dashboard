@@ -1513,6 +1513,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "E W SILVER SPRING DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01063977,
+      43.118502548
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-17",
+    "distracted": false,
+    "id": "1ML1S5WRBH",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "145",
     "bike": false,
@@ -7044,6 +7071,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 33RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9555605,
+      43.04870526
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-13",
+    "distracted": false,
+    "id": "M5L2LF2KRK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W VLIET ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
