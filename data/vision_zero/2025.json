@@ -6912,6 +6912,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 9,
+    "at_roadway": "N 91ST ST",
+    "bike": false,
+    "construction_zone": true,
+    "coordinates": [
+      -88.0245514,
+      43.16320873
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-03",
+    "distracted": false,
+    "id": "J9L2VB3P6K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W BRADLEY RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 8,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S COMSTOCK AVE",
