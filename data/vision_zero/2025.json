@@ -514,6 +514,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 49TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97331311,
+      42.996600458
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-05",
+    "distracted": false,
+    "id": "06L2WSK15R",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W JACKSON PARK DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W MARION ST",
     "bike": false,
@@ -5937,6 +5964,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "LAYTON BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94779094,
+      43.016980447
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-04-18",
+    "distracted": false,
+    "id": "J9L2RW8HQZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GREENFIELD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
