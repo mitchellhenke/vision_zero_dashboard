@@ -1350,6 +1350,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 13,
+    "at_roadway": "ZZ W COLLEGE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93553412,
+      42.926740777
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-27",
+    "distracted": false,
+    "id": "1ML1M6J8Z9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "043",
