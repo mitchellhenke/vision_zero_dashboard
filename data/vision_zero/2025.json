@@ -109,6 +109,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 35TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95770161,
+      43.003037783
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-20",
+    "distracted": false,
+    "id": "06L1QJJ8VW",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W LINCOLN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W ST PAUL AVE",
     "bike": false,
@@ -2103,6 +2130,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W CLEVELAND AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94841767,
+      42.996524761
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-09-21",
+    "distracted": false,
+    "id": "J9L1FDG2FN",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "241 S 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
