@@ -433,6 +433,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "PP W GOOD HOPE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00521138,
+      43.14957404
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-11",
+    "distracted": false,
+    "id": "06L2JLQXVZ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "N 28TH ST",
     "bike": false,
