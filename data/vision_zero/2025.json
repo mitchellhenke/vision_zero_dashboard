@@ -4888,6 +4888,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E WEBSTER PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.87810047,
+      43.064793536
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-12",
+    "distracted": false,
+    "id": "J9L1V1GFHK",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N DOWNER AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N BROADWAY ST",
     "bike": false,
