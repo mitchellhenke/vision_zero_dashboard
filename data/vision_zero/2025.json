@@ -5023,6 +5023,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "W CALUMET RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02472042,
+      43.159534411
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-03",
+    "distracted": false,
+    "id": "J9L1V2PGFG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 91ST ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N BROADWAY ST",
     "bike": false,
@@ -6207,6 +6234,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W SCOTT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95770517,
+      43.018917135
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-14",
+    "distracted": false,
+    "id": "J9L2RLM7SC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 35TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
