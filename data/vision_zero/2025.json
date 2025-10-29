@@ -2296,6 +2296,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S MUSKEGO AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93258098,
+      43.024633079
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-17",
+    "distracted": false,
+    "id": "J9L1FW8HWJ",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "PRIVATE PROPERTY",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "W THURSTON AVE",
     "bike": false,
@@ -6153,6 +6180,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "EE W HAMPTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.05280578,
+      43.104769486
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-19",
+    "distracted": false,
+    "id": "J9L2RJ563B",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "100",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2025
   },
   {
