@@ -6697,6 +6697,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95054778,
+      43.071778343
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-27",
+    "distracted": false,
+    "id": "J9L2S26N31",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "PRIVATE PROPERTY",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "E W SILVER SPRING DR",
     "bike": false,
@@ -6801,6 +6828,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "175",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.01051394,
+      43.09778356
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-27",
+    "distracted": false,
+    "id": "J9L2SGK1C8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2025
   },
   {
