@@ -6345,6 +6345,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 9,
+    "at_roadway": "W BRADLEY RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98483146,
+      43.163078899
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-28",
+    "distracted": false,
+    "id": "J9L2RJ563K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 60TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W MELVINA ST",
