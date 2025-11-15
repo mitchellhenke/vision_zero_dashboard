@@ -5104,6 +5104,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W NASH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94710566,
+      43.084945012
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-30",
+    "distracted": false,
+    "id": "J9L1TJN01F",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 5TH ST",
     "bike": false,
