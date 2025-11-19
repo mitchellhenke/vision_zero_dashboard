@@ -2025,6 +2025,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 1,
+    "at_roadway": "PP W GOOD HOPE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95644451,
+      43.147981007
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-07",
+    "distracted": false,
+    "id": "J9L1D45WW9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "W GREENFIELD AVE",
