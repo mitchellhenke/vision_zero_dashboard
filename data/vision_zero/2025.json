@@ -1189,6 +1189,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "ZZ W COLLEGE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93548253,
+      42.929709701
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-07",
+    "distracted": false,
+    "id": "1ML1L1Z7XJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "059 W NATIONAL AVE",
     "bike": false,
