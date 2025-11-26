@@ -3294,6 +3294,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N LINCOLN MEMORIAL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89622061,
+      43.043859014
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-05",
+    "distracted": false,
+    "id": "J9L1KLCTQL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "LINCOLN MEMORIAL DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 6,
     "at_roadway": "W LOCUST ST",
@@ -5395,8 +5422,8 @@
     "severity": "K",
     "speeding": false,
     "teen_driver": true,
-    "total_fatalities": 1,
-    "total_injuries": 3,
+    "total_fatalities": 2,
+    "total_injuries": 2,
     "year": 2025
   },
   {
