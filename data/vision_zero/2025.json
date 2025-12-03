@@ -2161,6 +2161,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 12TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92678438,
+      43.06038552
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-16",
+    "distracted": false,
+    "id": "J9L1D7W17K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 7TH ST",
     "bike": false,
@@ -5181,6 +5208,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "W FAIRMOUNT AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02073045,
+      43.108517109
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-16",
+    "distracted": false,
+    "id": "J9L1SNQ6T5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 2,
+    "total_injuries": 0,
     "year": 2025
   },
   {
