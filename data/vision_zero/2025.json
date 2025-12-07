@@ -1593,6 +1593,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 14,
+    "at_roadway": "E OKLAHOMA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88703854,
+      42.986097983
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-23",
+    "distracted": false,
+    "id": "1ML1M0C3FZ",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "E SAINT FRANCIS AVE",
