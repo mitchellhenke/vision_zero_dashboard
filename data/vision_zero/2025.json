@@ -1998,6 +1998,33 @@
     "year": 2025
   },
   {
+    "65+_driver": true,
+    "alder_district": 15,
+    "at_roadway": "W GARFIELD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95752885,
+      43.05992537
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-12-07",
+    "distracted": false,
+    "id": "J9L1C5S2C1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 35TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "W VILLA AVE",
@@ -5532,6 +5559,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 29TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94977591,
+      43.075182566
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-18",
+    "distracted": false,
+    "id": "J9L1TJN01M",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BURLEIGH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2025
   },
   {
