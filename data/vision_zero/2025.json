@@ -6364,11 +6364,11 @@
     "occupant_protection": false,
     "on_roadway": "S 35TH ST",
     "pedestrian": true,
-    "severity": "A",
+    "severity": "K",
     "speeding": false,
     "teen_driver": false,
-    "total_fatalities": 0,
-    "total_injuries": 1,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2025
   },
   {
