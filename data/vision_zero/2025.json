@@ -2863,6 +2863,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "N 67TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9947085,
+      43.134040023
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-05",
+    "distracted": false,
+    "id": "J9L1H32KV6",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S W MILL RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 26TH ST",
     "bike": false,
@@ -3210,6 +3237,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93522763,
+      43.117969444
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-29",
+    "distracted": false,
+    "id": "J9L1JP718Q",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   },
   {
