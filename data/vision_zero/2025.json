@@ -2890,6 +2890,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "036",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9482433,
+      42.979721339
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-16",
+    "distracted": false,
+    "id": "J9L1H97RJ3",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "241 S 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 26TH ST",
     "bike": false,
