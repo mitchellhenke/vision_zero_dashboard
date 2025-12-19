@@ -2404,6 +2404,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "N 53RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97916256,
+      43.075291774
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-12-04",
+    "distracted": false,
+    "id": "J9L1DDT5SG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BURLEIGH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N 60TH ST",
     "bike": false,
@@ -4128,6 +4155,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 4,
+    "year": 2025
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "N 54TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98072038,
+      43.090014168
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-12-06",
+    "distracted": false,
+    "id": "J9L1N00038",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2025
   },
   {
