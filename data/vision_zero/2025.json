@@ -866,6 +866,33 @@
   {
     "65+_driver": false,
     "alder_district": 10,
+    "at_roadway": "N GENERAL MITCHELL BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97850766,
+      43.03123558
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-08-02",
+    "distracted": false,
+    "id": "1ML17MLW03",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
     "at_roadway": "S 70TH ST",
     "bike": false,
     "construction_zone": false,
