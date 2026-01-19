@@ -26,8 +26,8 @@ jobs:
     - name: Set up Elixir
       uses: erlef/setup-beam@v1
       with:
-        elixir-version: '1.18.0' # [Required] Define the Elixir version
-        otp-version: '27.2'      # [Required] Define the Erlang/OTP version
+        elixir-version: '1.19.5' # [Required] Define the Elixir version
+        otp-version: '28.1'      # [Required] Define the Erlang/OTP version
     - name: 'Setup jq'
       uses: dcarbone/install-jq-action@v2.0.2
     - name: Setup Pages
