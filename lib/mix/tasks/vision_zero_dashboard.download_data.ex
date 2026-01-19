@@ -1,5 +1,6 @@
 defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
   use Mix.Task
+  require Logger
 
   def run(args) do
     today = Date.utc_today()
@@ -182,6 +183,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
     url =
       "https://transportal.cee.wisc.edu/partners/community-maps/crash/public/crashesKML.do?filetype=json&startyear=#{year}&endyear=#{year}&county=milwaukee&injsvr=O&injsvr=K&injsvr=A&injsvr=B&injsvr=C"
 
+    Logger.info("Requesting: #{url}")
     resp = HTTPoison.get!(url, [], recv_timeout: 90_000)
     JSON.decode!(resp.body)
   end
