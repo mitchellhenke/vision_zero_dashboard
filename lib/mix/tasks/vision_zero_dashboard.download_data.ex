@@ -114,6 +114,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
            System.fetch_env("EMAIL_RECIPIENTS"),
          email_addresses <- String.split(email_addresses_comma, ","),
          {:ok, api_key} when is_binary(api_key) <- System.fetch_env("MAILGUN_API_KEY"),
+         true <- File.exists?(existing_path),
          {:ok, existing} <- File.read(existing_path),
          {:ok, json} <- JSON.decode(existing) do
       new_crashes =
