@@ -9,7 +9,7 @@ defmodule Mix.Tasks.VisionZeroDashboard.Data do
     last_year = one_year_ago.year
 
     {current_year, last_year} =
-      if today.month == 1 && today.day < 7 do
+      if today.month == 1 && today.day < 28 do
         {current_year - 1, last_year - 1}
       else
         {current_year, last_year}
