@@ -52,5 +52,32 @@
     "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 93RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02926045,
+      42.977292889
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-13",
+    "distracted": false,
+    "id": "J9L1SNQ6VL",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WILBUR AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
   }
 ]

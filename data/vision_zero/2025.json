@@ -3052,6 +3052,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "LAKE PARK DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04464188,
+      43.158591602
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-12-30",
+    "distracted": false,
+    "id": "J9L1H32KVD",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 107TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "036",
     "bike": false,
