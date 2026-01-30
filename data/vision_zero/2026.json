@@ -160,5 +160,32 @@
     "total_fatalities": 1,
     "total_injuries": 1,
     "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 25TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94574585,
+      42.988506395
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-06",
+    "distracted": false,
+    "id": "J9L1VSX4J2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W OKLAHOMA AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
   }
 ]
