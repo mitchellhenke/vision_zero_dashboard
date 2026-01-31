@@ -3159,6 +3159,33 @@
     "year": 2025
   },
   {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 39TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96177566,
+      43.108531094
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-27",
+    "distracted": false,
+    "id": "J9L1HKW15C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HOPKINS ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
     "65+_driver": true,
     "alder_district": 4,
     "at_roadway": "018",
