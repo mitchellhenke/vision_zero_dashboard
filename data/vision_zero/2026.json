@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "043",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92126488,
+      43.091741974
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-15",
+    "distracted": false,
+    "id": "1ML1N655KF",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FLORIST AVE",
     "bike": false,
