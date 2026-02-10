@@ -82,6 +82,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "S 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94099798,
+      42.937589008
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-27",
+    "distracted": false,
+    "id": "J9L1DG26V2",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W RAMSEY AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 11,
     "at_roadway": "W MORGAN AVE",
     "bike": false,
