@@ -352,6 +352,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "W ROSEDALE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9119942,
+      42.995928749
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-29",
+    "distracted": false,
+    "id": "J9L1T6RP78",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "038",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "145 W FOND DU LAC AVE",
     "bike": false,
