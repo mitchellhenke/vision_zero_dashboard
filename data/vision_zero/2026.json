@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N 16TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93200352,
+      43.035572447
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-23",
+    "distracted": false,
+    "id": "1ML1JN0017",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "043",
     "bike": false,
@@ -267,6 +294,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E HAMPSHIRE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.87790662,
+      43.075626417
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-09",
+    "distracted": false,
+    "id": "J9L1PX0Q9T",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N DOWNER AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
