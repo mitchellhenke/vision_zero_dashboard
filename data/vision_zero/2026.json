@@ -460,6 +460,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W MITCHELL ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96032663,
+      43.012353149
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-04",
+    "distracted": false,
+    "id": "J9L1VSX4HV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 37TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "S 25TH ST",
     "bike": false,
