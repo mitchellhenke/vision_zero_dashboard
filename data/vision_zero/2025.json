@@ -7264,6 +7264,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "190",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94946975,
+      43.089716256
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-10-13",
+    "distracted": false,
+    "id": "J9L2R8QXXX",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "190 W CAPITOL DR",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N ASTOR ST",
     "bike": false,
