@@ -700,5 +700,32 @@
     "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N 11TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92536092,
+      43.038676936
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-23",
+    "distracted": false,
+    "id": "LRL13P3B40",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WISCONSIN AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
   }
 ]
