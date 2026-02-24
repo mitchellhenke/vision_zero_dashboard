@@ -703,6 +703,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94772132,
+      43.038657198
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-18",
+    "distracted": false,
+    "id": "J9L2RQBC8F",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WISCONSIN AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 11TH ST",
     "bike": false,
