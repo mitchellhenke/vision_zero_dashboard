@@ -703,6 +703,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "038",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91214454,
+      42.995891143
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-21",
+    "distracted": false,
+    "id": "J9L1WBZLWL",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W ROSEDALE AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "057",
     "bike": false,
