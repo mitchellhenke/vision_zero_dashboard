@@ -757,6 +757,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "S 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93815598,
+      43.022758168
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-25",
+    "distracted": false,
+    "id": "J9L2SNQ6SF",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "059 W NATIONAL AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 11TH ST",
     "bike": false,
