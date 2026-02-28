@@ -2728,6 +2728,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "S 77TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00958297,
+      42.97920363
+    ],
+    "county": "MILWAUKEE",
+    "date": "2025-11-29",
+    "distracted": false,
+    "id": "J9L1F2KRG9",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WARNIMONT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2025
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W CHAPMAN PL",
     "bike": false,
