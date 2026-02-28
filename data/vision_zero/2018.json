@@ -6,12 +6,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925303,
-      43.043131
+      -87.92530266,
+      43.043130595
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-18",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0KRB00L",
     "impaired": true,
     "motorcycle": false,
@@ -33,8 +33,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.030406,
-      43.134007
+      -88.03040643,
+      43.134007282
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-08",
@@ -60,8 +60,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.893649,
-      42.998867
+      -87.89364856,
+      42.998867428
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-13",
@@ -87,8 +87,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934408,
-      42.961109
+      -87.93440833,
+      42.961108974
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-20",
@@ -114,8 +114,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.91625,
-      43.016625
+      -87.9162504,
+      43.016625008
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-04",
@@ -141,12 +141,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.924623,
-      43.056182
+      -87.92462314,
+      43.056182225
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-04",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0LS5WXQ",
     "impaired": true,
     "motorcycle": false,
@@ -168,8 +168,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.970057,
-      43.033972
+      -87.9700573,
+      43.033972179
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-20",
@@ -195,8 +195,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.921043,
-      43.060299
+      -87.92104292,
+      43.06029929
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-09",
@@ -222,8 +222,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.88816,
-      42.988082
+      -87.88816043,
+      42.988082237
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-13",
@@ -249,8 +249,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.876725,
-      43.058466
+      -87.87672507,
+      43.058466264
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-01",
@@ -276,8 +276,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.917856,
-      43.019932
+      -87.91785616,
+      43.019932473
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-01",
@@ -304,7 +304,7 @@
     "construction_zone": false,
     "coordinates": [
       -87.924931,
-      43.040465
+      43.040464691
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-01",
@@ -330,8 +330,8 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.915453,
-      42.974363
+      -87.91545264,
+      42.974362693
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-28",
@@ -357,8 +357,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005766,
-      43.114888
+      -88.00576556,
+      43.114887929
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-03",
@@ -384,8 +384,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909575,
-      43.067487
+      -87.90957476,
+      43.067487329
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-04",
@@ -411,8 +411,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.985023,
-      43.030381
+      -87.98502299,
+      43.030380583
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-14",
@@ -438,8 +438,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925619,
-      43.050457
+      -87.92561872,
+      43.050456916
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-26",
@@ -465,8 +465,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937635,
-      42.962784
+      -87.93763492,
+      42.962784237
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-03",
@@ -492,8 +492,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.935205,
-      42.928907
+      -87.93520477,
+      42.928906727
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-15",
@@ -519,8 +519,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918747,
-      43.020668
+      -87.91874669,
+      43.020667759
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-04",
@@ -546,8 +546,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.037348,
-      43.025732
+      -88.03734773,
+      43.025732495
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-04",
@@ -573,8 +573,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.0573,
-      43.113207
+      -88.05730046,
+      43.113207329
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-08",
@@ -600,8 +600,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934197,
-      42.956664
+      -87.93419719,
+      42.956663529
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-24",
@@ -627,8 +627,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925116,
-      43.039867
+      -87.92511608,
+      43.039867132
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-19",
@@ -654,8 +654,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934786,
-      42.96272
+      -87.93478632,
+      42.962719741
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-06",
@@ -681,12 +681,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947617,
-      43.053432
+      -87.9476172,
+      43.053431579
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-10",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0SGK15S",
     "impaired": false,
     "motorcycle": false,
@@ -708,12 +708,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934722,
-      43.035439
+      -87.93472208,
+      43.035439271
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-23",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0SHS27H",
     "impaired": false,
     "motorcycle": false,
@@ -735,8 +735,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92074,
-      43.075274
+      -87.9207396,
+      43.075274487
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-04",
@@ -762,8 +762,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.942966,
-      43.035695
+      -87.94296605,
+      43.035694823
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-05",
@@ -789,12 +789,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934754,
-      42.951673
+      -87.93475391,
+      42.951672651
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0T6RP5N",
     "impaired": false,
     "motorcycle": false,
@@ -816,12 +816,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9377,
-      42.962485
+      -87.9376997,
+      42.962484742
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-15",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0T6RP6V",
     "impaired": false,
     "motorcycle": false,
@@ -843,8 +843,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.973533,
-      43.04418
+      -87.97353282,
+      43.044180336
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-10",
@@ -870,12 +870,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.997203,
-      43.030095
+      -87.99720305,
+      43.030095347
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-09",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0THDXX7",
     "impaired": true,
     "motorcycle": false,
@@ -897,8 +897,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.926975,
-      43.03626
+      -87.92697524,
+      43.036260133
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-22",
@@ -924,8 +924,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.927118,
-      43.035498
+      -87.92711822,
+      43.035498376
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-04",
@@ -951,12 +951,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.924992,
-      43.054012
+      -87.92499164,
+      43.054012291
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-21",
-    "distracted": true,
+    "distracted": false,
     "id": "1ML0TM42BG",
     "impaired": false,
     "motorcycle": false,
@@ -978,8 +978,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.905701,
-      43.036109
+      -87.90570068,
+      43.03610947
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-09",
@@ -1005,8 +1005,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.923296,
-      43.058218
+      -87.9232962,
+      43.058218436
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-24",
@@ -1032,8 +1032,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.935302,
-      42.961017
+      -87.93530199,
+      42.961016707
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-06",
@@ -1059,8 +1059,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.945772,
-      43.035241
+      -87.94577168,
+      43.035241321
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-03",
@@ -1086,8 +1086,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9697,
-      43.030896
+      -87.96969969,
+      43.030895952
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-14",
@@ -1113,8 +1113,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925622,
-      43.043206
+      -87.92562169,
+      43.043206487
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-06",
@@ -1136,12 +1136,12 @@
   {
     "65+_driver": false,
     "alder_district": 10,
-    "at_roadway": "RAMP W WISCONSIN AVE TO STH 17",
+    "at_roadway": "RAMP W WISCONSIN AVE TO STH 175",
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.970643,
-      43.0369
+      -87.97064288,
+      43.036900114
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-19",
@@ -1167,12 +1167,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.037738,
-      43.089232
+      -88.03773759,
+      43.08923212
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-27",
-    "distracted": true,
+    "distracted": false,
     "id": "1RL14TNC4G",
     "impaired": false,
     "motorcycle": false,
@@ -1194,12 +1194,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.025445,
-      43.134065
+      -88.02544471,
+      43.134065369
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-16",
-    "distracted": true,
+    "distracted": false,
     "id": "1SL0JJ8VPV",
     "impaired": true,
     "motorcycle": false,
@@ -1248,12 +1248,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933917,
-      43.052612
+      -87.93391728,
+      43.052612196
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-03",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L003P3HQ",
     "impaired": false,
     "motorcycle": false,
@@ -1275,8 +1275,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.028722,
-      43.180653
+      -88.02872164,
+      43.180653244
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-20",
@@ -1302,8 +1302,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909739,
-      42.96545
+      -87.90973908,
+      42.965449504
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-05",
@@ -1329,8 +1329,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.975435,
-      43.148638
+      -87.97543527,
+      43.148637721
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-16",
@@ -1356,12 +1356,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967517,
-      43.06426
+      -87.96751745,
+      43.064260049
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-20",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L00LHJR3",
     "impaired": false,
     "motorcycle": false,
@@ -1383,8 +1383,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947394,
-      43.067391
+      -87.94739352,
+      43.067391041
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-31",
@@ -1410,12 +1410,12 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.980493,
-      43.119336
+      -87.98049268,
+      43.119336108
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-09",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L00W4SG4",
     "impaired": false,
     "motorcycle": false,
@@ -1437,8 +1437,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.060265,
-      43.117036
+      -88.06026462,
+      43.117036266
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-10",
@@ -1464,8 +1464,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.952826,
-      43.119021
+      -87.95282556,
+      43.11902059
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-02",
@@ -1475,7 +1475,7 @@
     "motorcycle": false,
     "municipality": "MILWAUKEE",
     "occupant_protection": false,
-    "on_roadway": "RAMP W SILVER SPRING DR TO TEU",
+    "on_roadway": "RAMP W SILVER SPRING DR TO TEUTO",
     "pedestrian": false,
     "severity": "A",
     "speeding": false,
@@ -1491,8 +1491,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.996533,
-      43.080649
+      -87.99653322,
+      43.080649145
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-03",
@@ -1518,8 +1518,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.965088,
-      43.067905
+      -87.96508842,
+      43.067904525
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-18",
@@ -1545,8 +1545,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -88.007364,
-      43.028659
+      -88.00736416,
+      43.028659127
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-31",
@@ -1572,8 +1572,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.003871,
-      43.089777
+      -88.00387139,
+      43.089777367
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-09",
@@ -1599,8 +1599,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.938247,
-      43.091185
+      -87.93824682,
+      43.091185262
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-23",
@@ -1626,8 +1626,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934131,
-      43.073218
+      -87.93413072,
+      43.073218187
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-24",
@@ -1653,8 +1653,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.927514,
-      42.990955
+      -87.92751374,
+      42.990955239
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-12",
@@ -1680,8 +1680,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.991383,
-      43.104789
+      -87.99138338,
+      43.104789279
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-01",
@@ -1707,8 +1707,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.976622,
-      43.104067
+      -87.97662185,
+      43.104066884
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-05",
@@ -1734,8 +1734,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.974952,
-      43.088726
+      -87.97495183,
+      43.088726065
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-08",
@@ -1761,8 +1761,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.99719,
-      43.090025
+      -87.99718997,
+      43.090025403
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-15",
@@ -1788,8 +1788,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.949124,
-      43.053602
+      -87.94912369,
+      43.05360232
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-25",
@@ -1815,8 +1815,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937605,
-      43.060475
+      -87.93760491,
+      43.060474852
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-09",
@@ -1842,8 +1842,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937566,
-      43.062317
+      -87.93756581,
+      43.062316676
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-15",
@@ -1869,8 +1869,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.004541,
-      43.163296
+      -88.00454099,
+      43.163295679
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-19",
@@ -1896,8 +1896,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.985457,
-      43.148545
+      -87.98545735,
+      43.148545273
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-03",
@@ -1923,8 +1923,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.999028,
-      43.074165
+      -87.9990281,
+      43.074164803
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-28",
@@ -1950,8 +1950,8 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.944945,
-      43.038699
+      -87.94494516,
+      43.038699093
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-10",
@@ -1977,8 +1977,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.940284,
-      43.078098
+      -87.94028416,
+      43.078097757
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-05",
@@ -2004,8 +2004,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.034886,
-      43.10492
+      -88.03488649,
+      43.104919965
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-06",
@@ -2031,8 +2031,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.922533,
-      43.017049
+      -87.92253316,
+      43.017049424
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-10",
@@ -2058,8 +2058,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.904777,
-      43.045741
+      -87.9047767,
+      43.045741412
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-14",
@@ -2085,8 +2085,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.903142,
-      43.042525
+      -87.90314157,
+      43.042524903
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-27",
@@ -2112,8 +2112,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909231,
-      43.039812
+      -87.90923073,
+      43.039812375
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-08",
@@ -2139,8 +2139,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.955238,
-      43.037149
+      -87.95523828,
+      43.037149414
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-24",
@@ -2166,8 +2166,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918376,
-      43.081747
+      -87.91837635,
+      43.081747272
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-05",
@@ -2193,12 +2193,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.927384,
-      43.067661
+      -87.92738356,
+      43.067660822
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-07",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L05KW17M",
     "impaired": false,
     "motorcycle": false,
@@ -2220,12 +2220,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.926786,
-      43.016029
+      -87.92678577,
+      43.01602902
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-25",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L05NC3BV",
     "impaired": false,
     "motorcycle": false,
@@ -2247,12 +2247,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.90178,
-      43.087829
+      -87.90177978,
+      43.087828987
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-30",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L067MM8J",
     "impaired": false,
     "motorcycle": false,
@@ -2274,8 +2274,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.943909,
-      43.09509
+      -87.94390938,
+      43.095089944
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-29",
@@ -2301,8 +2301,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957513,
-      43.061043
+      -87.95751306,
+      43.061042953
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-24",
@@ -2328,8 +2328,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.99405,
-      43.090048
+      -87.99404989,
+      43.090047724
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-20",
@@ -2355,8 +2355,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.94091,
-      43.089678
+      -87.94090954,
+      43.089677595
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-31",
@@ -2382,8 +2382,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.939354,
-      43.093677
+      -87.93935408,
+      43.093677419
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-31",
@@ -2409,8 +2409,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933261,
-      43.088223
+      -87.93326141,
+      43.088222909
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-31",
@@ -2436,8 +2436,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.958644,
-      43.12143
+      -87.95864397,
+      43.121430032
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-28",
@@ -2463,8 +2463,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005275,
-      43.147685
+      -88.00527536,
+      43.147685277
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-05",
@@ -2491,7 +2491,7 @@
     "construction_zone": false,
     "coordinates": [
       -87.995918,
-      43.119486
+      43.11948629
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-02",
@@ -2517,8 +2517,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947508,
-      43.0606
+      -87.94750809,
+      43.060600394
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-29",
@@ -2544,8 +2544,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957409,
-      43.067911
+      -87.95740876,
+      43.067911012
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-06",
@@ -2571,8 +2571,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.976181,
-      43.093496
+      -87.97618124,
+      43.093495677
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-13",
@@ -2598,8 +2598,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.971179,
-      43.085776
+      -87.97117874,
+      43.085776004
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-07",
@@ -2625,8 +2625,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.910774,
-      43.043384
+      -87.91077439,
+      43.043384068
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-04",
@@ -2652,8 +2652,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.893719,
-      43.049714
+      -87.89371885,
+      43.049713936
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-28",
@@ -2679,8 +2679,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.910605,
-      43.042192
+      -87.91060522,
+      43.042192259
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-11",
@@ -2706,8 +2706,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.912697,
-      43.057786
+      -87.91269676,
+      43.057785647
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-14",
@@ -2733,8 +2733,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.915201,
-      43.006524
+      -87.91520106,
+      43.00652405
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-06",
@@ -2760,12 +2760,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92404,
-      43.014142
+      -87.92403967,
+      43.014142168
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-11",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L084FB1J",
     "impaired": false,
     "motorcycle": false,
@@ -2787,8 +2787,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.944991,
-      43.036132
+      -87.94499093,
+      43.036132305
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-17",
@@ -2814,8 +2814,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.899541,
-      43.043887
+      -87.89954118,
+      43.043887146
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-30",
@@ -2841,12 +2841,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.887986,
-      43.066121
+      -87.88798594,
+      43.066120511
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-09",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L086WDFM",
     "impaired": true,
     "motorcycle": false,
@@ -2868,8 +2868,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.927071,
-      43.05249
+      -87.92707108,
+      43.052490139
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-04",
@@ -2895,8 +2895,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.932043,
-      43.009895
+      -87.93204302,
+      43.009895052
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-14",
@@ -2922,8 +2922,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.951202,
-      43.06791
+      -87.95120179,
+      43.067909761
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-13",
@@ -2949,8 +2949,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947288,
-      43.075226
+      -87.94728774,
+      43.075226173
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-15",
@@ -2976,8 +2976,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957553,
-      43.075388
+      -87.95755301,
+      43.075387566
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-27",
@@ -3003,8 +3003,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.976474,
-      43.104679
+      -87.97647374,
+      43.104678862
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-25",
@@ -3030,8 +3030,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.905177,
-      42.972446
+      -87.90517699,
+      42.972445535
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-12",
@@ -3057,12 +3057,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.883476,
-      42.988181
+      -87.88347573,
+      42.988181368
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-27",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0B3P3FK",
     "impaired": false,
     "motorcycle": false,
@@ -3072,7 +3072,7 @@
     "pedestrian": false,
     "severity": "K",
     "speeding": true,
-    "teen_driver": false,
+    "teen_driver": true,
     "total_fatalities": 1,
     "total_injuries": 1,
     "year": 2018
@@ -3084,8 +3084,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957409,
-      43.06787
+      -87.95740928,
+      43.067870486
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-18",
@@ -3111,8 +3111,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947386,
-      43.067913
+      -87.94738622,
+      43.067913385
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-29",
@@ -3138,8 +3138,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.936487,
-      43.052632
+      -87.93648735,
+      43.052631715
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-24",
@@ -3165,8 +3165,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918575,
-      43.052552
+      -87.91857486,
+      43.052551778
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-04",
@@ -3192,8 +3192,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.903113,
-      43.042119
+      -87.90311259,
+      43.042118665
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-03",
@@ -3219,8 +3219,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.96011,
-      43.119188
+      -87.96010981,
+      43.119187647
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-10",
@@ -3246,8 +3246,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.880492,
-      43.061191
+      -87.88049208,
+      43.061191024
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-16",
@@ -3273,8 +3273,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.878023,
-      43.069295
+      -87.87802277,
+      43.06929508
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-08",
@@ -3300,8 +3300,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.90345,
-      43.049358
+      -87.90345047,
+      43.049358368
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-04",
@@ -3327,8 +3327,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.945528,
-      43.102224
+      -87.94552785,
+      43.102224161
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-02",
@@ -3354,8 +3354,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967144,
-      43.087195
+      -87.96714418,
+      43.087195333
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-08",
@@ -3381,8 +3381,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.938853,
-      43.060462
+      -87.93885312,
+      43.06046246
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-03",
@@ -3408,8 +3408,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.948369,
-      42.972532
+      -87.94836924,
+      42.972532481
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-17",
@@ -3435,8 +3435,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.011537,
-      43.134126
+      -88.01153693,
+      43.134126463
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-09",
@@ -3462,12 +3462,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.012384,
-      43.10499
+      -88.01238386,
+      43.10499023
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-10",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0CS9LXB",
     "impaired": true,
     "motorcycle": false,
@@ -3489,8 +3489,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.969542,
-      43.084597
+      -87.96954201,
+      43.084596681
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-16",
@@ -3516,8 +3516,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92778,
-      43.004652
+      -87.92778023,
+      43.004651586
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-08",
@@ -3543,8 +3543,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.884329,
-      43.059503
+      -87.88432911,
+      43.059503201
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-09",
@@ -3570,8 +3570,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909114,
-      43.038575
+      -87.90911387,
+      43.038575123
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-22",
@@ -3597,8 +3597,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.922777,
-      43.043795
+      -87.92277667,
+      43.043795086
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-22",
@@ -3624,8 +3624,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.988026,
-      43.07169
+      -87.98802556,
+      43.071690064
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-09",
@@ -3651,8 +3651,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967543,
-      43.091636
+      -87.96754349,
+      43.091636226
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-21",
@@ -3678,12 +3678,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.027536,
-      43.089769
+      -88.02753618,
+      43.089769331
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-14",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0D942BZ",
     "impaired": true,
     "motorcycle": false,
@@ -3705,8 +3705,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.96653,
-      43.104628
+      -87.9665304,
+      43.104628215
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-20",
@@ -3732,8 +3732,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.904984,
-      43.036343
+      -87.90498369,
+      43.036343051
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-29",
@@ -3759,8 +3759,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966689,
-      43.089727
+      -87.96668876,
+      43.089726989
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-13",
@@ -3786,8 +3786,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.907639,
-      43.076799
+      -87.90763945,
+      43.076798824
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-10",
@@ -3813,8 +3813,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947288,
-      43.075226
+      -87.94728774,
+      43.075226173
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-07",
@@ -3840,8 +3840,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.926854,
-      43.014191
+      -87.92685362,
+      43.014191454
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-25",
@@ -3867,8 +3867,8 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.947883,
-      43.012435
+      -87.94788305,
+      43.012435408
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-11",
@@ -3894,8 +3894,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.946687,
-      43.104497
+      -87.94668746,
+      43.104496951
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -3921,8 +3921,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.939466,
-      43.023711
+      -87.93946637,
+      43.023710867
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-07",
@@ -3948,8 +3948,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933007,
-      43.017654
+      -87.93300666,
+      43.017654081
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-10",
@@ -3975,8 +3975,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957977,
-      43.021595
+      -87.95797663,
+      43.021594686
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-06",
@@ -4002,8 +4002,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.910729,
-      43.040834
+      -87.91072864,
+      43.040834226
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-02",
@@ -4029,8 +4029,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947046,
-      43.088069
+      -87.94704565,
+      43.088069132
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-14",
@@ -4056,8 +4056,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.940098,
-      43.056255
+      -87.94009807,
+      43.056254792
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-20",
@@ -4083,8 +4083,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.922662,
-      43.067584
+      -87.92266223,
+      43.067583589
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-05",
@@ -4110,12 +4110,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.963484,
-      43.060616
+      -87.9634839,
+      43.060615579
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-17",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0FMV8XC",
     "impaired": false,
     "motorcycle": false,
@@ -4137,8 +4137,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.95526,
-      43.052806
+      -87.95525986,
+      43.052806277
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-19",
@@ -4164,8 +4164,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.964059,
-      43.060615
+      -87.96405855,
+      43.060615185
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-04",
@@ -4191,12 +4191,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.007238,
-      43.024912
+      -88.00723767,
+      43.024912366
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-25",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0FMV8ZR",
     "impaired": true,
     "motorcycle": false,
@@ -4218,8 +4218,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.924677,
-      42.959247
+      -87.92467749,
+      42.959246874
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-25",
@@ -4245,8 +4245,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918235,
-      43.023234
+      -87.91823503,
+      43.02323439
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-28",
@@ -4272,8 +4272,8 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.957095,
-      43.089683
+      -87.95709472,
+      43.089682936
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-11",
@@ -4299,8 +4299,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.903543,
-      43.045725
+      -87.90354297,
+      43.045725373
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-09",
@@ -4326,8 +4326,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909789,
-      42.991794
+      -87.9097891,
+      42.991794385
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-17",
@@ -4353,8 +4353,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.007973,
-      42.973762
+      -88.00797255,
+      42.973762173
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-19",
@@ -4380,8 +4380,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.898885,
-      43.037553
+      -87.89888471,
+      43.03755282
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -4407,8 +4407,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.904818,
-      43.089008
+      -87.90481799,
+      43.089008037
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-20",
@@ -4434,8 +4434,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933937,
-      43.048578
+      -87.93393741,
+      43.048577825
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-01",
@@ -4461,8 +4461,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918471,
-      43.014151
+      -87.91847089,
+      43.014150976
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-26",
@@ -4488,8 +4488,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.006039,
-      43.114122
+      -88.00603888,
+      43.114122454
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-09",
@@ -4515,8 +4515,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.871959,
-      43.074627
+      -87.87195947,
+      43.074627322
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-03",
@@ -4542,12 +4542,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.944777,
-      43.111904
+      -87.9447771,
+      43.111904478
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-28",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0H49LVT",
     "impaired": false,
     "motorcycle": false,
@@ -4569,8 +4569,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934831,
-      43.082321
+      -87.93483105,
+      43.082320909
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-26",
@@ -4596,8 +4596,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.995754,
-      43.134051
+      -87.99575371,
+      43.134050912
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-22",
@@ -4623,12 +4623,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.995309,
-      43.079136
+      -87.99530889,
+      43.079136067
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-07",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0HCPTKM",
     "impaired": true,
     "motorcycle": false,
@@ -4650,8 +4650,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.04445,
-      43.162983
+      -88.0444503,
+      43.162983315
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-03",
@@ -4677,8 +4677,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.956567,
-      43.119137
+      -87.95656738,
+      43.119136801
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-12",
@@ -4704,12 +4704,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986732,
-      43.100705
+      -87.98673151,
+      43.100705274
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-18",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0HJN01X",
     "impaired": false,
     "motorcycle": false,
@@ -4731,8 +4731,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.95235,
-      43.130491
+      -87.95234988,
+      43.130491354
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-23",
@@ -4758,8 +4758,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967208,
-      43.083678
+      -87.96720755,
+      43.08367816
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-24",
@@ -4785,8 +4785,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.99848,
-      43.123156
+      -87.99847957,
+      43.123155935
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-17",
@@ -4812,8 +4812,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.956036,
-      43.127822
+      -87.95603628,
+      43.127821561
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-22",
@@ -4839,8 +4839,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928616,
-      42.995859
+      -87.92861552,
+      42.995858917
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-04",
@@ -4866,8 +4866,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.950525,
-      43.118663
+      -87.95052456,
+      43.118662624
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-06",
@@ -4893,8 +4893,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925218,
-      43.017049
+      -87.92521798,
+      43.017049028
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-14",
@@ -4920,8 +4920,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.931942,
-      42.997689
+      -87.93194226,
+      42.997689388
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-26",
@@ -4947,8 +4947,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928567,
-      42.998127
+      -87.92856674,
+      42.998126935
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-02",
@@ -4974,8 +4974,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928012,
-      43.002853
+      -87.92801235,
+      43.002853251
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-14",
@@ -5001,8 +5001,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005962,
-      43.126886
+      -88.00596198,
+      43.126886114
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-26",
@@ -5028,8 +5028,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967633,
-      43.118099
+      -87.96763299,
+      43.118099453
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-30",
@@ -5055,8 +5055,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.007641,
-      42.988277
+      -88.00764085,
+      42.988276684
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-19",
@@ -5082,8 +5082,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.935391,
-      43.007241
+      -87.93539131,
+      43.007240892
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-19",
@@ -5109,8 +5109,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.930292,
-      43.002882
+      -87.93029179,
+      43.002881967
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-26",
@@ -5136,8 +5136,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.916789,
-      43.01416
+      -87.91678869,
+      43.014159961
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-30",
@@ -5163,8 +5163,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.94785,
-      43.014132
+      -87.94784982,
+      43.014132048
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-28",
@@ -5190,12 +5190,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.942392,
-      43.08978
+      -87.94239224,
+      43.089779519
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-06",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0JJ8VNJ",
     "impaired": false,
     "motorcycle": true,
@@ -5217,8 +5217,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.906121,
-      43.074767
+      -87.90612076,
+      43.074766588
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-03",
@@ -5244,8 +5244,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.985067,
-      43.1047
+      -87.98506747,
+      43.104699751
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-30",
@@ -5271,8 +5271,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.959118,
-      42.937635
+      -87.9591175,
+      42.937634933
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-27",
@@ -5298,8 +5298,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.948229,
-      42.988573
+      -87.94822936,
+      42.988572713
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-18",
@@ -5325,8 +5325,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.949323,
-      43.067911
+      -87.94932309,
+      43.067911206
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-22",
@@ -5352,8 +5352,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.91829,
-      42.981744
+      -87.91828988,
+      42.981744305
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-15",
@@ -5380,7 +5380,7 @@
     "construction_zone": false,
     "coordinates": [
       -88.007555,
-      43.1197
+      43.119699893
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-07",
@@ -5406,8 +5406,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.929193,
-      42.961952
+      -87.92919338,
+      42.961951614
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-10",
@@ -5433,8 +5433,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.997845,
-      42.981382
+      -87.99784498,
+      42.981381662
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-12",
@@ -5460,8 +5460,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.983773,
-      42.966643
+      -87.98377273,
+      42.966642634
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-17",
@@ -5487,8 +5487,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.988041,
-      43.071703
+      -87.98804057,
+      43.071702823
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-07",
@@ -5514,8 +5514,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928521,
-      43.000302
+      -87.92852085,
+      43.000301519
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-01",
@@ -5541,8 +5541,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957745,
-      43.008462
+      -87.95774524,
+      43.008462072
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-01",
@@ -5568,8 +5568,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.950847,
-      43.087281
+      -87.95084671,
+      43.087280581
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-02",
@@ -5595,12 +5595,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.965449,
-      43.084327
+      -87.96544908,
+      43.084326896
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-19",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0KFFP67",
     "impaired": false,
     "motorcycle": false,
@@ -5622,8 +5622,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.007251,
-      43.075331
+      -88.00725086,
+      43.075330894
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-26",
@@ -5649,8 +5649,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966746,
-      43.104629
+      -87.96674627,
+      43.104628674
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-05",
@@ -5676,12 +5676,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.940651,
-      43.009656
+      -87.94065051,
+      43.009655786
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-23",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0KHWRC1",
     "impaired": false,
     "motorcycle": true,
@@ -5691,7 +5691,7 @@
     "pedestrian": false,
     "severity": "A",
     "speeding": true,
-    "teen_driver": false,
+    "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2018
@@ -5703,8 +5703,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909691,
-      43.034839
+      -87.90969071,
+      43.034839485
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-27",
@@ -5730,8 +5730,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937366,
-      43.075078
+      -87.93736574,
+      43.075078257
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-18",
@@ -5757,8 +5757,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.024727,
-      43.159381
+      -88.02472746,
+      43.159381132
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-26",
@@ -5784,8 +5784,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.979402,
-      43.141254
+      -87.97940165,
+      43.14125388
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-23",
@@ -5811,8 +5811,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.912603,
-      43.021151
+      -87.91260287,
+      43.021151094
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-26",
@@ -5838,8 +5838,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.973588,
-      43.10465
+      -87.97358833,
+      43.104649763
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-02",
@@ -5865,8 +5865,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925348,
-      43.018076
+      -87.9253485,
+      43.018075775
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-05",
@@ -5892,8 +5892,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.025772,
-      43.123091
+      -88.02577151,
+      43.123090695
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-21",
@@ -5919,12 +5919,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947859,
-      43.025744
+      -87.94785932,
+      43.02574388
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-31",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0L9CH0X",
     "impaired": false,
     "motorcycle": true,
@@ -5946,8 +5946,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.913045,
-      43.037378
+      -87.91304523,
+      43.037377683
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-08",
@@ -5973,12 +5973,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.90984,
-      43.011073
+      -87.90983969,
+      43.011072675
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-25",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0L9CH3V",
     "impaired": false,
     "motorcycle": false,
@@ -6000,8 +6000,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937605,
-      43.060475
+      -87.93760491,
+      43.060474852
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-29",
@@ -6027,8 +6027,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.003288,
-      43.090007
+      -88.00328822,
+      43.090006724
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-30",
@@ -6054,8 +6054,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.948121,
-      42.986674
+      -87.94812121,
+      42.98667355
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-21",
@@ -6081,8 +6081,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.025757,
-      43.112332
+      -88.02575702,
+      43.112331551
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-28",
@@ -6108,8 +6108,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.905225,
-      43.074761
+      -87.90522465,
+      43.074760718
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-11",
@@ -6135,8 +6135,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.909413,
-      42.988154
+      -87.90941264,
+      42.988153817
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-05",
@@ -6162,8 +6162,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.02768,
-      43.085023
+      -88.02767996,
+      43.085023076
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-29",
@@ -6190,7 +6190,7 @@
     "construction_zone": false,
     "coordinates": [
       -87.971233,
-      43.111976
+      43.111975888
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-07",
@@ -6216,8 +6216,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.938628,
-      42.984132
+      -87.93862817,
+      42.984131731
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-26",
@@ -6243,8 +6243,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005727,
-      43.148725
+      -88.00572729,
+      43.148724562
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-17",
@@ -6270,8 +6270,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.922958,
-      43.017049
+      -87.92295841,
+      43.017048848
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-29",
@@ -6297,8 +6297,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.945024,
-      43.06547
+      -87.94502399,
+      43.065470246
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-11",
@@ -6324,8 +6324,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.95402,
-      43.054252
+      -87.95402048,
+      43.054251852
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-19",
@@ -6351,8 +6351,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.969056,
-      43.067915
+      -87.96905628,
+      43.067915361
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-10",
@@ -6378,8 +6378,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.945859,
-      43.102954
+      -87.94585886,
+      43.102953584
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-21",
@@ -6405,8 +6405,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.979875,
-      43.092583
+      -87.97987472,
+      43.092583295
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-05",
@@ -6432,8 +6432,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.015929,
-      43.110495
+      -88.01592877,
+      43.110494647
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-26",
@@ -6459,8 +6459,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966407,
-      43.111964
+      -87.96640654,
+      43.111963697
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-07",
@@ -6486,8 +6486,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.971292,
-      43.059817
+      -87.97129213,
+      43.059817044
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-04",
@@ -6513,8 +6513,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.948029,
-      43.067913
+      -87.94802948,
+      43.06791256
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-17",
@@ -6540,8 +6540,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.921522,
-      43.060304
+      -87.92152202,
+      43.060303832
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-29",
@@ -6567,8 +6567,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.929945,
-      42.930266
+      -87.92994494,
+      42.93026634
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-07",
@@ -6594,8 +6594,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947317,
-      43.067287
+      -87.94731699,
+      43.06728746
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-26",
@@ -6621,8 +6621,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.946366,
-      43.08979
+      -87.94636641,
+      43.089789942
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-10",
@@ -6649,7 +6649,7 @@
     "construction_zone": false,
     "coordinates": [
       -87.933197,
-      43.071272
+      43.071272381
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-14",
@@ -6675,8 +6675,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.92709,
-      43.089444
+      -87.9270899,
+      43.089443711
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-01",
@@ -6702,8 +6702,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.980972,
-      42.973093
+      -87.98097164,
+      42.973093225
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -6729,8 +6729,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.935879,
-      43.089631
+      -87.93587945,
+      43.089630552
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-10",
@@ -6756,8 +6756,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9158,
-      43.078267
+      -87.91579999,
+      43.078267275
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-30",
@@ -6783,8 +6783,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928612,
-      42.995525
+      -87.92861231,
+      42.995525137
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-25",
@@ -6810,8 +6810,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.948758,
-      43.068479
+      -87.94875757,
+      43.068479434
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-05",
@@ -6837,8 +6837,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947,
-      43.089879
+      -87.94699982,
+      43.089879489
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-01",
@@ -6864,8 +6864,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.944122,
-      43.064755
+      -87.94412154,
+      43.064754708
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-28",
@@ -6891,8 +6891,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.995535,
-      43.095451
+      -87.99553491,
+      43.095451233
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-25",
@@ -6918,8 +6918,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.898036,
-      43.056164
+      -87.89803599,
+      43.056163688
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-05",
@@ -6945,8 +6945,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.987221,
-      43.079232
+      -87.98722072,
+      43.079232182
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-22",
@@ -6972,8 +6972,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.997653,
-      43.089879
+      -87.99765293,
+      43.089878954
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-04",
@@ -6999,8 +6999,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.995118,
-      43.104768
+      -87.99511801,
+      43.104767843
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-25",
@@ -7026,8 +7026,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.982158,
-      43.066813
+      -87.98215794,
+      43.066813012
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-03",
@@ -7053,8 +7053,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947363,
-      43.069622
+      -87.9473629,
+      43.069622291
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-31",
@@ -7080,8 +7080,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.914019,
-      43.071125
+      -87.91401894,
+      43.071124872
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-03",
@@ -7107,8 +7107,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.936088,
-      43.084555
+      -87.93608819,
+      43.084555475
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-17",
@@ -7134,12 +7134,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937273,
-      43.089529
+      -87.93727348,
+      43.089528568
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-13",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0TVJ8W7",
     "impaired": false,
     "motorcycle": false,
@@ -7161,8 +7161,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.921403,
-      43.071192
+      -87.92140302,
+      43.071191722
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-11",
@@ -7188,8 +7188,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.914118,
-      43.069383
+      -87.91411754,
+      43.069382845
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-20",
@@ -7215,8 +7215,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.973072,
-      43.08115
+      -87.97307224,
+      43.081150275
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-10",
@@ -7242,8 +7242,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.937729,
-      43.051374
+      -87.93772948,
+      43.051374361
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-10",
@@ -7269,8 +7269,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933431,
-      43.081552
+      -87.93343119,
+      43.081551941
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-27",
@@ -7296,8 +7296,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.959343,
-      42.994054
+      -87.95934316,
+      42.994054199
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-22",
@@ -7323,8 +7323,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.999484,
-      42.979037
+      -87.99948432,
+      42.979037255
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-01",
@@ -7377,8 +7377,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.981714,
-      43.119334
+      -87.9817138,
+      43.119334191
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-28",
@@ -7404,8 +7404,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.965231,
-      43.154932
+      -87.96523126,
+      43.154932289
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-25",
@@ -7431,8 +7431,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.959278,
-      43.14124
+      -87.95927836,
+      43.141239844
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-13",
@@ -7446,7 +7446,7 @@
     "pedestrian": false,
     "severity": "A",
     "speeding": true,
-    "teen_driver": false,
+    "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 2,
     "year": 2018
@@ -7458,8 +7458,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986056,
-      43.121356
+      -87.9860557,
+      43.121355537
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-26",
@@ -7485,8 +7485,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.004222,
-      43.184397
+      -88.00422244,
+      43.184396547
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -7512,8 +7512,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.023542,
-      43.163183
+      -88.02354204,
+      43.163183055
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-18",
@@ -7539,8 +7539,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.975951,
-      43.141266
+      -87.97595086,
+      43.141266494
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-02",
@@ -7566,8 +7566,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.045093,
-      43.148421
+      -88.04509315,
+      43.148421273
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-05",
@@ -7593,8 +7593,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.938136,
-      43.014529
+      -87.93813624,
+      43.014529229
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-25",
@@ -7620,8 +7620,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.917863,
-      43.01705
+      -87.91786329,
+      43.017049599
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-20",
@@ -7647,12 +7647,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.932987,
-      43.0302
+      -87.93298689,
+      43.0302002
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-02",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L0ZCGFC0",
     "impaired": true,
     "motorcycle": false,
@@ -7674,8 +7674,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.959,
-      43.008228
+      -87.95900031,
+      43.00822778
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-27",
@@ -7701,8 +7701,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.003682,
-      43.111514
+      -88.00368179,
+      43.111513699
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-19",
@@ -7728,8 +7728,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966714,
-      43.103762
+      -87.96671379,
+      43.103762201
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-13",
@@ -7755,8 +7755,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.984164,
-      43.096204
+      -87.98416358,
+      43.096203893
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-25",
@@ -7782,8 +7782,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.003432,
-      43.089849
+      -88.00343198,
+      43.089849157
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-30",
@@ -7809,8 +7809,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.998911,
-      43.074104
+      -87.99891125,
+      43.074103954
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-27",
@@ -7836,8 +7836,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.93297,
-      43.033241
+      -87.93296951,
+      43.033240532
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-29",
@@ -7863,8 +7863,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.037393,
-      43.130084
+      -88.03739261,
+      43.13008417
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-17",
@@ -7890,8 +7890,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.039682,
-      43.104857
+      -88.03968188,
+      43.104856996
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-20",
@@ -7917,8 +7917,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005872,
-      43.135765
+      -88.00587153,
+      43.135765434
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -7949,7 +7949,7 @@
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-18",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L113B02P",
     "impaired": true,
     "motorcycle": false,
@@ -7971,8 +7971,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.935026,
-      43.066274
+      -87.93502647,
+      43.066273612
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-15",
@@ -7998,8 +7998,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.94099,
-      43.067724
+      -87.94098987,
+      43.067723704
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-21",
@@ -8025,8 +8025,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.932008,
-      43.002914
+      -87.93200787,
+      43.002914079
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-04",
@@ -8052,8 +8052,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.922208,
-      42.988165
+      -87.92220828,
+      42.988165406
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-24",
@@ -8079,8 +8079,8 @@
     "bike": false,
     "construction_zone": true,
     "coordinates": [
-      -87.957675,
-      43.038865
+      -87.95767543,
+      43.03886464
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-25",
@@ -8106,8 +8106,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986816,
-      43.089041
+      -87.98681595,
+      43.089041211
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-19",
@@ -8133,8 +8133,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.95819,
-      43.100313
+      -87.95818956,
+      43.10031325
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-31",
@@ -8160,8 +8160,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928961,
-      43.100356
+      -87.92896063,
+      43.100355958
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-24",
@@ -8187,8 +8187,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.963484,
-      43.060616
+      -87.9634839,
+      43.060615579
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-08",
@@ -8214,8 +8214,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.004548,
-      43.169612
+      -88.00454834,
+      43.169612025
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-05",
@@ -8241,8 +8241,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.002916,
-      43.088606
+      -88.00291595,
+      43.088606124
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-06",
@@ -8268,8 +8268,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9591,
-      43.11193
+      -87.95909993,
+      43.1119296
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-30",
@@ -8295,8 +8295,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.972365,
-      43.071589
+      -87.97236471,
+      43.071589469
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-16",
@@ -8322,8 +8322,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966104,
-      43.127956
+      -87.96610351,
+      43.12795563
     ],
     "county": "MILWAUKEE",
     "date": "2018-06-14",
@@ -8349,8 +8349,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933995,
-      43.044246
+      -87.93399523,
+      43.04424598
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-16",
@@ -8376,8 +8376,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.939468,
-      43.023266
+      -87.93946753,
+      43.023265752
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-02",
@@ -8403,8 +8403,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.954614,
-      43.089845
+      -87.9546143,
+      43.089845419
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-30",
@@ -8430,8 +8430,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.897407,
-      43.042693
+      -87.89740703,
+      43.042692933
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-18",
@@ -8457,8 +8457,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.985773,
-      43.036516
+      -87.98577331,
+      43.036515852
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-29",
@@ -8484,8 +8484,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.916939,
-      43.004015
+      -87.91693873,
+      43.004014924
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-26",
@@ -8511,8 +8511,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.932568,
-      43.000867
+      -87.93256819,
+      43.000867412
     ],
     "county": "MILWAUKEE",
     "date": "2018-02-14",
@@ -8538,8 +8538,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.941515,
-      43.016008
+      -87.94151462,
+      43.016007516
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-14",
@@ -8565,8 +8565,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918589,
-      43.010761
+      -87.91858946,
+      43.010760908
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-31",
@@ -8592,8 +8592,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928469,
-      43.002745
+      -87.92846947,
+      43.002745206
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-04",
@@ -8619,8 +8619,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.933919,
-      43.059428
+      -87.93391871,
+      43.059427753
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-10",
@@ -8646,8 +8646,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.9387,
-      43.089362
+      -87.93869976,
+      43.089361861
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-20",
@@ -8673,8 +8673,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918852,
-      43.042946
+      -87.91885201,
+      43.042945791
     ],
     "county": "MILWAUKEE",
     "date": "2018-01-01",
@@ -8700,8 +8700,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.88667,
-      43.071016
+      -87.8866702,
+      43.071015876
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-20",
@@ -8727,12 +8727,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.911059,
-      43.045835
+      -87.9110589,
+      43.045834915
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-07",
-    "distracted": true,
+    "distracted": false,
     "id": "J9L16ZV8XV",
     "impaired": true,
     "motorcycle": false,
@@ -8754,8 +8754,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.918852,
-      43.042946
+      -87.91885201,
+      43.042945791
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-22",
@@ -8781,8 +8781,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.916023,
-      43.034661
+      -87.9160228,
+      43.034661407
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-15",
@@ -8808,8 +8808,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.890305,
-      43.05958
+      -87.89030494,
+      43.059579846
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-02",
@@ -8835,8 +8835,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.967295,
-      43.078886
+      -87.96729453,
+      43.078886064
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-17",
@@ -8862,8 +8862,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.969476,
-      43.084588
+      -87.96947619,
+      43.084587795
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-09",
@@ -8889,8 +8889,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986742,
-      43.090045
+      -87.98674152,
+      43.090044526
     ],
     "county": "MILWAUKEE",
     "date": "2018-03-16",
@@ -8916,8 +8916,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.94976,
-      43.110663
+      -87.94975977,
+      43.110663419
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-13",
@@ -8943,8 +8943,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.013203,
-      43.106848
+      -88.01320312,
+      43.106847842
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-28",
@@ -8970,8 +8970,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.989533,
-      43.090064
+      -87.98953324,
+      43.090064363
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-16",
@@ -8997,8 +8997,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.968215,
-      43.033475
+      -87.96821469,
+      43.033475017
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-02",
@@ -9024,8 +9024,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957648,
-      43.048729
+      -87.95764789,
+      43.048728551
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-21",
@@ -9051,8 +9051,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.902885,
-      43.017058
+      -87.90288548,
+      43.017057535
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-31",
@@ -9078,12 +9078,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.926958,
-      43.038587
+      -87.92695769,
+      43.038587005
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-15",
-    "distracted": true,
+    "distracted": false,
     "id": "LRL0XZ428T",
     "impaired": false,
     "motorcycle": false,
@@ -9105,8 +9105,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934042,
-      43.043556
+      -87.93404153,
+      43.04355637
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-02",
@@ -9132,8 +9132,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.942881,
-      43.040238
+      -87.94288061,
+      43.040237957
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-28",
@@ -9159,8 +9159,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.932955,
-      43.038102
+      -87.9329549,
+      43.038101727
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-11",
@@ -9186,12 +9186,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.925085,
-      43.038723
+      -87.92508491,
+      43.038722952
     ],
     "county": "MILWAUKEE",
     "date": "2018-09-22",
-    "distracted": true,
+    "distracted": false,
     "id": "LRL13DG274",
     "impaired": false,
     "motorcycle": false,
@@ -9213,8 +9213,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.934188,
-      43.037423
+      -87.9341882,
+      43.037423279
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-06",
@@ -9240,8 +9240,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.015576,
-      43.155957
+      -88.01557623,
+      43.155957479
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-26",
@@ -9267,8 +9267,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.891214,
-      43.055789
+      -87.89121376,
+      43.055789289
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-04",
@@ -9294,8 +9294,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.887998,
-      43.065259
+      -87.88799817,
+      43.065259113
     ],
     "county": "MILWAUKEE",
     "date": "2018-04-25",
@@ -9321,12 +9321,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986494,
-      43.104615
+      -87.98649428,
+      43.104614941
     ],
     "county": "MILWAUKEE",
     "date": "2018-12-12",
-    "distracted": true,
+    "distracted": false,
     "id": "M5L04TNCFR",
     "impaired": true,
     "motorcycle": false,
@@ -9348,8 +9348,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.96611,
-      43.127676
+      -87.96610953,
+      43.127676341
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-21",
@@ -9375,8 +9375,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.938163,
-      43.004806
+      -87.93816342,
+      43.004806151
     ],
     "county": "MILWAUKEE",
     "date": "2018-05-24",
@@ -9402,8 +9402,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.965077,
-      43.103697
+      -87.96507696,
+      43.103697236
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-04",
@@ -9429,12 +9429,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.886063,
-      43.053494
+      -87.88606285,
+      43.053494469
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-04",
-    "distracted": true,
+    "distracted": false,
     "id": "M5L08M7RBV",
     "impaired": true,
     "motorcycle": false,
@@ -9456,8 +9456,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.928176,
-      43.014235
+      -87.92817613,
+      43.014234765
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-31",
@@ -9483,8 +9483,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.985864,
-      43.036517
+      -87.98586414,
+      43.036516694
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-29",
@@ -9510,8 +9510,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.966256,
-      43.089734
+      -87.96625588,
+      43.089733976
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-11",
@@ -9537,8 +9537,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.947719,
-      43.039009
+      -87.94771857,
+      43.0390093
     ],
     "county": "MILWAUKEE",
     "date": "2018-08-29",
@@ -9564,8 +9564,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.924108,
-      43.060364
+      -87.92410838,
+      43.060364019
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-27",
@@ -9591,8 +9591,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.986123,
-      43.119328
+      -87.98612341,
+      43.119327996
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-30",
@@ -9618,8 +9618,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.96153,
-      43.104607
+      -87.96153019,
+      43.104607309
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-02",
@@ -9645,12 +9645,12 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.044427,
-      43.164256
+      -88.04442659,
+      43.164256025
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-27",
-    "distracted": true,
+    "distracted": false,
     "id": "M5L145WRB1",
     "impaired": false,
     "motorcycle": false,
@@ -9672,8 +9672,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -88.005114,
-      43.119802
+      -88.00511443,
+      43.119802083
     ],
     "county": "MILWAUKEE",
     "date": "2018-07-25",
@@ -9699,8 +9699,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.957338,
-      43.098447
+      -87.95733793,
+      43.098447235
     ],
     "county": "MILWAUKEE",
     "date": "2018-11-15",
@@ -9726,8 +9726,8 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
-      -87.962534,
-      43.079117
+      -87.9625344,
+      43.079117039
     ],
     "county": "MILWAUKEE",
     "date": "2018-10-26",
