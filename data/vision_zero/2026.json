@@ -272,6 +272,33 @@
   {
     "65+_driver": false,
     "alder_district": 8,
+    "at_roadway": "S 29TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95075243,
+      42.988542776
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-28",
+    "distracted": false,
+    "id": "J9L1GX4FF6",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W OKLAHOMA AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 8,
     "at_roadway": "S 33RD ST",
     "bike": false,
     "construction_zone": false,
