@@ -460,6 +460,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "038",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90949112,
+      42.98244744
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-22",
+    "distracted": false,
+    "id": "J9L1NLHJZ2",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E HOLT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E HAMPSHIRE ST",
     "bike": false,
