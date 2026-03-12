@@ -271,6 +271,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W KLEIN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9294526,
+      42.941994034
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-02-27",
+    "distracted": false,
+    "id": "J9L1FQBC92",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "N 73RD ST",
     "bike": false,
