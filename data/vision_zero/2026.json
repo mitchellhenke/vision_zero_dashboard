@@ -433,6 +433,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 11TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92573897,
+      43.060377278
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-07",
+    "distracted": false,
+    "id": "J9L1JH1TT3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 5,
     "at_roadway": "W GLENDALE AVE",
     "bike": false,
