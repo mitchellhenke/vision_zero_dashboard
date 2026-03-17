@@ -487,6 +487,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 19TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93451152,
+      43.089609829
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-01-27",
+    "distracted": false,
+    "id": "J9L1NK8HN4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "190",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "W JUNEAU AVE",
     "bike": false,
