@@ -81,6 +81,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 13,
+    "at_roadway": "S 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93838808,
+      42.962315301
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-13",
+    "distracted": false,
+    "id": "1ML1NJ1GHS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FLORIST AVE",
