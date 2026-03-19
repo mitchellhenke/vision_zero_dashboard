@@ -163,6 +163,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N WATER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91040353,
+      43.042269406
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-06",
+    "distracted": false,
+    "id": "J9L1CMCGM1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E KILBOURN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "W ASH ST",
     "bike": false,
@@ -267,6 +294,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 11,
+    "at_roadway": "W MORGAN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00779965,
+      42.981256481
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-09",
+    "distracted": false,
+    "id": "J9L1F2KRHJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "U",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2026
   },
   {
