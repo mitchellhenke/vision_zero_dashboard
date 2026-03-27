@@ -433,6 +433,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W BEETHOVEN PL",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96692746,
+      43.097874466
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-16",
+    "distracted": false,
+    "id": "J9L1GGK1DH",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "018 N MILWAUKEE ST",
     "bike": false,
