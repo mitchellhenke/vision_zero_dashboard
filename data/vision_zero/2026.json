@@ -702,6 +702,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 15,
+    "at_roadway": "145 W FOND DU LAC AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94739258,
+      43.067458196
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-22",
+    "distracted": false,
+    "id": "J9L1L9CGKK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N TEUTONIA AVE",
@@ -807,6 +834,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 4,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N TEUTONIA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94994113,
+      43.1118459
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-22",
+    "distracted": false,
+    "id": "J9L1NK8HP8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W VILLARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
