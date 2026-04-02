@@ -1,6 +1,33 @@
 [
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W CUSTER AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96660497,
+      43.116189064
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-25",
+    "distracted": false,
+    "id": "06L1ZV8VNG",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W VILLARD AVE",
     "bike": false,
