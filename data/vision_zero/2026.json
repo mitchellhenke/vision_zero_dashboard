@@ -190,6 +190,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W STATE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97353626,
+      43.043916356
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-19",
+    "distracted": false,
+    "id": "1ML1TNC3F5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "W FLORIST AVE",
     "bike": false,
@@ -294,6 +321,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "175",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99227585,
+      43.075402623
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-27",
+    "distracted": false,
+    "id": "J9L1D1PTMJ",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BURLEIGH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2026
   },
   {
@@ -726,6 +780,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 107TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04578298,
+      43.119367828
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-20",
+    "distracted": false,
+    "id": "J9L1K13B27",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E W SILVER SPRING DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2026
   },
   {
