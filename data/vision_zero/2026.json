@@ -838,6 +838,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 16TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93345765,
+      43.002938163
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-12",
+    "distracted": false,
+    "id": "J9L1LM7RD8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LINCOLN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N TEUTONIA AVE",
     "bike": false,
