@@ -378,6 +378,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "N 107TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.04562377,
+      43.119371376
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-02",
+    "distracted": false,
+    "id": "J9L1DRXHM5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E W SILVER SPRING DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 11,
     "at_roadway": "W MORGAN AVE",
