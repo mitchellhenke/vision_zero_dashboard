@@ -190,6 +190,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W LAYTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9334264,
+      42.958133232
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-23",
+    "distracted": false,
+    "id": "1ML1T80Q7D",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W STATE ST",
     "bike": false,
@@ -1968,6 +1995,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": true,
+    "alder_district": 7,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95735587,
+      43.0715597
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-15",
+    "distracted": false,
+    "id": "J9L2TM428T",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 35TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
