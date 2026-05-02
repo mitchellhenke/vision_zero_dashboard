@@ -892,6 +892,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "E KILBOURN AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91044048,
+      43.042234092
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-03-28",
+    "distracted": false,
+    "id": "J9L1KLCTS7",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N WATER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "E HOLT AVE",
     "bike": false,
