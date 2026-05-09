@@ -433,6 +433,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W AUER AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96732341,
+      43.077287066
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-17",
+    "distracted": false,
+    "id": "J9L1CNLHZP",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "175",
     "bike": false,
@@ -2292,6 +2319,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "EE W HAMPTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.05281096,
+      43.10488139
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-25",
+    "distracted": false,
+    "id": "J9L2VB3P74",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "100",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 5,
     "year": 2026
   },
   {
