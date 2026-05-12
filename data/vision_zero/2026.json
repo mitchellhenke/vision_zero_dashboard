@@ -864,6 +864,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N SHERMAN BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96757025,
+      43.060598038
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-23",
+    "distracted": false,
+    "id": "J9L1J8VN5K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W NORTH AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 1,
     "at_roadway": "W ORIOLE DR",
