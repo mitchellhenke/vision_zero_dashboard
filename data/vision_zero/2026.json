@@ -865,6 +865,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S UNION ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93489999,
+      43.017037979
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-02",
+    "distracted": false,
+    "id": "J9L1HWRB7C",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GREENFIELD AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "N SHERMAN BLVD",
     "bike": false,
@@ -1212,6 +1239,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N TEUTONIA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95661359,
+      43.148516645
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-02",
+    "distracted": false,
+    "id": "J9L1N8M7Z6",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "PP W GOOD HOPE RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2026
   },
   {
