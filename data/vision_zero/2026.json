@@ -2403,6 +2403,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N VEL R PHILLIPS AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91601473,
+      43.038776977
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-05",
+    "distracted": false,
+    "id": "J9L2SVWDK1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WISCONSIN AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 7,
     "at_roadway": "W LOCUST ST",
