@@ -82,6 +82,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "E MENOMONEE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90743679,
+      43.031017227
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-14",
+    "distracted": false,
+    "id": "06L28JRP7H",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E ERIE ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 37TH ST",
     "bike": false,
