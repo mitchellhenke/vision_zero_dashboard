@@ -2323,6 +2323,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 43RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96618246,
+      43.119291012
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-11",
+    "distracted": false,
+    "id": "J9L2RP3BJV",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W SILVER SPRING DR",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "057",
     "bike": false,
