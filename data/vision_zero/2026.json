@@ -298,6 +298,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 14,
+    "at_roadway": "S LINCOLN MEMORIAL DR",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89538855,
+      43.014857915
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-07",
+    "distracted": false,
+    "id": "1ML1T6RP4F",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "794",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 13,
     "at_roadway": "W LAYTON AVE",
     "bike": false,
