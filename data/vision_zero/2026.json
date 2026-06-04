@@ -1404,6 +1404,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 13,
+    "at_roadway": "W ARMOUR AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92919855,
+      42.961120113
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-22",
+    "distracted": false,
+    "id": "J9L1L5NC7Q",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 15,
     "at_roadway": "145 W FOND DU LAC AVE",
