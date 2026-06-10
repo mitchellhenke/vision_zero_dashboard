@@ -568,6 +568,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W GREENFIELD AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91668407,
+      43.01772171
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-05-23",
+    "distracted": false,
+    "id": "1ML1TBGSFN",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "W STATE ST",
     "bike": false,
