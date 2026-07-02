@@ -2538,6 +2538,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 14,
+    "at_roadway": "E PRYOR AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89422394,
+      42.994911715
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-04-30",
+    "distracted": false,
+    "id": "J9L1R2KRHC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S CLEMENT AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 15,
     "at_roadway": "N 47TH ST",
