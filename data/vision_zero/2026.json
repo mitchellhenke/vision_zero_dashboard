@@ -2133,6 +2133,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 1,
+    "at_roadway": "057",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93119145,
+      43.104314193
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-01",
+    "distracted": false,
+    "id": "J9L1N0004J",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "057",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N TEUTONIA AVE",
