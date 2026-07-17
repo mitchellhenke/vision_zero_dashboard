@@ -163,6 +163,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "175",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00987573,
+      43.097164968
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-03",
+    "distracted": false,
+    "id": "06L28BLHV0",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "175",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "E MENOMONEE ST",
     "bike": false,
@@ -292,6 +319,33 @@
     "severity": "K",
     "speeding": false,
     "teen_driver": true,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N BOOTH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90402487,
+      43.071128584
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-04",
+    "distracted": false,
+    "id": "06L2ZLVN03",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "E LOCUST ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
     "year": 2026
@@ -2187,7 +2241,7 @@
     "year": 2026
   },
   {
-    "65+_driver": false,
+    "65+_driver": true,
     "alder_district": 1,
     "at_roadway": "057",
     "bike": false,
@@ -2208,7 +2262,7 @@
     "pedestrian": false,
     "severity": "A",
     "speeding": false,
-    "teen_driver": false,
+    "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
     "year": 2026
@@ -3106,6 +3160,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W WALNUT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92841408,
+      43.052634464
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-04",
+    "distracted": false,
+    "id": "J9L1T97RK1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "145 W FOND DU LAC AVE",
     "bike": false,
@@ -3507,6 +3588,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 40TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96369171,
+      43.130779456
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-06-29",
+    "distracted": false,
+    "id": "J9L2R1BQJ2",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W DOUGLAS AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
     "year": 2026
   },
   {
