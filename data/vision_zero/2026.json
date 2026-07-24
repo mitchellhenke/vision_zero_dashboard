@@ -244,6 +244,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W VIENNA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93679388,
+      43.085809234
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-12",
+    "distracted": false,
+    "id": "06L2J2PGFC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 2,
+    "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 37TH ST",
     "bike": false,
