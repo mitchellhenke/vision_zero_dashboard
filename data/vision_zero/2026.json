@@ -839,6 +839,33 @@
   {
     "65+_driver": false,
     "alder_district": 10,
+    "at_roadway": "041",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03470708,
+      43.029649203
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-15",
+    "distracted": false,
+    "id": "1ML1THDXWJ",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "041",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
     "at_roadway": "W STATE ST",
     "bike": false,
     "construction_zone": false,
