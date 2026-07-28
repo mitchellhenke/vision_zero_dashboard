@@ -3079,6 +3079,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "N BEALE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03550327,
+      43.136205081
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-03",
+    "distracted": false,
+    "id": "J9L1RP3B1F",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 9,
     "at_roadway": "N 58TH ST",
     "bike": false,
