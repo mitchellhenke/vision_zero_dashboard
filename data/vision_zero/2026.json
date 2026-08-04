@@ -2484,6 +2484,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W AUER AVE",
+    "bike": true,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97716204,
+      43.077104052
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-08",
+    "distracted": false,
+    "id": "J9L1LWW17D",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 51ST BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 13,
     "at_roadway": "W ARMOUR AVE",
@@ -4668,6 +4695,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "E FLORIDA ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91104249,
+      43.027318332
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-20",
+    "distracted": false,
+    "id": "J9L2SVWDKW",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "032",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
