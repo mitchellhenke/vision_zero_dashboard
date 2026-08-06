@@ -3268,6 +3268,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W RUBY AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94455185,
+      43.100446757
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-19",
+    "distracted": false,
+    "id": "J9L1R68VSP",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 3,
     "at_roadway": "E NEWBERRY BLVD",
     "bike": false,
@@ -4965,6 +4992,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W NASH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93595734,
+      43.0843223
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-22",
+    "distracted": false,
+    "id": "J9L2V3XHP7",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2026
   },
   {
