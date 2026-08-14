@@ -4375,6 +4375,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "W BURNHAM ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94792491,
+      43.010330113
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-04",
+    "distracted": false,
+    "id": "J9L2RB00HC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "LAYTON BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "S CLEMENT AVE",
     "bike": false,
