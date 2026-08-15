@@ -411,6 +411,33 @@
     "bike": false,
     "construction_zone": false,
     "coordinates": [
+      -87.92543219,
+      43.012293351
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-27",
+    "distracted": false,
+    "id": "06L2ZPBQ6P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W HISTORIC MITCHELL ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "S 11TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
       -87.92590536,
       43.017048276
     ],
