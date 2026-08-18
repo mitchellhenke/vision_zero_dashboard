@@ -4483,6 +4483,33 @@
   },
   {
     "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "W RUBY AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00689971,
+      43.099171986
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-10",
+    "distracted": false,
+    "id": "J9L2RJ564K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "181",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": true,
     "alder_district": 9,
     "at_roadway": "N 82ND ST",
     "bike": false,
