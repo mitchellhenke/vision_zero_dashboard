@@ -4456,6 +4456,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W ROGERS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92827352,
+      43.007522079
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-04",
+    "distracted": false,
+    "id": "J9L2RB00HB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 13TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "W BURNHAM ST",
     "bike": false,
