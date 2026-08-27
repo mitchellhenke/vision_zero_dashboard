@@ -4510,6 +4510,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 49TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97383661,
+      43.11090555
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-07-19",
+    "distracted": false,
+    "id": "J9L2R2KRRM",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W EGGERT PL",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "N 60TH ST",
     "bike": false,
