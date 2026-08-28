@@ -5239,6 +5239,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "N 28TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94862402,
+      43.068460595
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-09",
+    "distracted": false,
+    "id": "J9L2T1TK0W",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "094",
     "bike": false,
