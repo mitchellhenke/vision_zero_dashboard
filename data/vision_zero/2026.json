@@ -406,6 +406,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N COMMERCE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.89550722,
+      43.060176544
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-07",
+    "distracted": false,
+    "id": "06L2ZLVN04",
+    "impaired": true,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E NORTH AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 11TH ST",
     "bike": false,
