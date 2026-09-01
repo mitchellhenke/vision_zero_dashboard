@@ -1027,6 +1027,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E LAFAYETTE HILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88418727,
+      43.053667268
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-24",
+    "distracted": false,
+    "id": "1ML1TBGSGK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N LINCOLN MEMORIAL DR",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 10,
     "at_roadway": "041",
     "bike": false,
@@ -4938,6 +4965,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N FRATNEY ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90193823,
+      43.071123145
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-17",
+    "distracted": false,
+    "id": "J9L2S26N4K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "E LOCUST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2026
   },
   {
