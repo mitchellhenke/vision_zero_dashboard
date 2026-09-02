@@ -4780,6 +4780,33 @@
   },
   {
     "65+_driver": true,
+    "alder_district": 5,
+    "at_roadway": "N BEALE ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.03597612,
+      43.136568289
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-15",
+    "distracted": false,
+    "id": "J9L2RJ564N",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": true,
     "alder_district": 9,
     "at_roadway": "N 82ND ST",
     "bike": false,
@@ -5478,6 +5505,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "057 N 20TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93736544,
+      43.075093174
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-19",
+    "distracted": false,
+    "id": "J9L2TWRB7S",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W BURLEIGH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2026
   },
   {
