@@ -4537,6 +4537,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 69TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99894499,
+      43.1193292
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-18",
+    "distracted": false,
+    "id": "J9L2R1BQJW",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W SILVER SPRING SERVICE DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 1,
     "at_roadway": "N 19TH PL",
     "bike": false,
