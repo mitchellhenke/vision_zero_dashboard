@@ -1999,6 +1999,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W WALNUT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93389151,
+      43.053557929
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-22",
+    "distracted": false,
+    "id": "J9L1HJN07V",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 17TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W TOWNSEND ST",
     "bike": false,
@@ -4641,6 +4668,33 @@
     "teen_driver": false,
     "total_fatalities": 1,
     "total_injuries": 0,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "W PITTSBURGH AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91101876,
+      43.029366351
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-22",
+    "distracted": false,
+    "id": "J9L2R7HX1F",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "032",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
