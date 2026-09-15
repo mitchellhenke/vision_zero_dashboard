@@ -972,6 +972,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E RAVINE RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.86782831,
+      43.068297772
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-07",
+    "distracted": false,
+    "id": "1ML1STNC48",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N LINCOLN MEMORIAL DR",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 5,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 4,
     "at_roadway": "043",
