@@ -3889,6 +3889,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "W FLORIST AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96613138,
+      43.12666156
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-03",
+    "distracted": false,
+    "id": "J9L1RXHJT3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N SHERMAN BLVD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 8,
     "at_roadway": "S 37TH ST",
     "bike": false,
@@ -4914,6 +4941,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 11,
+    "at_roadway": "241 S 27TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94838121,
+      42.984946937
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-14",
+    "distracted": false,
+    "id": "J9L2R2KRSH",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "241",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "N 60TH ST",
@@ -5730,8 +5784,8 @@
     "bike": true,
     "construction_zone": false,
     "coordinates": [
-      -87.90452282,
-      43.042625858
+      -87.90448948,
+      43.042627866
     ],
     "county": "MILWAUKEE",
     "date": "2026-07-19",
