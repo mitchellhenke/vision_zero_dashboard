@@ -513,6 +513,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 1,
+    "at_roadway": "W RUBY AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94456926,
+      43.100480617
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-07",
+    "distracted": false,
+    "id": "06L2ZV8VN5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N TEUTONIA AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 4,
     "at_roadway": "N 16TH ST",
@@ -537,6 +564,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "094",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97878293,
+      43.030888914
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-16",
+    "distracted": false,
+    "id": "1ML1JN001T",
+    "impaired": true,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "094",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
@@ -4938,6 +4992,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 4,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 7,
+    "at_roadway": "W CHAMBERS ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96986905,
+      43.074208078
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-23",
+    "distracted": false,
+    "id": "J9L2R2KRS1",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 45TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
