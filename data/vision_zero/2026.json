@@ -3024,6 +3024,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "S 43RD ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96788498,
+      42.988952981
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-24",
+    "distracted": false,
+    "id": "J9L1LVN050",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "024",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W AUER AVE",
@@ -6072,6 +6099,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "145",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9188142,
+      43.046993814
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-13",
+    "distracted": false,
+    "id": "J9L2SVWDLB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 3,
     "year": 2026
   },
   {
