@@ -2538,6 +2538,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 9,
+    "at_roadway": "S W MILL RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98621364,
+      43.133938664
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-07",
+    "distracted": false,
+    "id": "J9L1JCBQJC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 60TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 1,
     "at_roadway": "W ORIOLE DR",
@@ -5829,6 +5856,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N BARTLETT AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88915572,
+      43.071096578
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-21",
+    "distracted": false,
+    "id": "J9L2S26N4W",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "E LOCUST ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
