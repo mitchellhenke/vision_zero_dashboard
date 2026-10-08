@@ -6426,6 +6426,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 8,
+    "at_roadway": "059 W NATIONAL AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95776338,
+      43.021609282
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-27",
+    "distracted": false,
+    "id": "J9L2TJN05K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "S 35TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 7,
     "at_roadway": "W LOCUST ST",
