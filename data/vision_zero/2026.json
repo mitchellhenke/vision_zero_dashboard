@@ -460,6 +460,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "W LOCUST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93743081,
+      43.07145148
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-12",
+    "distracted": false,
+    "id": "06L2ZLVN05",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "057 N 20TH ST",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 11TH ST",
     "bike": false,
@@ -4398,6 +4425,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "EE W HAMPTON AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02763649,
+      43.104956197
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-22",
+    "distracted": false,
+    "id": "J9L1SSFB2N",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 92ND ST",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2026
   },
   {
