@@ -5915,6 +5915,33 @@
   {
     "65+_driver": false,
     "alder_district": 9,
+    "at_roadway": "W DEAN RD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00465074,
+      43.170373967
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-31",
+    "distracted": false,
+    "id": "J9L2RP3BLH",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "181 N 76TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 9,
     "at_roadway": "N 91ST ST",
     "bike": false,
     "construction_zone": false,
