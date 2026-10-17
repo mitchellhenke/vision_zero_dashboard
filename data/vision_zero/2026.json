@@ -1053,6 +1053,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 91ST ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02512933,
+      43.129898023
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-09-29",
+    "distracted": false,
+    "id": "1ML1NJ1GL3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 FOND DU LAC AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 4,
     "at_roadway": "794",
@@ -2373,6 +2400,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W CENTER ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.9473863,
+      43.067907611
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-03",
+    "distracted": false,
+    "id": "J9L1HCPTPF",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 27TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 5,
     "year": 2026
   },
   {
