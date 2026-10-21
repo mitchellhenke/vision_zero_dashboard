@@ -3025,6 +3025,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 10,
+    "at_roadway": "W NASH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.98959479,
+      43.08485761
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-03",
+    "distracted": false,
+    "id": "J9L1LCTJS3",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 62ND ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "S 16TH ST",
     "bike": false,
