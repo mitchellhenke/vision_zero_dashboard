@@ -1189,6 +1189,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W WRIGHT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92081267,
+      43.062114827
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-07",
+    "distracted": false,
+    "id": "1ML1NQ6N5Z",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "043",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "038",
     "bike": false,
