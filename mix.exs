@@ -21,8 +21,8 @@ defmodule VisionZeroDashboard.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:httpoison, "~> 2.0"},
-      {:geo, "~> 3.5"},
+      {:finch, "~> 0.19"},
+      {:geo, "~> 4.0"},
       {:topo, "~> 1.0"},
       {:nimble_csv, "~> 1.1"}
     ]

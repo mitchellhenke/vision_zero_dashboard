@@ -21,7 +21,8 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
       |> JSON.decode!()
       |> Geo.JSON.decode!()
 
-    HTTPoison.start()
+    {:ok, _} = Application.ensure_all_started(:finch)
+    {:ok, _} = Finch.start_link(name: __MODULE__.Finch)
 
     Enum.map(years, fn year ->
       data =
@@ -169,15 +170,17 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
         "text" => text
       })
 
-    {:ok, %{status_code: 200}} =
-      HTTPoison.post(
+    {:ok, %Finch.Response{status: 200}} =
+      Finch.build(
+        :post,
         "https://api.mailgun.net/v3/betterstreetsmke.com/messages",
-        req_body,
         [
           {"Content-Type", "application/x-www-form-urlencoded"},
           {"Authorization", "Basic #{auth}"}
-        ]
+        ],
+        req_body
       )
+      |> Finch.request(__MODULE__.Finch)
   end
 
   def get_data(year) do
@@ -185,7 +188,11 @@ defmodule Mix.Tasks.VisionZeroDashboard.DownloadData do
       "https://transportal.cee.wisc.edu/partners/community-maps/crash/public/crashesKML.do?filetype=json&startyear=#{year}&endyear=#{year}&county=milwaukee&injsvr=O&injsvr=K&injsvr=A&injsvr=B&injsvr=C"
 
     Logger.info("Requesting: #{url}")
-    resp = HTTPoison.get!(url, [], recv_timeout: 90_000)
+
+    resp =
+      Finch.build(:get, url)
+      |> Finch.request!(__MODULE__.Finch, receive_timeout: 90_000)
+
     JSON.decode!(resp.body)
   end
 end
