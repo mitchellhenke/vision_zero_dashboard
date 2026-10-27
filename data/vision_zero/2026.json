@@ -1917,6 +1917,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 13,
+    "at_roadway": "W OHIO AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94816348,
+      42.985010752
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-07",
+    "distracted": false,
+    "id": "J9L1DG26X1",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "241 S 27TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "E WATERFORD AVE",
@@ -2184,6 +2211,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 19TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.93402206,
+      43.10817655
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-07",
+    "distracted": false,
+    "id": "J9L1FQBCB8",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FAIRMOUNT AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
@@ -2940,6 +2994,33 @@
     "teen_driver": true,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "E VIENNA AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.90489952,
+      43.086200409
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-16",
+    "distracted": false,
+    "id": "J9L1K61GTC",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N HOLTON ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2026
   },
   {
@@ -6936,6 +7017,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 37TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95908322,
+      43.11192949
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-20",
+    "distracted": false,
+    "id": "J9L2TNC3KS",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W VILLARD AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
     "year": 2026
   },
   {
