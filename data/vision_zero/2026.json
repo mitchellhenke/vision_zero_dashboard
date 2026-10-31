@@ -5131,6 +5131,33 @@
   },
   {
     "65+_driver": true,
+    "alder_district": 2,
+    "at_roadway": "N STRATHMORE AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.99618041,
+      43.115205751
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-13",
+    "distracted": false,
+    "id": "J9L1V7MLWB",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N 68TH ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": true,
     "alder_district": 3,
     "at_roadway": "E NEWPORT AVE",
     "bike": false,
@@ -7449,6 +7476,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 4,
+    "at_roadway": "N 11TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92627043,
+      43.040230733
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-20",
+    "distracted": false,
+    "id": "LRL10XCTLJ",
+    "impaired": false,
+    "motorcycle": true,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W WELLS ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
