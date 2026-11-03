@@ -5456,6 +5456,33 @@
   {
     "65+_driver": false,
     "alder_district": 15,
+    "at_roadway": "W HADLEY ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.95738332,
+      43.069704182
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-17",
+    "distracted": false,
+    "id": "J9L2QDT5S5",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "N 35TH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 4,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
     "at_roadway": "W OAK ST",
     "bike": false,
     "construction_zone": false,
