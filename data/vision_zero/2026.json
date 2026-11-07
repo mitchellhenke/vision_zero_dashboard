@@ -1864,6 +1864,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": null,
+    "at_roadway": "N 51ST BLVD",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.97534079,
+      43.148577242
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-15",
+    "distracted": false,
+    "id": "J9L1CVRPDK",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "PP W GOOD HOPE RD",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 7,
     "at_roadway": "W DERBY PL",
     "bike": false,
