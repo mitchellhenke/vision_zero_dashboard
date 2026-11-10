@@ -1702,6 +1702,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "N OAKLAND AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88823042,
+      43.07103648
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-31",
+    "distracted": false,
+    "id": "FGL0JSX4FH",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "E LOCUST ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 12,
     "at_roadway": "E MITCHELL ST",
     "bike": false,
@@ -1968,6 +1995,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 15,
+    "at_roadway": "W WALNUT ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.92839269,
+      43.052533601
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-26",
+    "distracted": false,
+    "id": "J9L1D1PTR4",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "145 W FOND DU LAC AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
     "year": 2026
   },
   {
@@ -7341,6 +7395,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 3,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 12,
+    "at_roadway": "038",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91895014,
+      43.017048383
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-15",
+    "distracted": false,
+    "id": "J9L2TJN05P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W GREENFIELD AVE",
+    "pedestrian": true,
+    "severity": "K",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 0,
     "year": 2026
   },
   {
