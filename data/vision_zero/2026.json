@@ -2161,6 +2161,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 2,
+    "at_roadway": "N 72ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.00256624,
+      43.104946712
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-31",
+    "distracted": false,
+    "id": "J9L1DJJ93R",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "EE W HAMPTON AVE",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 5,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 14,
     "at_roadway": "E WATERFORD AVE",
     "bike": false,
@@ -5019,6 +5046,33 @@
     "teen_driver": false,
     "total_fatalities": 0,
     "total_injuries": 2,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 1,
+    "at_roadway": "N 46TH ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.96987889,
+      43.108300953
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-20",
+    "distracted": false,
+    "id": "J9L1SFB027",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W FAIRMOUNT AVE",
+    "pedestrian": false,
+    "severity": "K",
+    "speeding": true,
+    "teen_driver": false,
+    "total_fatalities": 1,
+    "total_injuries": 1,
     "year": 2026
   },
   {
