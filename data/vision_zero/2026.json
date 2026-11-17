@@ -5968,6 +5968,33 @@
   },
   {
     "65+_driver": false,
+    "alder_district": 6,
+    "at_roadway": "N DR WILLIAM FINLAYSON ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.91696677,
+      43.071096672
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-08-21",
+    "distracted": false,
+    "id": "J9L2QH982K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W LOCUST ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": true,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
     "alder_district": 2,
     "at_roadway": "N 68TH ST",
     "bike": false,
