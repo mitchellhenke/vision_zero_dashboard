@@ -3888,6 +3888,33 @@
     "year": 2026
   },
   {
+    "65+_driver": false,
+    "alder_district": 3,
+    "at_roadway": "E THOMAS AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.88557812,
+      43.061360459
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-11-05",
+    "distracted": false,
+    "id": "J9L1MT1TPP",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "N MURRAY AVE",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
     "65+_driver": true,
     "alder_district": 1,
     "at_roadway": "057",
