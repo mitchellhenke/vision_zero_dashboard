@@ -3051,6 +3051,33 @@
     "year": 2026
   },
   {
+    "65+_driver": true,
+    "alder_district": 8,
+    "at_roadway": "S MUSKEGO AVE",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -87.94231391,
+      43.006680795
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-10-31",
+    "distracted": false,
+    "id": "J9L1HWRB8K",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": false,
+    "on_roadway": "W BECHER ST",
+    "pedestrian": false,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
+    "total_injuries": 2,
+    "year": 2026
+  },
+  {
     "65+_driver": false,
     "alder_district": 6,
     "at_roadway": "E ABERT PL",
@@ -4505,6 +4532,33 @@
     "speeding": false,
     "teen_driver": true,
     "total_fatalities": 1,
+    "total_injuries": 1,
+    "year": 2026
+  },
+  {
+    "65+_driver": false,
+    "alder_district": 5,
+    "at_roadway": "N 92ND ST",
+    "bike": false,
+    "construction_zone": false,
+    "coordinates": [
+      -88.02743655,
+      43.075057936
+    ],
+    "county": "MILWAUKEE",
+    "date": "2026-11-02",
+    "distracted": false,
+    "id": "J9L1PF695P",
+    "impaired": false,
+    "motorcycle": false,
+    "municipality": "MILWAUKEE",
+    "occupant_protection": true,
+    "on_roadway": "W BURLEIGH ST",
+    "pedestrian": true,
+    "severity": "A",
+    "speeding": false,
+    "teen_driver": false,
+    "total_fatalities": 0,
     "total_injuries": 1,
     "year": 2026
   },
